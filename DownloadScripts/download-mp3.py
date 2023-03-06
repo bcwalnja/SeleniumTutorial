@@ -60,10 +60,14 @@ videoUrlBase = "https://www.youtube.com/watch?v="
 enter = u'\ue007'
 html = ""
 videos = []
-wait = 31
+wait = 15
 
 options = Options()
 options.page_load_strategy = 'normal'
+options.add_experimental_option("prefs", { "profile.default_content_settings.popups": 0,\
+                                           "download.default_directory":r"C:\Users\nathaniel\Downloads\Music\Casting Crowns",\
+                                           "download.prompt_for_download": False,\
+                                           "download.directory_upgrade": True })
 driver = webdriver.Chrome(options=options)
 driver.implicitly_wait(wait)
 
@@ -92,11 +96,11 @@ log("Number of videos in playlist: " + str(count))
 driver.get(url)
 
 try:
-    i = 29
+    i = 0
     for video in videos:
         log("Cycle " + str(i))
-        i += 1
         inputVideoUrl(videoUrlBase, enter, driver, i)
+        i += 1
         #if the error button is found, click it and continue to the next loop
         try:
             ifErrorClickBack(driver)
@@ -117,5 +121,7 @@ try:
 except Exception as e:
     log("Error on cycle " + str(i))
     print(e)
+finally:
+    log("Closing driver")
     driver.quit()
     exit()
