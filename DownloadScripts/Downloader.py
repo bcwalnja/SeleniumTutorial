@@ -23,22 +23,6 @@ def clickDownload(driver):
     log("Download button found, clicking download")
     downloadButton.click()
 
-def closeIfPopUp(driver):
-    #the expected page title is "YtMp3  YouTube to MP3 Converter"
-    log("Checking if popup")
-    #while window handles is greater than 1, close the popup
-    while len(driver.window_handles) > 1:
-        log("Popup detected, closing popup " + driver.window_handles[1].title)
-        driver.switch_to.window(driver.window_handles[1])
-        driver.close()
-        driver.switch_to.window(driver.window_handles[0])
-
-def clickConvertNext(driver):
-    log("Trying to find convert next button")
-    convertNextButton = driver.find_element(By.LINK_TEXT, "Convert next")
-    log("Convert next button found, clicking convert next")
-    convertNextButton.click()
-
 def openNewDriverAndDownload(url, video, wait = 15, directory = r"C:\Users\nathaniel\Downloads", headless = False):
     try:
         driver = getDriver(wait, directory, headless)
