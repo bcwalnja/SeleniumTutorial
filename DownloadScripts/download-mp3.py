@@ -57,6 +57,7 @@ def log(m):
 #declarations
 url = "https://ytmp3.nu/7/youtube-to-mp3"
 videoUrlBase = "https://www.youtube.com/watch?v="
+directory = r"C:\Users\nathaniel\Downloads\Music\Beethoven Piano Sonatas"
 enter = u'\ue007'
 html = ""
 videos = []
@@ -65,7 +66,7 @@ wait = 15
 options = Options()
 options.page_load_strategy = 'normal'
 options.add_experimental_option("prefs", { "profile.default_content_settings.popups": 0,\
-                                           "download.default_directory":r"C:\Users\nathaniel\Downloads\Music\Casting Crowns",\
+                                           "download.default_directory":directory,\
                                            "download.prompt_for_download": False,\
                                            "download.directory_upgrade": True })
 driver = webdriver.Chrome(options=options)
