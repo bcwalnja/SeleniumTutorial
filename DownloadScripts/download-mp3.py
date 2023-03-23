@@ -13,7 +13,7 @@ def inputVideoUrl(playlistUrlWithoutIndex, enter, driver, i):
     log("Trying to url text edit")
     urlInput = driver.find_element(By.ID, "url")
     videoUrl = playlistUrlWithoutIndex + videos[i]
-    log("Url text edit found, inputting url {}".format(videoUrl)) 
+    log("Url text edit found, inputting url {}".format(videoUrl))
     urlInput.send_keys(videoUrl)
     urlInput.send_keys(enter)
 
@@ -50,7 +50,6 @@ def clickConvertNext(driver):
     convertNextButton = driver.find_element(By.LINK_TEXT, "Convert next")
     log("Convert next button found, clicking convert next")
     convertNextButton.click()
-
 
 
 #####################
