@@ -16,10 +16,11 @@ html = ""
 videos = []
 wait = 15
 directory = r"C:\Users\nathaniel\Downloads\Music\Beethoven Piano Sonatas"
+headless = False
 
 try:
-    driver = getDriver(wait, directory)
-
+    #if user inputs "y", add headless option
+    driver = getDriver(wait, directory, True)
     html = getHtml()
     if html == "":
         # use the code in ScrapeLinks.py to get the video ids
@@ -42,12 +43,8 @@ try:
         exit()
 
     log("Number of videos in playlist: " + str(count))
+    headless = input("Headless? (y/n): ") == "y"
 
-    #check how many files are already in the download directory
-    #use the number of files to set the starting index
-
-    driver.get(url)
-    
     try:
         #index starts at the number of files in the download directory, so skip downloading them again
         i = len(listdir(directory))
@@ -55,7 +52,7 @@ try:
             try:
                 log("Cycle {} of {}".format(i + 1, count))
                 #use Process to start openNewDriverAndDownload(url, video) in a new process
-                p = Process(target=openNewDriverAndDownload, args=(url, video, wait, directory))
+                p = Process(target=openNewDriverAndDownload, args=(url, video, wait, directory, headless))
                 p.start()
                 p.join()
                 i += 1

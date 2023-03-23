@@ -2,13 +2,13 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from Logger import log
 
-def getDriver(wait = 15, directory = r"C:\Users\nathaniel\Downloads"):
+def getDriver(wait = 15, directory = r"C:\Users\nathaniel\Downloads", headless = False):
     log("Building driver options")
     options = Options()
     options.page_load_strategy = 'normal'
 
     #if user inputs "y", add headless option
-    if input("Headless? (y/n): ") == "y":
+    if headless:
         log("** ADDING HEADLESS **")
         options.add_argument('headless')
 
