@@ -18,63 +18,69 @@ wait = 15
 directory = r"C:\Users\nathaniel\Downloads\Music\Beethoven Piano Sonatas"
 headless = False
 
-try:
-    #if user inputs "y", add headless option
-    driver = getDriver(wait, directory, True)
-    html = getHtml()
-    if html == "":
-        # use the code in ScrapeLinks.py to get the video ids
-        playlistUrl = input("Paste the youtube playlist url here: ")
+if __name__ == "__main__":
+    try:
+        
+
+        #if user inputs "y", add headless option
+        driver = getDriver(wait, directory, True)
+        html = getHtml()
+        if html == "":
+            # use the code in ScrapeLinks.py to get the video ids
+            playlistUrl = input("Paste the youtube playlist url here: ")
+
+            try:
+                driver.get(playlistUrl)
+                html = driver.page_source
+            except Exception as e:
+                errorMessage = "An error of type {} occurred.".format(type(e).__name__)
+                html = input("That didn't work. {} \nPlease paste in the html: ".format(errorMessage))
+
+        videos = getVideoIds(html)
+
+        count = len(videos)
+
+        #if count is 0, print "no videos in playlist" and exit
+        if count == 0:
+            log("No videos in playlist")
+            exit()
+
+        log("Number of videos in playlist: " + str(count))
+        headless = input("Headless? (y/n): ") == "y"
 
         try:
-            driver.get(playlistUrl)
-            html = driver.page_source
-        except Exception as e:
-            errorMessage = "An error of type {} occurred.".format(type(e).__name__)
-            html = input("That didn't work. {} \nPlease paste in the html: ".format(errorMessage))
-
-    videos = getVideoIds(html)
-
-    count = len(videos)
-
-    #if count is 0, print "no videos in playlist" and exit
-    if count == 0:
-        log("No videos in playlist")
-        exit()
-
-    log("Number of videos in playlist: " + str(count))
-    headless = input("Headless? (y/n): ") == "y"
-
-    try:
-        #index starts at the number of files in the download directory, so skip downloading them again
-        i = len(listdir(directory))
-        for video in videos:
-            try:
-                log("Cycle {} of {}".format(i + 1, count))
-                #use Process to start openNewDriverAndDownload(url, video) in a new process
-                p = Process(target=openNewDriverAndDownload, args=(url, video, wait, directory, headless))
+            #index starts at the number of files in the download directory, so skip downloading them again
+            i = len(listdir(directory))
+            processes = []
+            for video in videos:
+                try:
+                    log("Cycle {} of {}".format(i + 1, count))
+                    #use Process to start openNewDriverAndDownload(url, video) in a new process
+                    p = Process(target=openNewDriverAndDownload, args=(url, video, wait, directory, headless))
+                    processes.append(p)
+                    i += 1
+                except KeyboardInterrupt:
+                    log("Program has been interrupted.")
+                    exit()
+                except:
+                    continue
+            for p in processes:
                 p.start()
                 p.join()
-                i += 1
-            except KeyboardInterrupt:
-                log("Program has been interrupted.")
-                exit()
-            except:
-                continue
-        log("Program has completed successfully.")
-    #except keyboard interrupt, print "program has been interrupted"
+            log("Program has completed successfully.")
+        #except keyboard interrupt, print "program has been interrupted"
+        except Exception as e:
+            print(e)
+            log("Program has failed. Error on cycle " + str(i))
+
+    except KeyboardInterrupt:
+        log("Program has been interrupted.")
     except Exception as e:
         print(e)
-        log("Program has failed. Error on cycle " + str(i))
-
-except KeyboardInterrupt:
-    log("Program has been interrupted.")
-except Exception as e:
-    print(e)
-    log("Program has failed.")
-finally:
-    log("Closing driver and exiting.")
-    #if the driver is not null or closed, close it
-    if driver is not None:
-        driver.quit()
-    exit()
+        log("Program has failed.")
+    finally:
+        log("Closing driver and exiting.")
+        #if the driver is not null or closed, close it
+        if driver is not None:
+            driver.quit()
+        exit()
