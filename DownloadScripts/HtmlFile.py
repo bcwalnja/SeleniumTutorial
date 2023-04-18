@@ -1,2668 +1,647 @@
 def getHtml():
     return """
-<div id="contents" class="style-scope ytd-playlist-video-list-renderer"><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">1</yt-formatted-string>
+<div class="v7W49e" eid="n_8-ZLjCKoGf5NoPouaEgA0" data-async-context="query:casting%20crowns%20site%3Ayoutube.com" id="rso"><div class="MjjYud"><div><h2 class="Uo8X3b OhScic zsYMMe">Web results</h2><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAYQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=g8sazOiolF8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgGEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3Dg8sazOiolF8&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgGEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Desert Road (Official Music Video) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium" loaded=""><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=o5dL-65mKe0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=1">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" src="https://i.ytimg.com/vi/o5dL-65mKe0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;rs=AOn4CLCCuCF4dNqO1JmzhNvAiCIXs0cwCQ"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="49 minutes, 23 seconds">
-  49:23
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.1 in F Minor, Op.2 No.1 (Kovacevich, Lewis, Buchbinder) by Ashish Xiangyi Kumar 5 years ago 49 minutes 1,886,170 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=o5dL-65mKe0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=1" title="Beethoven: Sonata No.1 in F Minor, Op.2 No.1 (Kovacevich, Lewis, Buchbinder)">
-          Beethoven: Sonata No.1 in F Minor, Op.2 No.1 (Kovacevich, Lewis, Buchbinder)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">1.8M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw4s cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIBhAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIBhAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=g8sazOiolF8" aria-label="Casting Crowns - Desert Road (Official Music Video), YouTube CastingCrownsVEVO. 3 minutes, 37 seconds. Feb 6, 2023." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgGEAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3Dg8sazOiolF8&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgGEAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_1" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="1" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRvtD-us4-1BrPBWddV09rzWNnpReqTG4sZLA" id="_n_8-ZLjCKoGf5NoPouaEgA0_28" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAYQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIBhAO"><video src="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRvtD-us4-1BrPBWddV09rzWNnpReqTG4sZLA" class="DqfBw" preload="none" muted="" playsinline="" webkit-playsinline="" loop="" style="object-fit: cover; opacity: 0.001;"></video></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 37 seconds">3:37</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Listen to the lyric video for “Desert Road”! Check out our new album "Healer (Deluxe): https://<b>CastingCrowns</b>.lnk.to/HealerDeluxe Listen to&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Feb 6, 2023</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+
 </div>
 
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">2</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium" loaded=""><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=3asWeutbY0c&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=2">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" src="https://i.ytimg.com/vi/3asWeutbY0c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;rs=AOn4CLAdARg0bl3pxXIP6Zqiq6f4Nhb7uA"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="52 minutes, 14 seconds">
-  52:14
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.3 in C Major, Op.2 No.3 (Jumppanen, Biret) by Ashish Xiangyi Kumar 5 years ago 52 minutes 936,424 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=3asWeutbY0c&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=2" title="Beethoven: Sonata No.3 in C Major, Op.2 No.3 (Jumppanen, Biret)">
-          Beethoven: Sonata No.3 in C Major, Op.2 No.3 (Jumppanen, Biret)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">936K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_1'];_setImagesSrc(ii,s);})();</script><style>.ddAJ2e.w2wy2{background-color:rgba(0,0,0,.54);border-radius:4px;top:8px;right:8px;left:unset;bottom:unset;width:18px;height:18px;display:flex;align-items:center;justify-content:center}.BQavlc{background-color:rgba(0,0,0,.54);border-radius:4px;color:#fff;height:14px;line-height:14px;padding:2px;position:absolute;width:14px;}.BQavlc.w2wy2{top:8px;right:8px}.BQavlc.w2wy2 svg{transform:rotate(45deg)}.R4Cuhd.w2wy2{height:18px}.lR1utd.w2wy2{margin-bottom:8px}@keyframes qli-container-rotate {from{transform:rotate(0)}to{transform:rotate(360deg)}}@keyframes qli-fill-unfill-rotate {0%{transform:rotate(0)}12.5%{transform:rotate(135deg)}25%{transform:rotate(270deg)}37.5%{transform:rotate(405deg)}50%{transform:rotate(540deg)}62.5%{transform:rotate(675deg)}75%{transform:rotate(810deg)}87.5%{transform:rotate(945deg)}100%{transform:rotate(1080deg)}}@keyframes qli-blue-fade-in-out {0%{opacity:0.99}25%{opacity:0.99}26%{opacity:0}89%{opacity:0}90%{opacity:0.99}100%{opacity:0.99}}@keyframes qli-red-fade-in-out {0%{opacity:0}15%{opacity:0}25%{opacity:0.99}50%{opacity:0.99}51%{opacity:0}}@keyframes qli-yellow-fade-in-out {0%{opacity:0}40%{opacity:0}50%{opacity:0.99}75%{opacity:0.99}76%{opacity:0}}@keyframes qli-green-fade-in-out {0%{opacity:0}65%{opacity:0}75%{opacity:0.99}90%{opacity:0.99}100%{opacity:0}}@keyframes qli-left-spin {0%{transform:rotate(130deg)}50%{transform:rotate(-5deg)}100%{transform:rotate(130deg)}}@keyframes qli-right-spin {0%{transform:rotate(-130deg)}50%{transform:rotate(5deg)}100%{transform:rotate(-130deg)}}.sjVJQd{font-family:Google Sans,Roboto-medium,arial,sans-serif-medium,sans-serif;font-size:14px;font-weight:400;line-height:20px}sentinel{}.pb3iw{font-family:Google Sans,Roboto,arial,sans-serif;font-size:18px;font-weight:400;line-height:24px}sentinel{}.X3BRhe{margin-left:auto;margin-right:auto}sentinel{}</style><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAkQAA"><div><div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="fcb78127" data-eiv="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=MgpaULjZOl8" data-tpvid="" data-vid="MgpaULjZOl8" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;"><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=MgpaULjZOl8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgJEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMgpaULjZOl8&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgJEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Praise You In This Storm (Live from YouTube Space New York)</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">3</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium" loaded=""><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=lLf3k5ez-l0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=3">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" src="https://i.ytimg.com/vi/lLf3k5ez-l0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;rs=AOn4CLAO8wu1EG55bpICyxrztsLX42F95g"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="59 minutes, 45 seconds">
-  59:45
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.4 in Eb Major, Op.7 (Korstick, Lewis) by Ashish Xiangyi Kumar 5 years ago 59 minutes 684,224 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=lLf3k5ez-l0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=3" title="Beethoven: Sonata No.4 in Eb Major, Op.7 (Korstick, Lewis)">
-          Beethoven: Sonata No.4 in Eb Major, Op.7 (Korstick, Lewis)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw44 cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQICRAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQICRAL"></span></div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">684K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">4</yt-formatted-string>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:fcb78127,vid:MgpaULjZOl8" aria-label="Casting Crowns - Praise You In This Storm (Live from ..., YouTube Casting Crowns. 5 minutes, 52 seconds. Sep 10, 2019." data-vll="" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ-JQHegQICRAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_7" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="1" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9y6vqPz1p37PJ6dvrMaBbuJByV1_z1ZqepQ" id="_n_8-ZLjCKoGf5NoPouaEgA0_34" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAkQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQICRAO"><video src="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS9y6vqPz1p37PJ6dvrMaBbuJByV1_z1ZqepQ" class="DqfBw" preload="none" muted="" playsinline="" webkit-playsinline="" loop="" style="object-fit: cover; opacity: 0.001;"></video></div>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium" loaded=""><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=GuMzYleEPRE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=4">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" src="https://i.ytimg.com/vi/GuMzYleEPRE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;rs=AOn4CLAy2Bf6s9BFjimR5bRK7xpgIKbOJw"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="52 minutes, 44 seconds">
-  52:44
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.5 in C Minor, Op.10 No.1 (Jumppanen, Jando, Korstick) by Ashish Xiangyi Kumar 5 years ago 52 minutes 938,578 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=GuMzYleEPRE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=4" title="Beethoven: Sonata No.5 in C Minor, Op.10 No.1 (Jumppanen, Jando, Korstick)">
-          Beethoven: Sonata No.5 in C Minor, Op.10 No.1 (Jumppanen, Jando, Korstick)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="5 minutes, 52 seconds">5:52</div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">938K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
+</span></div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
+</a><div class="mSA5Bd"><div class="Uroaid"><b>Casting Crowns</b> performs Praise You In This Storm live from the YouTube studio space in New York! Click to watch the new music video for&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Casting Crowns</span> · <span><span>Sep 10, 2019</span></span></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">5</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium" loaded=""><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=FjmzBuRnIHk&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=5">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded" src="https://i.ytimg.com/vi/FjmzBuRnIHk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&amp;rs=AOn4CLCb4T_KkHDk4W58jXJD0b7w1R1PHw"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="28 minutes, 28 seconds">
-  28:28
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.6 in F Major, Op.10 No.2 (Lortie, Jando) by Ashish Xiangyi Kumar 5 years ago 28 minutes 686,531 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=FjmzBuRnIHk&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=5" title="Beethoven: Sonata No.6 in F Major, Op.10 No.2 (Lortie, Jando)">
-          Beethoven: Sonata No.6 in F Major, Op.10 No.2 (Lortie, Jando)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
+<div class="WKugpe"></div>
 </div>
-</tp-yt-paper-tooltip>
+<div style="display:none" id="evlb_3"><div jsname="av05vb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9pQHegQICRAR"><div jsname="faGZad" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ95QHegQICRAS"></div>
+<div jsname="JJkIve"><div><div jsname="YbJRL" class="F9x6yb" aria-label="Casting Crowns - Praise You In This Storm (Live from ..., YouTube, Casting Crowns"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div>
+<div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Casting Crowns</div>
+<div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Sep 10, 2019</div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">686K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">6</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=9KilNvMTNTI&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=6">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="47 minutes, 35 seconds">
-  47:35
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.7 in D Major, Op.10 No.3 (Lortie, Jando) by Ashish Xiangyi Kumar 5 years ago 47 minutes 835,534 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=9KilNvMTNTI&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=6" title="Beethoven: Sonata No.7 in D Major, Op.10 No.3 (Lortie, Jando)">
-          Beethoven: Sonata No.7 in D Major, Op.10 No.3 (Lortie, Jando)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
+<div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=MgpaULjZOl8" aria-label="Casting Crowns - Praise You In This Storm (Live from ..., YouTube, Casting Crowns" jsaction="trigger.sCcL9b" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQICRAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMgpaULjZOl8&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQICRAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Casting Crowns - Praise You In This Storm (Live from ...</h1></div>
+<div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Casting Crowns</span><span class="X6jxid">·</span><span>Sep 10, 2019</span></div>
+</a></div>
 </div>
-</tp-yt-paper-tooltip>
+<div jsname="N4J2sf"><div></div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">835K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
+<div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOUXg4X3J1OU9ra21URmNvRkhxcTFBMGRieVdOcXY2OUJGeVR4b2VlZ0t2cWZxNllOTEkzUkZDZ0pibER5aG5GRU1PcHoycW45akM4aF9XTEhjMlc2UmJLQ3BsZXo1bkdxVld3RTN0UzNPUWplN2VOMTEzbDFOVHc1c2k5aS1Ta3dBWW1RYTZJV2VPRTl1S00yWTdIQXdYeTludWc1Rm5CVEs5OGVYYUNjLXVQZF91Zmc0EhduXzgtWkxqQ0tvR2Y1Tm9Qb3VhRWdBMBoiQU8tMHJsN01WX0x5S2h5TDhoX0RlMkNfRjAzUWo1WU9fdw" data-async-fcv="3" data-async-ons="2679" id="fc_2"><div></div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">7</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=M_124D_7KoU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=7">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="56 minutes">
-  56:00
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.8 in C Minor, Op.13, &quot;Pathétique&quot; (Feltsman, Lortie, Korstick) by Ashish Xiangyi Kumar 5 years ago 56 minutes 1,628,494 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=M_124D_7KoU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=7" title="Beethoven: Sonata No.8 in C Minor, Op.13, &quot;Pathétique&quot; (Feltsman, Lortie, Korstick)">
-          Beethoven: Sonata No.8 in C Minor, Op.13, "Pathétique" (Feltsman, Lortie, Korstick)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
+<div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/MgpaULjZOl8/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3nRqXprUqSINBh2EoGSFKK9PhVgUg" alt="" aria-hidden="true"></div>
 </div>
-</tp-yt-paper-tooltip>
+<div jsname="RB2wHd" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgogFegQICRAU"><div jsname="UqHlMb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQhIgFegQICRAV"></div>
+<div jsname="jrH4Ac" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQICRAW"></div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">1.6M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">8</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=jiRbJ26qw5c&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=8">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="37 minutes, 18 seconds">
-  37:18
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.9 in E major, Op.14 No.1 (Korstick, Yokoyama, Jumppanen) by Ashish Xiangyi Kumar 5 years ago 37 minutes 741,870 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=jiRbJ26qw5c&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=8" title="Beethoven: Sonata No.9 in E major, Op.14 No.1 (Korstick, Yokoyama, Jumppanen)">
-          Beethoven: Sonata No.9 in E major, Op.14 No.1 (Korstick, Yokoyama, Jumppanen)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">741K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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';var ii=['dimg_7'];_setImagesSrc(ii,s);})();</script><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAoQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=1yBzIt_z8oY" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgKEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D1yBzIt_z8oY&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgKEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Nobody (Official Music Video) ft. Matthew West</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">9</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=fQqNsTUvqCY&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=9">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="29 minutes, 24 seconds">
-  29:24
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.10 in G maj, Op.14 No.2 (Kovacevich, Yokoyama) by Ashish Xiangyi Kumar 5 years ago 29 minutes 708,159 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=fQqNsTUvqCY&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=9" title="Beethoven: Sonata No.10 in G maj, Op.14 No.2 (Kovacevich, Yokoyama)">
-          Beethoven: Sonata No.10 in G maj, Op.14 No.2 (Kovacevich, Yokoyama)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
 </div>
-</tp-yt-paper-tooltip>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">708K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw5E cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIChAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIChAL"></span></div>
 </div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
 </div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">10</yt-formatted-string>
 </div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=0_5iQCV62S4&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=10">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="50 minutes, 37 seconds">
-  50:37
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.11 in B-flat Major, Op.22 (Lortie, Kovacevich) by Ashish Xiangyi Kumar 5 years ago 50 minutes 533,631 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=0_5iQCV62S4&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=10" title="Beethoven: Sonata No.11 in B-flat Major, Op.22 (Lortie, Kovacevich)">
-          Beethoven: Sonata No.11 in B-flat Major, Op.22 (Lortie, Kovacevich)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
 </div>
-</tp-yt-paper-tooltip>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=1yBzIt_z8oY" aria-label="Casting Crowns - Nobody (Official Music Video) ft. Matthew West, YouTube CastingCrownsVEVO. 3 minutes, 53 seconds. Jul 12, 2019." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgKEAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D1yBzIt_z8oY&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgKEAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_13" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="1" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRPURmKOmjoFG9LB5AvwOTOwfcie8DMB0J4VA" id="_n_8-ZLjCKoGf5NoPouaEgA0_40" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAoQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIChAO"></div>
 </div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">533K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
 </div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 53 seconds">3:53</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Watch the new music video for “Nobody” Featuring Matthew West!Click to watch the music video for “Scars In Heaven” by <b>Casting</b>&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Jul 12, 2019</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_13'];_setImagesSrc(ii,s);})();</script><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAgQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=_eQd3K2Fxp4" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgIEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D_eQd3K2Fxp4&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgIEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Only Jesus (Official Music Video) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw48 cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQICBAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQICBAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=_eQd3K2Fxp4" aria-label="Casting Crowns - Only Jesus (Official Music Video), YouTube CastingCrownsVEVO. 3 minutes, 50 seconds. Nov 16, 2018." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgIEAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D_eQd3K2Fxp4&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgIEAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_8" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="1" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQn_8MSKPEgct3ZwVltTmATqY8gb74BnDoF3w" id="_n_8-ZLjCKoGf5NoPouaEgA0_35" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAgQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQICBAO"></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 50 seconds">3:50</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Official Music Video for "Only Jesus" by <b>Casting Crowns</b>!Click to watch the music video for “Scars In Heaven” by Casting&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Nov 16, 2018</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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';var ii=['dimg_8'];_setImagesSrc(ii,s);})();</script><style>.byrV5b{-webkit-box-align:center;-webkit-align-items:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row}.sBJG1d{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.kDmHO{-webkit-box-align:center;-webkit-align-items:center;align-items:center;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column}.lR4vec{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-webkit-justify-content:center;justify-content:center}.xTEyc{-webkit-box-align:start;-webkit-align-items:start;align-items:start;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row}.OjFzvd{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;flex-direction:row;-webkit-box-pack:start;-webkit-justify-content:start;justify-content:start}.YIPhrb{-webkit-box-align:start;-webkit-align-items:start;align-items:start;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column}.BToiNc{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;flex-direction:column;-webkit-box-pack:start;-webkit-justify-content:start;justify-content:start}.E4bmEc .Va021{-webkit-box-flex:1;-webkit-flex:1 1 100%;flex:1 1 100%}.E4bmEc .Y76LGf{-webkit-box-flex:1;-webkit-flex:1 1 calc(50% - 4px);flex:1 1 calc(50% - 4px)}sentinel{}.ApHyTb{font-family:Roboto,arial,sans-serif;font-size:12px;line-height:16px}sentinel{}g-img{display:block}g-img{height:100%}.YQ4gaf{display:block;border:0}.u9wH7d .YQ4gaf{object-fit:fill}.mNsIhb .YQ4gaf{object-fit:cover}.tb08Pd .YQ4gaf{object-fit:contain}sentinel{}</style><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAQQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=qCdevloDE6E" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgEEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DqCdevloDE6E&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgEEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Scars in Heaven (Official Music Video)</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw4o cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIBBAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIBBAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=qCdevloDE6E" aria-label="Casting Crowns - Scars in Heaven (Official Music Video), YouTube CastingCrownsVEVO. 4 minutes, 24 seconds. Jun 4, 2021." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgEEAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DqCdevloDE6E&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgEEAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_2" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="5" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSP2gY8uu0WWXG-dUDmVBk6vmwm7hTumwSc9Q" id="_n_8-ZLjCKoGf5NoPouaEgA0_30" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAQQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIBBAO"></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="4 minutes, 24 seconds">4:24</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Watch the official music video for "Scars In Heaven" by <b>Casting Crowns</b>!Listen to #Healer, the newest album from <b>Casting Crowns</b>!</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Jun 4, 2021</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_2'];_setImagesSrc(ii,s);})();</script><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAUQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=6Z_CPoIBTuE" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgFEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D6Z_CPoIBTuE&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgFEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - No Hurt (Official Music Video) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw4w cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIBRAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIBRAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=6Z_CPoIBTuE" aria-label="Casting Crowns - No Hurt (Official Music Video), YouTube CastingCrownsVEVO. 3 minutes, 19 seconds. Aug 26, 2022." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgFEAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D6Z_CPoIBTuE&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgFEAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_5" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ1guK74El-Zo1ntK5CPOSC6sprYYQ5qSFupw" id="_n_8-ZLjCKoGf5NoPouaEgA0_29" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAUQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIBRAO"></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 19 seconds">3:19</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid"><b>Casting Crowns</b> - No Hurt (Official Music Video). Fundraiser.</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Aug 26, 2022</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="MjjYud"><script nonce="">window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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';var ii=['dimg_5'];_setImagesSrc(ii,s);})();</script><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CAcQAA"><div><div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="804ed6f3" data-eiv="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=3rT8Re1EIQc" data-tpvid="" data-vid="3rT8Re1EIQc" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;"><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=3rT8Re1EIQc" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgHEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D3rT8Re1EIQc&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgHEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Who Am I (Official Lyric Video) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw5A cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIBxAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIBxAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:804ed6f3,vid:3rT8Re1EIQc" aria-label="Casting Crowns - Who Am I (Official Lyric Video), YouTube Casting Crowns. 5 minutes, 34 seconds. Feb 17, 2020." data-vll="" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ-JQHegQIBxAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_11" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSjB7gUylUqmh11Ion2sc_4Wqk-p7UvZywPMg" id="_n_8-ZLjCKoGf5NoPouaEgA0_38" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CAcQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIBxAO"></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="5 minutes, 34 seconds">5:34</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Watch the lyric video for "Who Am I” by <b>Casting Crowns</b>!Click to watch the new music video for “Scars In Heaven” by Casting&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Casting Crowns</span> · <span><span>Feb 17, 2020</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+<div style="display:none" id="evlb_1"><div jsname="av05vb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9pQHegQIBxAR"><div jsname="faGZad" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ95QHegQIBxAS"></div>
+<div jsname="JJkIve"><div><div jsname="YbJRL" class="F9x6yb" aria-label="Casting Crowns - Who Am I (Official Lyric Video), YouTube, Casting Crowns"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div>
+<div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Casting Crowns</div>
+<div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Feb 17, 2020</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=3rT8Re1EIQc" aria-label="Casting Crowns - Who Am I (Official Lyric Video), YouTube, Casting Crowns" jsaction="trigger.sCcL9b" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIBxAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D3rT8Re1EIQc&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIBxAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Casting Crowns - Who Am I (Official Lyric Video)</h1></div>
+<div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Casting Crowns</span><span class="X6jxid">·</span><span>Feb 17, 2020</span></div>
+</a></div>
+</div>
+<div jsname="N4J2sf"><div></div>
+</div>
+<div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVG9SOHZTMl9pMV9iS3pWUUhteUR6S1hqNk1BdWJhQUh3XzVxczJmWGNKX2Y3NWN2d3JjcmNIZ1BfZmx1ODJVQVNrREtXWG40ZnRPbU5PY0FKMkhMOURyd09faEVYaDktQlJWSkJJaUZ5WVVzNlZXN0QtQXJnc1BDMG92dFRabWVZd3k5Ri1YOEJCR3NpZ2doNjIzcHV5ZnJtamV3TlF3U01wTmVCdm5neGhsRFJYdUtBEhduXzgtWkxqQ0tvR2Y1Tm9Qb3VhRWdBMBoiQU8tMHJsNTJoMGIyRVU4VXlBSTAtV0FuQVpPOThoTlpFZw" data-async-fcv="3" data-async-ons="2679" id="fc_1"><div></div>
+</div>
+</div>
+</div>
+</div>
+<div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/3rT8Re1EIQc/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3npLHDUqzqItcBQ6QPWxfsv16u9yQ" alt="" aria-hidden="true"></div>
+</div>
+<div jsname="RB2wHd" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgogFegQIBxAU"><div jsname="UqHlMb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQhIgFegQIBxAV"></div>
+<div jsname="jrH4Ac" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIBxAW"></div>
+</div>
+</div>
+<div jsname="KG3hVc" jscontroller="NVlnE" class="IlICye" data-afor="1" data-dsktp="true" data-lhcontainer="1" jsaction="sCmk:JqRO3d;click:h5M12e;lAN9Ad:gH5PY;aWkxge:khdH1;sCcL9b:gH5PY" data-hveid="CAcQFw"><div class="QhUEGd"><div jsname="RB2wHd" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgogFegQIBxAY"><div jsname="UqHlMb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQhIgFegQIBxAZ"></div>
+</div>
+<div jsname="AHe6Kc"></div>
+<div jsname="plIjzf" class="rKESNb" aria-label="Close" role="button" tabindex="0" jsaction="LNUc7b"><span class="Mg7q0b z1asCe IW3j9"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"></path></svg></span></div>
+<div jsname="YbJRL" class="eoWuT"><div jsname="HBOHH" class="LPbEqc"></div>
+<div jsname="qcQY3" class="GLOxKc" role="button" tabindex="0" jsaction="zuuSxf"><span class="gIvHUd">YouTube</span><span class="UH8bI z1asCe eznrjd" style="height:20px;line-height:20px;width:20px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></span></div>
+</div>
+<div jsname="InzXib" class="GZTd6e"><div jsname="CNzdzb" class="pgkyGf"><div class="vjTSXc"><div jscontroller="Dq2Yjb" jsname="srpMqc" class="r2fjmd R39K7e j0lPWc p6gLxb" jsshadow="" jsaction="aWkxge:KW0hQe;sCmk:JqRO3d"><div jscontroller="UqGwg" class="pEZFif" data-droc="1" data-efs="1" data-rifd="1000" data-scoab="10" jsaction="kPHRVe:ZLRSBf;ik7FMc:c8EXw;zX7p1e:oZx48;CrVhze:EcoM8e;bYOBZb:QXm1Ib;sZ853b:NziyQe;wrZ7db:HvfI2b;QIOTkf:QKiGd;UrNWbd:nAl5bb;Z4zh3b:xwNlv;Mc6zLd:rteA8d;SUsL8c:h8mX4;yV7Gmf:L2yHvb;d574Gf:GK6dXc;DHyZZ:q1D8lc;Lw5Ifc:felZtc;"><div jsname="FPqwbd" class="J4IJvf"></div>
+</div>
+<div id="evlb_5"><div jsname="SAtBGf" class="m3lE5b"></div>
+<span jsslot=""><div jsname="UctYzf" class="dly0Xe m3lE5b"></div>
+</span><div jsname="OQ2Y6" class="m3lE5b BV26Vc" style="display:none" aria-label="Loading the video"><g-white-loading-icon class="eV3Ogd v5nPIf oMjwOc VDgVie" aria-hidden="true" style="height:30px;min-width:30px"><div class="pSFfp fY2Z0" style="height:30px;width:30px" aria-valuetext="Loading..." role="progressbar"><div class="jg5aPd"><div class="r1glSd"><div class="wgim3c jWrfPe unqUac ZvZqlb"></div>
+</div>
+<div class="YvBkFd"><div class="wgim3c jWrfPe m0HFif"></div>
+</div>
+<div class="r1glSd"><div class="wgim3c jWrfPe unqUac tJdqHd"></div>
+</div>
+</div>
+</div>
+</g-white-loading-icon></div>
+<div jsname="s0D71d" class="m3lE5b" aria-label="Click to play video" role="button" tabindex="0" jsaction="h5M12e"><span jsname="s0D71d" class="B3rZXb X3BRhe Tbiej"></span></div>
+<a class="m3lE5b ubqG8" jsname="pNdJO" style="display:none"><span class="Maryaf X3BRhe"></span><div class="VkwW9 eJtrMc N8D9gb X3BRhe OvQkSb"><span class="yYFJ0c sjVJQd ZTblUe">Visit</span></div>
+</a></div>
+</div>
+<div></div>
+</div>
+</div>
+<div jsname="YbJRL" class="jXG0Vd"><div jsname="ni2D0d"></div>
+</div>
+<div jsname="gVTuP" class="mWQvr"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="MjjYud"><span class="oUAcPd" id="fld_1"></span><script nonce="">(function(){var uer=false;var eid='fld_1';(function(){var a=uer,b=Date.now(),c=google.c.sxs?"load2":"load";if(google.timers&&google.timers[c].t){var d=0;if(eid){var e=document.getElementById(eid);e&&(d=Math.floor(e.getBoundingClientRect().top+window.pageYOffset))}google.c.whu&&!google.c.wh&&(google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight));var f=google.c.wh,g;g=google.c.wh0&&!f?!1:d>=f;for(var h=document.getElementsByTagName("img"),k=0,l=void 0;l=h[k++];)google.c.setup(l,!1,d);g&&google.c.ubr(!1,b,d,!a)};}).call(this);})();window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_11'];_setImagesSrc(ii,s);})();</script><style>.IjabWd{margin-left:2px}.RES9jf{color:#e8eaed}.r2fjmd{margin-bottom:0px;margin-top:0px}.OvQkSb{border-radius:999rem}.ky4hfd{display:none}.hWIMdd{padding-top:0px}.TBC9ub{margin-left:0px;margin-right:0px}.yG4QQe{margin-top:0px}g-section-with-header{display:block;margin-bottom:0}.U7izfe{padding-left:0px;padding-right:0px;padding-bottom:12px}.e2BEnf{font-size:20px;line-height:1.3}.EQdXxd{font-family:Google Sans,Roboto,arial,sans-serif}title-with-lhs-icon:hover .ekf0x h3{color:#8ab4f8}title-with-lhs-icon .ekf0x{color:#bdc1c6;display:block;margin-left:-53px}title-with-lhs-icon .hSQtef.ekf0x{display:inline;margin-left:0}title-with-lhs-icon:hover .hSQtef.ekf0x{color:#8ab4f8}#rcnt .ekf0x:hover h3{text-decoration:none}.iJ1Kvb{display:inline-block;line-height:24px}.GmE3X{color:#e8eaed;display:inline-block;margin-right:12px;position:relative;top:-3px}.s6JM6d #res .GmE3X{font-size:22px}.s6JM6d .GmE3X{font-size:22px}.s6JM6d #res .GmE3X{line-height:28px}.s6JM6d .GmE3X{line-height:28px}.s6JM6d .GmE3X{max-width:608px;overflow:hidden;text-overflow:ellipsis;vertical-align:text-top;white-space:nowrap}.s6JM6d .GmE3X.kWYf3c{max-width:568px}.iv236{color:#9aa0a6;display:inline-block;margin-right:12px}.dtIg1b{display:none;margin-right:12px}title-with-lhs-icon:hover .kNmTT{display:none}title-with-lhs-icon:hover .dtIg1b{display:inline-block}.iJddsb{display:inline-block;fill:currentColor}.iJddsb img,.iJddsb svg{display:block;height:100%;width:100%}.ouRJZc{display:inline-block;position:relative;top:1px}.WE2xI{position:relative}.rNSxBe{padding-bottom:20px}.eY4mx{padding-left:12px}.I7Y2H{padding-right:0px}.Kq2KUc{margin-top:-6px;padding-bottom:4px}.BdG8Xe .dgdd6c{padding:3px 0 5px}.DZjrpb{position:relative}.pIuSUd{float:right;height:36px;margin:0;position:static;width:36px;visibility:hidden}.fwWsFc{overflow:hidden;position:relative;width:calc(100% - 36px);float:left}.oBlg4e{display:inline-block}g-expandable-container{display:block}g-inline-toggler{cursor:pointer;display:block;overflow:hidden;position:relative}.gmYxHe{width:100%}.N5RUge{display:block}.FIncke{display:none}.yKfQwe{position:absolute}.k1U36b{font-size:12px}.ZkkK1e.ZkkK1e{line-height:normal;font-family:Roboto,arial,sans-serif}.ZkkK1e{color:#bdc1c6;box-sizing:border-box;border-radius:18px;cursor:pointer;display:inline-block;height:36px;min-width:36px;position:relative}.ZkkK1e:after{bottom:-7px;content:'';left:-1px;position:absolute;right:-1px;top:-7px}.ZkkK1e:hover{background:#303134}.xaNsfc:focus .ZkkK1e,a:focus .ZkkK1e,.ZkkK1e:focus{background:#303134}.xaNsfc:focus .ZkkK1e:hover:not(:active),a:focus .ZkkK1e:hover:not(:active),.ZkkK1e:hover:focus:not(:active){background:#424548;border-color:#bdc1c6}.ZkkK1e[disabled]{cursor:default;opacity:0.38}.ZkkK1e[selected]{background:#8ab4f8;}.ZkkK1e[forced]{animation:forced-chip-animation 0.75s linear alternate 1}.zAoYTe .ZkkK1e[selected]:not(:focus),html:not(.zAoYTe) .ZkkK1e[selected]{outline:1px solid transparent}.xaNsfc:focus .ZkkK1e[selected],a:focus .ZkkK1e[selected],.ZkkK1e[selected]:focus{}.xaNsfc:active .ZkkK1e[selected],a:active .ZkkK1e[selected],.ZkkK1e[selected]:active{background:#8ab4f8;}.xaNsfc:focus .ZkkK1e[selected]:hover:not(:active),a:focus .ZkkK1e[selected]:hover:not(:active),.ZkkK1e[selected]:hover:focus:not(:active){background:#aecbfa}.xlY4q{font-size:14px;line-height:34px;padding:0 8px}.xlY4q,.POUQwd,.XqKfz{box-sizing:border-box;display:inline-block;height:34px;vertical-align:bottom}.xlY4q.VIZLse{padding-right:11px}.POUQwd.Rubttd{padding:7px}g-expandable-content{display:block}.rXtXab{overflow:hidden;-webkit-transition:max-height 0.3s;transition:max-height 0.3s}.gymTod{background-color:rgba(255,255,255,.3)}.gymTod img{object-fit:cover}.dgdd6c{display:inline-block;margin-right:6px;outline:none;padding:6px 0}.dgdd6c:last-child{margin-right:8px}.dgdd6c:empty{margin-right:0}.POUQwd.z27Mgd{padding:0;margin:1px 0 1px 1px;height:32px;width:32px;border-radius:50%;overflow:hidden}.xlY4q.q3N1vb{min-width:46px;padding:0 11px}g-scrolling-carousel{display:block;position:relative;}.mR2gOd{display:block;overflow-x:auto;overflow-y:hidden;position:relative;white-space:nowrap;transform:translate3d(0,0,0);transform:translate3d(0,0,0);}.znlzCd{border-radius:12px;}.mR2gOd::-webkit-scrollbar{display:none}.m8vZ3d{display:flex}.mR2gOd.pptFR{transform:none;transform:none}.ZZGZKb{display:inline-block;vertical-align:top;margin:auto}.j4hJ8c{min-width:150px;height:100%;display:-webkit-box;display:flex;align-items:center;justify-content:center;}.BlGWBd g-more-button div{transition:opacity 300ms}.L0N73c:after{left:-7px;right:-7px}.LrSIhd .xlY4q{line-height:38px}.LrSIhd .xlY4q,.LrSIhd .POUQwd,.LrSIhd .XqKfz{height:38px}.LrSIhd .POUQwd.z27Mgd{height:36px;width:36px}sentinel{}.ZkkK1e{background:#202124;border:1px solid #3c4043}.xaNsfc:focus .ZkkK1e,a:focus .ZkkK1e,.ZkkK1e:focus{border-color:#9aa0a6;color:#767c80}.xaNsfc:active .ZkkK1e:not([disabled]),a:active .ZkkK1e:not([disabled]),.ZkkK1e:active:not([disabled]){box-shadow:0 1px 2px rgba(60,64,67,0.3),0 2px 6px 2px rgba(60,64,67,0.15);border-color:transparent;background:#202124}.ZkkK1e:hover,.xaNsfc:focus .ZkkK1e,a:focus .ZkkK1e,.xaNsfc:active .ZkkK1e,a:active .ZkkK1e,.ZkkK1e:focus,.ZkkK1e:active{color:#e8eaed}.ZkkK1e[disabled]{background:#3c4043;border-color:#3c4043;color:#80868b}sentinel{}.ZkkK1e[selected]{color:#202124;border-color:#aecbfa}@-webkit-keyframes forced-chip-animation{50%{border-color:#d2e3fc;background:#aecbfa}}@keyframes forced-chip-animation{50%{border-color:#d2e3fc;background:#aecbfa}}.xaNsfc:focus .ZkkK1e[selected],a:focus .ZkkK1e[selected],.ZkkK1e[selected]:focus{border-color:#d2e3fc;color:#202124;background:#aecbfa}.xaNsfc:active .ZkkK1e[selected],a:active .ZkkK1e[selected],.ZkkK1e[selected]:active{box-shadow:0 1px 2px rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}.xaNsfc:active .ZkkK1e[selected],a:active .ZkkK1e[selected],.ZkkK1e[selected]:active{color:#202124}.ZkkK1e[selected]:hover{color:#202124;border-color:#8ab4f8;background:#aecbfa}.xaNsfc:focus .ZkkK1e[selected]:hover:not(:active),a:focus .ZkkK1e[selected]:hover:not(:active),.ZkkK1e[selected]:hover:focus:not(:active){border-color:#8ab4f8}sentinel{}.V8fWH{border:0;clip:rect(0 0 0 0);-webkit-clip-path:polygon(0 0,0 0,0 0);clip-path:polygon(0 0,0 0,0 0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;white-space:nowrap;-webkit-appearance:none;appearance:none;z-index:-1000;-webkit-user-select:none;user-select:none}sentinel{}.eA0Zlc{vertical-align:top;display:inline-block;margin:0;position:relative}.eA0Zlc:focus-within{outline:-webkit-focus-ring-color auto 1px}.JX86yc{display:inline-block}.eA0Zlc:not(.JX86yc){overflow:hidden}.M8OgIe .eA0Zlc.PtaMgb,.M8OgIe .ifM9O .eA0Zlc.PtaMgb{margin-bottom:4px;margin-right:4px}.WghbWd{cursor:pointer}.wr8GYd{align-items:center;position:absolute;display:flex;height:12px;text-decoration:none;border-radius:0 11px 11px 0;bottom:4px;left:0;padding:5px 8px 5px 6px;background:#050607;color:#9aa0a6;font-size:11px}.c2xzTb .wr8GYd{background:rgba(188,192,195,.8);border-radius:0;bottom:0;color:#202124;font-size:11px;right:0;padding:3px 4px 4px;position:absolute}g-inner-card.xIfh4d{margin-right:4px;position:relative;border-radius:0;border:none;}div.eA0Zlc:first-child g-inner-card.xIfh4d,div.eA0Zlc:first-child g-inner-card.xIfh4d video{-webkit-border-top-left-radius:8px;-webkit-border-bottom-left-radius:8px;}div.eA0Zlc:last-of-type g-inner-card.xIfh4d,div.eA0Zlc:last-of-type g-inner-card.xIfh4d video{-webkit-border-top-right-radius:8px;-webkit-border-bottom-right-radius:8px;}.s6JM6d .ifM9O .GMCzAd,.cUnQKe .GMCzAd{border-radius:12px;margin:16px}g-inner-card{background-color:#202124;border-radius:8px;display:block;overflow:hidden}.uhHOwf{position:relative}.uhHOwf::after{background-color:rgba(0,0,0,0.03);bottom:0;content:"";display:block;left:0;pointer-events:none;position:absolute;right:0;top:0}.uhHOwf img{display:block}.BYbUcd{overflow:hidden;}.BYbUcd img{height:100%;width:100%}.GQDPdd{align-items:center;display:flex;float:left}.S2Caaf{float:left;height:12px;width:12px}.seDAFe{margin-right:4px}.S2Caaf.kPUX1c{margin:-1px 2px -1px -3px}.czzyk:hover .CrkfKf,.czzyk:focus .CrkfKf{display:initial}.czzyk:hover .seDAFe,.czzyk:focus .seDAFe{margin-right:4px}.B68O1d{background-color:rgba(0,0,0,0.54)}sentinel{}.yOdbtf{position:relative}sentinel{}.nlNnsd{margin-top:12px}.UVSIcb{word-wrap:break-word}.FgDnmf{border:1px solid #3c4043}.CNf3nf{cursor:pointer;display:block;position:relative;box-shadow:0,0,2,0 rgba(0,0,0,.5);z-index:0}.CNf3nf:focus{outline:none}.CNf3nf .PUDfGe{position:absolute;left:0;right:0;top:0;bottom:0;width:24px;height:24px}.wecD1d{width:56px;height:56px}.OZ5bRd{margin-bottom:auto;margin-top:auto}.wgbRNb{cursor:pointer;height:72px;position:absolute;display:block;visibility:inherit;width:36px;bottom:0;opacity:0.8;top:0;z-index:101}.wgbRNb.tHT0l{-webkit-transition:opacity 0.5s,visibility 0.5s;transition:opacity 0.5s,visibility 0.5s}.wgbRNb:hover{opacity:0.9}.wgbRNb.pQXcHc,.wgbRNb.pQXcHc:hover{cursor:default;opacity:0;visibility:hidden}.wgbRNb.T9Wh5{height:36px;width:36px;opacity:1.0}.wgbRNb.T9Wh5.pQXcHc,.wgbRNb.T9Wh5.pQXcHc:hover{opacity:0}.bCwlI.T9Wh5 g-fab,.VdehBf.T9Wh5 g-fab{cursor:pointer;height:36px;width:36px}.bCwlI.T9Wh5{left:-18px}.VdehBf.T9Wh5{right:-18px}.LhCR5d{width:40px;height:40px}.YB4h9{background-color:#8ab4f8;color:#202124;padding:18px 60px 18px 12px;position:relative}.C85rO{font-size:20px}.YB4h9 .Job8vb{padding:20px;position:absolute;right:0;top:0}.EIqaib{padding-top:6px;position:relative}.QjI2jc{color:#9aa0a6;font-style:italic;margin-right:16px;font-size:12px}.QjI2jc:hover{text-decoration:underline}.Fra4pb{margin-top:4px}.NhRr3b{cursor:pointer;position:relative;}.aBOYt{display:inline-block}.oYWfcb{cursor:pointer;display:block;font-weight:400;line-height:18px;white-space:nowrap}a.CHn7Qb:hover{text-decoration:none}.oYWfcb.RB2q5e{overflow:visible}.p8VO6e{color:#9aa0a6;height:20px;margin-top:-2px;margin-bottom:-2px}.Z4Cazf{margin-right:8px;white-space:nowrap;width:auto}.S8ee5.CwbYXd{color:#e8eaed;line-height:22px}.oYWfcb{font-size:16px;line-height:1.43}.p8VO6e{flex:none}.Z4Cazf{white-space:initial}g-more-link a.pYouzb{align-items:center;display:flex}g-more-link.RB2q5e{cursor:initial;text-align:center}g-more-link.RB2q5e a.pYouzb{color:#e8eaed;display:inline-block;pointer-events:none}.S8ee5{box-sizing:border-box;cursor:pointer;font-size:14px;line-height:20px;pointer-events:auto;position:relative;width:300px;padding:7px 11px;flex-direction:row-reverse;align-items:center;display:flex;justify-content:center;margin-left:auto;margin-right:auto;height:36px;border-radius:18px;}.rhHIGd{background-color:#3c4043;border:0;height:1px;left:0;margin-top:18px;position:absolute;width:100%}.S8ee5 .p8VO6e{margin-top:0px}.S8ee5 .z1asCe{height:20px;width:20px}.S8ee5 .Z4Cazf{display:inline-block;max-width:220px;white-space:nowrap;}.HbX59e{margin-left:0px}.NN3tNd:hover{background:#303134!important}g-fab.v8uxXb{box-shadow:none}g-fab.v8uxXb{border:1px solid #609beb}sentinel{}.S3PB2d{margin:auto}sentinel{}.bCwlI.AoT6sc .vWtmKf{left:2px}.VdehBf.AoT6sc .PFY4o{right:2px}.bCwlI.AoT6sc{left:-32px;border:1px solid #f8f9fa;border-radius:2px 0 0 2px}.VdehBf.AoT6sc{right:-32px;border:1px solid #f8f9fa;border-radius:0 2px 2px 0}.wgbRNb.AoT6sc{background-image:-webkit-gradient(linear,left top,left bottom,from(#0a0a0a),to(#f8f9fa));background-image:-webkit-linear-gradient(top,#0a0a0a,#f8f9fa);background-image:linear-gradient(top,#0a0a0a,#f8f9fa);height:50px;width:30px}.wgbRNb.AoT6sc:hover{background-image:-webkit-gradient(linear,left top,left bottom,from(#050505),to(#f8f9fa));background-image:-webkit-linear-gradient(top,#050505,#f8f9fa);background-image:linear-gradient(top,#050505,#f8f9fa)}sentinel{}.wgbRNb.T9Wh5:hover g-fab{color:#dadce0!important;box-shadow:0 0 0 1px rgba(0,0,0,0.04),0 4px 8px 0 rgba(0,0,0,0.2)}sentinel{}#rhs .S8ee5{border-color:rgba(255,255,255,0)}.S8ee5:hover{background:#3c4043}.S8ee5{background:#303134;border:1px solid rgba(255,255,255,0)}sentinel{}.ULSxyf{margin-bottom:44px}.hlcw0c{margin-bottom:44px}.z1asCe.kQdGHd,.WqQeqc.kQdGHd{position:absolute}.WZH4jc{text-align:center}.WZH4jc .VknLRd{pointer-events:none}.WZH4jc .VknLRd:hover,.WZH4jc .VknLRd:hover h3{text-decoration:none}.WZH4jc .GNJvt{background:#303134;border:1px solid rgba(255,255,255,0);box-sizing:border-box;cursor:pointer;font-size:14px;line-height:20px;pointer-events:auto;position:relative;width:300px;padding:7px 11px;margin:0;flex-direction:row-reverse;align-items:center;display:flex;justify-content:center;margin-left:auto;margin-right:auto;height:36px;border-radius:18px}.WZH4jc .VknLRd:hover .GNJvt{background:#3c4043}.WZH4jc .kQdGHd{position:relative;left:0}.WZH4jc .OTvAmd{display:block}.WZH4jc .RVQdVd{line-height:20px;margin-right:8px}.KXbwLb{background-color:#3c4043;border:0;height:1px;left:0;margin-top:18px;position:absolute;width:100%}.QjmzCd{text-align:center;margin:25px 0;height:30px}.w7LJsc{height:45px;margin-bottom:28px}.GNJvt{display:block;background-color:#303134;text-align:center;font-size:14px;color:#bdc1c6;border-radius:20px;height:24px;line-height:24px;border:1px solid rgba(255,255,255,0);padding:8px 13px;margin:16px 16px 40px 16px;}.RVQdVd{line-height:24px}.kQdGHd{color:#9aa0a6;left:13px;position:absolute}.GNJvt:active{background:#3c4043}.VknLRd{-webkit-tap-highlight-color:transparent;display:block}.ipz2Oe{position:relative}</style><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBEQAA"><div><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=MjkQ6G4kbmk" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgREAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMjkQ6G4kbmk&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgREAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Nobody (Live) ft. Elevation Worship - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw50 cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIERAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIERAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="https://www.youtube.com/watch?v=MjkQ6G4kbmk" aria-label="Casting Crowns - Nobody (Live) ft. Elevation Worship, YouTube CastingCrownsVEVO. 4 minutes, 25 seconds. Sep 4, 2020." data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgREAw" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMjkQ6G4kbmk&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQuAJ6BAgREAw"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_16" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTlPptt71Xa0AWQIBeRS5qq8DsiS_EQ734Oow" id="_n_8-ZLjCKoGf5NoPouaEgA0_52" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CBEQDg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQnLQBegQIERAO"></div>
+</div>
+</div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="4 minutes, 25 seconds">4:25</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Watch the official music video for "Nobody (Live)" featuring Elevation Worship!This video was filmed entirely by fans from their seats in&nbsp;...</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>CastingCrownsVEVO</span> · <span><span>Sep 4, 2020</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hlcw0c"><div class="MjjYud"><div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBIQAA"><div><div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="e9d1aa9b" data-eiv="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=Mflekg7ieX0" data-tpvid="" data-vid="Mflekg7ieX0" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;"><div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=Mflekg7ieX0" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgSEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMflekg7ieX0&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQtwJ6BAgSEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Casting Crowns - Nobody feat. Matthew West (Visualizer Video)</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div>
+</div>
+</div>
+</a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div>
+</span><div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div>
+</div>
+</div>
+</div>
+<div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw5w cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIEhAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIEhAL"></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="dXiKIc" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:e9d1aa9b,vid:Mflekg7ieX0" aria-label="Casting Crowns - Nobody feat. Matthew West (Visualizer Video), YouTube Casting Crowns. 3 minutes, 27 seconds. Oct 12, 2018." data-vll="" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ-JQHegQIEhAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_15" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFMAlAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQQDAv/EADMQAAIBAgUCAwUHBQAAAAAAAAABAgMRBBIhMUFRYRNxgRQjkbHBMkJSoaLR8AU0U4Lh/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECBQT/xAAZEQEAAwEBAAAAAAAAAAAAAAAAAREhMQL/2gAMAwEAAhEDEQA/ANoe4fYHpc4GxA9SijcnIAouLmupiKU8Nkt7xU4xUkrKS0bv3WuvfsiFMgNkJ4WFdOGtN05J577u9vpscn7P4dS2fNd5L9Lq35Zr+gKcQzbfCznQpq/hrNnezSfPdrV2XQxSabeWNk9le9hZRtsGCFRSC4IpLzD0HQNgALpAIhNyahMrS876FWh55KEUE9QttAKLgaACo83XUz0JVHjcVGcm4JU3BdNHcUtNRH2CdwEW5AGBSfIEAtwQlwr1dA8lA8gC3AFAHAF4AeoWwBKwB5nNRlBP70rfk39Aj1yZ6H95i+zgv0/9NBmw2uMxrX+WC/RH9wsclpAKggQqIAsRlZGFOxNtik6ALgIACkS0KAKRIvYAAy7BEMmN1r4KLk43rXv1tCTsbDNjcN7TRywm6dSElOnNK+WS579H2bDXnrR3M2CT8TFz4nX08lGMfmmcE/6rU93KGFofirQm5P8A1i0rerN1KlGjTjSpp5YrS+rBOPZC8hhk7kLbTUAR7E5KxbUKgLyNAPILZACpAuoQQHcFA6Yei68pxj9tQcor8T00O08FOnQrVKjSyOKilrmurv4XXxOOHqeFUz3lGydnHdPqdpYlezSoeLVqR+6pQSUXdN8sk3bUVTlUo+8UYLRQg22+sU+e7PEaM5KMlF5ZJtSeiaW7udJ13meSzjKnCLUlyopfO5YYutCMIxaSpu8LaNaW3WvA1MePZqygpunJRabUmrJpB4erGcoyg1KLtK+lvP4jx59tpR267nuOLqZo+JacU03GS31vYaY4qnJpyS0XLdjpLDVoyUXCzei1W92red09OzPLqycJwai4yea1tn2OtTGVpycp5W20/s8puz9LsXJjl4NS6Tg1daX9P3QlRqRzZotZXaV3az1089H8D37TVcFCUrxTT1XRt/V/xBYqsotKe9PI+uXXR9d+ew0xwsOSkKhYjRULARFDQFh0C+oAAqIAK9ggBAkdi8IAghWAAIAIFABRCvdkAFfIRAIAAAf/2Q==" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div>
+<div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div>
+<div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div>
+<div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 27 seconds">3:27</div>
+</div>
+</span></div>
+</div>
+</div>
+</a><div class="mSA5Bd"><div class="Uroaid">Visualizer Video for "Nobody" by <b>Casting Crowns</b> feat. Matthew West!Listen to Only Jesus, the newest album from <b>Casting Crowns</b>!</div>
+<div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Casting Crowns</span> · <span><span>Oct 12, 2018</span></span></div>
+</div>
+</div>
+<div class="WKugpe"></div>
+</div>
+<div style="display:none" id="evlb_9"><div jsname="av05vb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9pQHegQIEhAQ"><div jsname="faGZad" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ95QHegQIEhAR"></div>
+<div jsname="JJkIve"><div><div jsname="YbJRL" class="F9x6yb" aria-label="Casting Crowns - Nobody feat. Matthew West (Visualizer Video), YouTube, Casting Crowns"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div>
+<div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Casting Crowns</div>
+<div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Oct 12, 2018</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=Mflekg7ieX0" aria-label="Casting Crowns - Nobody feat. Matthew West (Visualizer Video), YouTube, Casting Crowns" jsaction="trigger.sCcL9b" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIEhAS" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DMflekg7ieX0&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIEhAS"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Casting Crowns - Nobody feat. Matthew West (Visualizer Video)</h1></div>
+<div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Casting Crowns</span><span class="X6jxid">·</span><span>Oct 12, 2018</span></div>
+</a></div>
+</div>
+<div jsname="N4J2sf"><div></div>
+</div>
+<div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOUTM3Mi1mSjlncmZpVTlBRi1WNGQwTUZmNnlPcXVlM2VvSkVZeFJkTGZmOVpuODVUU0xjMXJVY05nclBXMURmdzZKVENKMzVmWDRlS0JWdW1WZXBHbDU5UE1FYXhpNG1YSi1FaHE1cWtQREJESXJPeklJWmRwY192MG9sRUNjTnd3dF9kNU1zVnR2cTRrNGlYbkZreFhKR2VRNXE4RjR4QndabU1VSGgwSDVTYlZzYjNNEhduXzgtWkxqQ0tvR2Y1Tm9Qb3VhRWdBMBoiQU8tMHJsN2UxYmlpbk93Z29rUEwycUljNzczUkItZ3hwUQ" data-async-fcv="3" data-async-ons="2679" id="fc_4"><div></div>
+</div>
+</div>
+</div>
+</div>
+<div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/Mflekg7ieX0/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3nfXONb8kIOtF6mZeNIUE23C2rebQ" alt="" aria-hidden="true"></div>
+</div>
+<div jsname="RB2wHd" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgogFegQIEhAT"><div jsname="UqHlMb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQhIgFegQIEhAU"></div>
+<div jsname="jrH4Ac" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQz40FegQIEhAV"></div>
+</div>
+</div>
+<div jsname="KG3hVc" jscontroller="NVlnE" class="IlICye" data-afor="1" data-dsktp="true" data-lhcontainer="1" jsaction="sCmk:JqRO3d;click:h5M12e;lAN9Ad:gH5PY;aWkxge:khdH1;sCcL9b:gH5PY" data-hveid="CBIQFg"><div class="QhUEGd"><div jsname="RB2wHd" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgogFegQIEhAX"><div jsname="UqHlMb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQhIgFegQIEhAY"></div>
+</div>
+<div jsname="AHe6Kc"></div>
+<div jsname="plIjzf" class="rKESNb" aria-label="Close" role="button" tabindex="0" jsaction="LNUc7b"><span class="Mg7q0b z1asCe IW3j9"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"></path></svg></span></div>
+<div jsname="YbJRL" class="eoWuT"><div jsname="HBOHH" class="LPbEqc"></div>
+<div jsname="qcQY3" class="GLOxKc" role="button" tabindex="0" jsaction="zuuSxf"><span class="gIvHUd">YouTube</span><span class="UH8bI z1asCe eznrjd" style="height:20px;line-height:20px;width:20px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7zM14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7z"></path></svg></span></div>
+</div>
+<div jsname="InzXib" class="GZTd6e"><div jsname="CNzdzb" class="pgkyGf"><div class="vjTSXc"><div jscontroller="Dq2Yjb" jsname="srpMqc" class="r2fjmd R39K7e j0lPWc p6gLxb" jsshadow="" jsaction="aWkxge:KW0hQe;sCmk:JqRO3d"><div jscontroller="UqGwg" class="pEZFif" data-droc="1" data-efs="1" data-rifd="1000" data-scoab="10" jsaction="kPHRVe:ZLRSBf;ik7FMc:c8EXw;zX7p1e:oZx48;CrVhze:EcoM8e;bYOBZb:QXm1Ib;sZ853b:NziyQe;wrZ7db:HvfI2b;QIOTkf:QKiGd;UrNWbd:nAl5bb;Z4zh3b:xwNlv;Mc6zLd:rteA8d;SUsL8c:h8mX4;yV7Gmf:L2yHvb;d574Gf:GK6dXc;DHyZZ:q1D8lc;Lw5Ifc:felZtc;"><div jsname="FPqwbd" class="J4IJvf"></div>
+</div>
+<div id="evlb_11"><div jsname="SAtBGf" class="m3lE5b"></div>
+<span jsslot=""><div jsname="UctYzf" class="dly0Xe m3lE5b"></div>
+</span><div jsname="OQ2Y6" class="m3lE5b BV26Vc" style="display:none" aria-label="Loading the video"><g-white-loading-icon class="eV3Ogd v5nPIf oMjwOc VDgVie" aria-hidden="true" style="height:30px;min-width:30px"><div class="pSFfp fY2Z0" style="height:30px;width:30px" aria-valuetext="Loading..." role="progressbar"><div class="jg5aPd"><div class="r1glSd"><div class="wgim3c jWrfPe unqUac ZvZqlb"></div>
+</div>
+<div class="YvBkFd"><div class="wgim3c jWrfPe m0HFif"></div>
+</div>
+<div class="r1glSd"><div class="wgim3c jWrfPe unqUac tJdqHd"></div>
+</div>
+</div>
+</div>
+</g-white-loading-icon></div>
+<div jsname="s0D71d" class="m3lE5b" aria-label="Click to play video" role="button" tabindex="0" jsaction="h5M12e"><span jsname="s0D71d" class="B3rZXb X3BRhe Tbiej"></span></div>
+<a class="m3lE5b ubqG8" jsname="pNdJO" style="display:none"><span class="Maryaf X3BRhe"></span><div class="VkwW9 eJtrMc N8D9gb X3BRhe OvQkSb"><span class="yYFJ0c sjVJQd ZTblUe">Visit</span></div>
+</a></div>
+</div>
+<div></div>
+</div>
+</div>
+<div jsname="YbJRL" class="jXG0Vd"><div jsname="ni2D0d"></div>
+</div>
+<div jsname="gVTuP" class="mWQvr"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="ULSxyf"><div class="MjjYud"><div class="EyBRub"><div jscontroller="Wo3n8" jsmodel="d5EhJe" data-eas="" jsdata="vST7rb;_;BsUw5Q zEIyGd;_;" jsaction="kPzEO:MlP2je;w8f1fc:hRwSgb;aIJAdf:UhDUnd;rcuQ6b:npT2md"><div jsname="GkjeIf" id="_n_8-ZLjCKoGf5NoPouaEgA0_45" data-jiis="up" data-async-type="kp_feedback" class="yp" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ68cEegQIEBAA"></div>
+</div>
+<div jsmodel="Wn3aEc" class="Lv2Cle" data-count="11" style="position:relative" data-iu="1" data-hveid="CBAQAQ" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQyA0oAHoECBAQAQ"><g-section-with-header class="yG4QQe TBC9ub"><div class="e2BEnf U7izfe hWIMdd EQdXxd"><title-with-lhs-icon><a class="ekf0x hSQtef" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;source=univ&amp;fir=34rmeRoNXzd9yM%252C6wJJPU2R4ZwPMM%252C_%253BK8WK1lcI_twJxM%252CMLE7qoXo-tZ1JM%252C_%253ByK-HeV92b7F-EM%252CCxQzklv5Xq480M%252C_%253BAsRc-nwJyPjrzM%252Cv4KkOSY9DIkwDM%252C_%253BsaRtBOT5xj__ZM%252C5CahCeyixqRuKM%252C_%253B6nnK_DoMb9p0UM%252CgAcgbTT-eWvs_M%252C_%253Bm8PIx3KtgbOhGM%252CRclZ4Kabh2c81M%252C_%253B2QOkF3MNPg4xFM%252C2p4EuTZ4zfokpM%252C_%253BKUU3_goPOmov3M%252C5JvIia1s5SRlWM%252C_%253BRD_yVTuZdsn6OM%252CszmA3IogW1DjlM%252C_&amp;usg=AI4_-kRMANS36fgMhSW0pQ5G9Z9MMBhDlA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQjJkEegQIEBAC"><div class="iv236 kNmTT"><span class="iJddsb" style="height:20px;width:20px"><svg focusable="false" viewBox="0 0 24 24"><path d="M14 13l4 5H6l4-4 1.79 1.78L14 13zm-6.01-2.99A2 2 0 0 0 8 6a2 2 0 0 0-.01 4.01zM22 5v14a3 3 0 0 1-3 2.99H5c-1.64 0-3-1.36-3-3V5c0-1.64 1.36-3 3-3h14c1.65 0 3 1.36 3 3zm-2.01 0a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h7v-.01h7a1 1 0 0 0 1-1V5"></path></svg></span></div>
+<div class="dtIg1b"><span class="iJddsb" style="height:20px;width:20px"><svg clip-rule="evenodd" fill-rule="evenodd" focusable="false" viewBox="0 0 24 24"><path fill="#4285f4" d="M19 22h-7v-2h7c.55 0 1-.46 1-1V5a1 1 0 0 0-1-.99L12 4V2h7c1.66 0 3 1.36 3 3v14c0 1.65-1.35 3-3 3"></path><path fill="#ea4335" d="M12 22H5c-1.64 0-3-1.36-3-3V5c0-1.64 1.36-3 3-3h7v2H5c-.55 0-.99.45-.99 1L4 19c0 .55.45 1 1 1h7v2"></path><path fill="#34a853" d="M14 13l-2.25 2.75L10 14l-4 4h12"></path><path fill="#fbbc04" d="M10 8c0 1.1-.9 2-2 2s-2-.9-2-2c0-1.09.9-2 2-2s2 .9 2 2"></path></svg></span></div>
+<div class="iJ1Kvb"><h3 class="GmE3X kWYf3c" aria-level="2" role="heading">Images for casting crowns site:youtube.com</h3></div>
+</a></title-with-lhs-icon><div class="ouRJZc"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;BsUw5U cECq7c;_;BsUw40" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ2esEegQIEBAD"><div jsaction="KyPa0e:RvIhPd;wjOG7e:edHC5b;al5F3e:edHC5b;"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe I7Y2H WE2xI eY4mx" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c IjabWd"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div>
+<span jsname="zOVa8" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQh-4GegQIEBAE"></span></div>
+<g-snackbar jsname="t1F84b" jscontroller="OZLguc" style="display:none" jsshadow="" jsaction="rcuQ6b:npT2md" id="ow57" __is_owner="true"><div jsname="Ng57nc" class="FEXCIb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ4G96BAgQEAU" jsowner="ow57"><div class="EA3l1b"><div class="Xb004" jsslot=""><span class="awHmMb wHYlTd yUTMj">You will see more English now.</span></div>
+</div>
+</div>
+</g-snackbar></div>
+</div>
+</div>
+<div id="iur"><div><div class="Kq2KUc"><h3 class="Uo8X3b OhScic zsYMMe">Guided Search Filters</h3><div class="BdG8Xe" jscontroller="b4xCIb" jsshadow="" jsaction="vjZ9gd:z9RAXb"><g-expandable-container class="DZjrpb" id="_n_8-ZLjCKoGf5NoPouaEgA0_47" jscontroller="QE1bwd" data-anim="" data-fcss="" data-npd="1" data-slct="mnr-c" jsshadow="" jsaction="C7xow:Z6bwpe;xNpQtd:Nh5q2c;U6VCqe:GsRPff;Ep2Mgc:AgioGc;BDs6B:fW2qAb;ep03Ne:AvkpRc;gvA4Rc:yELBLe"><div jsname="gI9xcc" jsslot="1"><div class="oBlg4e"><g-inline-toggler jsname="BE25u" class="pIuSUd" style="margin-top: 3px; visibility: inherit;" jscontroller="WOJjZ" aria-expanded="false" aria-labelledby="_n_8-ZLjCKoGf5NoPouaEgA0_48" data-npd="1" jsdata="T2y0jb;_;BsUw54" jsshadow="" role="button" tabindex="0" jsaction="yELBLe;rcuQ6b:npT2md" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ55IGegQIEBAK" aria-controls="_n_8-ZLjCKoGf5NoPouaEgA0_50"><div jsname="OrQHOc" class="N5RUge yKfQwe" id="_n_8-ZLjCKoGf5NoPouaEgA0_48"><span class="gmYxHe" jsslot=""><div class="ZkkK1e yUTMj k1U36b L0N73c"><div class="POUQwd Rubttd"><div><div class="V8fWH">Filter by feature</div>
+</div>
+<span style="height:20px;line-height:20px;width:20px" class="z1asCe QFl0Ff"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path></svg></span></div>
+</div>
+</span></div>
+<div jsname="Elsoj" class="FIncke yKfQwe" id="_n_8-ZLjCKoGf5NoPouaEgA0_49"><span class="gmYxHe" jsslot=""><div class="ZkkK1e yUTMj k1U36b L0N73c"><div class="POUQwd Rubttd"><div><div class="V8fWH">Filter by feature</div>
+</div>
+<span style="height:20px;line-height:20px;width:20px" class="z1asCe PFI26e"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path></svg></span></div>
+</div>
+</span></div>
+</g-inline-toggler><g-expandable-content class="fwWsFc rXtXab" id="_n_8-ZLjCKoGf5NoPouaEgA0_50" jscontroller="Ah7cLd" jsaction=";rcuQ6b:npT2md" jsshadow="" aria-hidden="false" data-cav="" data-cmh="44" data-ead="1" data-eb="0" data-li="" data-mt="4" data-npd="1" data-wcn="BPrWId" style="max-height:44px"><span jsname="zXitYb" jsslot=""><div jsname="BPrWId" jsslot=""><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:in+heaven:ajoPCv43RSk%3D&amp;usg=AI4_-kRBq8XhP05NKn2IB1v4ja-Rik3nlg&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAB6BAgQEBI" role="button" aria-hidden="false"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_19" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAAAgEFBgQD/8QALBAAAQMDAQYEBwAAAAAAAAAAAQACEQMEIRITIjFBUWEFFHGhMjNygpGS8P/EABcBAQEBAQAAAAAAAAAAAAAAAAEAAwL/xAAYEQEBAQEBAAAAAAAAAAAAAAAAESEBAv/aAAwDAQACEQMRAD8ApaTAxjWMENaAAOgXqAlDCKzRtKZ1buHYGYk9u6eJYHCtRg8Dqxxj+7Lk1EKCot6m3pOqgs0AjTnLgealzvRENQhLPZCkoX+MB1wXtt6ppzLQXaYz74lBvy6ls224p451Z4zPvH45LO7O7bZi71t2ReGfHvTnl9pyl8w44NQnot5xnOr5t1dUhoZdNo0QSQ0NDiBMxJGU1t4tcVy4VHMLhBAAiRzWbdXeRp1EhQxxc7ddnojFrXDxZ8fLb+wQsofMTioY+pSieVrmeTATUhuu9EIS6IOIXvbCKzYxhCEdToQhCE//2Q==" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">in heaven</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:scars+in:P8b55ARtpLE%3D&amp;usg=AI4_-kQH8Gk5G1YWlEXF-Ou4YHWBfaDcbA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAF6BAgQEBY" role="button" aria-hidden="false"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_21" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAbAAADAAIDAAAAAAAAAAAAAAAAAwQBAgUGB//EADMQAAIBAwEFBAcJAAAAAAAAAAECAwAEESEFEjFBURMUcZEiU2GSseHwFSMkQlJUgZPR/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAEDBAL/xAAZEQEBAQADAAAAAAAAAAAAAAAAARESITH/2gAMAwEAAhEDEQA/APMAcoStpajBI0gQ8s9Kr2lCsd5FHDa2wVkTP4dOJGvKqIuwS3ZIJI2ffJCLk7w3ToPnS0DtMWF0jsuq6ljgEgfAH+R7ca4w0pbJ2K4trXDYwRbpjWrNmbNjee5FzbWzKkfojsEGp58KfYCXvMKsezR8lg35sc/ZnGKNpMY5Zo0u40zN2ZOSMjd3s+GdPGovhUuy9nrI4FmmAx5VmpI4EkjV22nAjMASrFsg9DpRTE2lwTtGH3dwDsyvDHFQvngeeTTxKWvZp3WLCh9xVTAJbPTxqXPAVTAv3M8n6UIHiR9edWPHKrtm3sguSZILdQYwwKoeAOnPTnwpO05IpYQLcx7xyG9HiCMeegprR93vIFDo47HdynDlXHXKmK4dMaZ08KtnfRtgMsxJJW2yeiEfA0UvfFFTDlXWe83Hr5ffNbrfXaDC3U6joJDRRWTpyM/aF7+8uP7W/wBrVry6c5a5mY9TIaxRQwd6uPXy++aKKKGR/9k=" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">scars in</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:only+jesus:sJ8yqMHhxGM%3D&amp;usg=AI4_-kSh6AromPhp7mIURXv5C9I7q3UtkA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAJ6BAgQEBo" role="button" aria-hidden="false"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_23" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAaAAACAwEBAAAAAAAAAAAAAAAAAgEEBQMG/8QANxAAAQMCAQQOCwAAAAAAAAAAAQACAwQRIQUSUtEGExQVFyIxQVFVYZGSkwckMkJFcYKhscHh/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//EABcRAQEBAQAAAAAAAAAAAAAAAAARARL/2gAMAwEAAhEDEQA/APCu9H8IY9wy/TEsaXEbXjh9SWm2CU1S5rYtkFPnOGAMJF+zlSVNVK8bnbJxXEsPTbD83VyGpjjaM+R5IwzCcT0EFagc+jCQfF4vIOtLwZP64i8g61cGyCVowr3P6AYxf5LnNlyrdgakAEYFosrMRW4M39bxeQdaEm++UeaaQ9ucVKc4lZ4kpnSC9PIOMcdt7uZdHy0wzfV3l1sSJbfpZO+NNe+eeXRKY5SpdM+EpcVeL4PdhcD2vvj3JttiL7CI5ovgXfZUX5Toy67LtFuSxKQZRpb+2fCVbiRrboGi7v8A4oWXvlSaR8KlLgwUIQubQQhCAQhCD//Z" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">only jesus</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:matthew+west:POwDvdpbWtY%3D&amp;usg=AI4_-kSHjBWCml0m5IjRBk0Z19nNQfuLaQ&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAN6BAgQEB4" role="button" aria-hidden="false"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_29" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAgEDBf/EACUQAAICAQEHBQAAAAAAAAAAAAABAhEDIRMxQWGx0eEEIlFyof/EABcBAQADAAAAAAAAAAAAAAAAAAABBAX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAMAwEAAhEDEQA/APSUcNq8rrj7efYiSSejs4uTWWK4OLf6i7LTOaCbMsC7BFr5AInfn+sOr8Fl4/TY8cKxyxRWrqOhexVXtYbhU64sw6ZIKLpSUuaJoCAVRoGgAIDAANAAH//Z" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="4" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">matthew west</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:crowns+nobody:3P4IV9aKxSs%3D&amp;usg=AI4_-kQpZzA3zvUip4j9lJSVuvxHLaKnfA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAR6BAgQECI" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_32" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAABAMFBgEHAv/EAC0QAAIBBAECBAMJAAAAAAAAAAECAwAEESESBTETQVFhMnHBBgcUJHKRodHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhEDEQA/APKgtTi2k4qxQgMMj3Hb6Vbi1to7AOoRpAwPJTy44A0R2yTy16KK0fQ7SCSVLiaFVhUAcO4XQHfz9azI0wTxOgyVNdki8Cdo5sNxIzxPf5Gtl9pOsWNyepWVr09XSBkSGdF48T2bnnfxZxgHOu3niyrE42aimUvcIAbe2YgbZkJJ9zuuU3B0MzQxy/jrVOahuLMcjI7HVFAz067tIrV7PkjtNxAKh/i3vsPXH+3aQTTRWblYwmycrIwwc6x5fxU0X3f9YhnRvDiEscwHETJpvIbbvnVKLOpi8N9AHfIbzmqiv6lJELyQXFjG8pwS3Nu+MZ1UaGKSVybMRowOEUk8dk6z7a36U3cSWnjmZpCXZeJ7jX7UsbmEuVibA8iAx+lQK+HF5wMD6AtquU4t3hQPb3/qigRtr67PG5N1OZxLxEpkPLHAjGe/bXyp9dLqiikUnOfzCfJqhj+J/wBRoooPuiiiiP/Z" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="0" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">crowns nobody</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:elevation+worship&amp;usg=AI4_-kQVfN8ubrJSwMfo7CSiWoXh5g3C4g&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAV6BAgQECY" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="xlY4q VDgVie q3N1vb">elevation worship</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:storm:LnnlRpq75eA%3D&amp;usg=AI4_-kQ8tpQGcHMcJUFSzg3kwBBmCSU4aw&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAZ6BAgQECk" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_37" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAcAAACAwADAQAAAAAAAAAAAAAABwEFBgMECAL/xAAyEAABAwIEBAMFCQAAAAAAAAABAgMEABEFBhIxISJBURMVkQdhcYHSFDJCU2KhscHR/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oADAMBAAIRAxEAPwBZYVClYpObg4ewl6S7fQjlGqwJ3PDa/pV+rJOZ2yNWE2JP5jX++6q/I2Js4TmuDPkAllhSivTvYpKf7r0IzIgz2mZbEnW04nW2tBKdQIqKR4yHmtQ5MHNjfd1r6qrMdwDF8B8HziEIvj6vD5kK1Wtf7pNrXHrT7xLGoeFqaXLW620pRu9oUptA/Udhfb4n50u/bbJS/wCTKG1nf30UCxKgSTfftRXxqFFBZ5UbZVmCKmS0h5rm1NuC4VwO9NOFNajJSmJEYYCQUhDYKUgE3sAD3JNKfDH3MNxBuWY7jnh35eKb8L727cfhW+g5qy79kZVNZxNqQQNaW2QpIJ6A9al1YukYlLJktPNsORn0m6Vg6jcAW7W39etY/wBpDzjkHCG3dGtoLBKAQDwT0+VX4zVlVSuTzgmwuAwO1/4rGZsxhGNPIbhRnxHYWfCWscykqta4A4Hb1qTSs1b31FdpMOStIUmO8UkXBDZIIqK0jj/FUHeiigjpU0UUBRRRQf/Z" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="0" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">storm</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:of+truth:WJPG7moVLcI%3D&amp;usg=AI4_-kSf0dg6hMMoDOyuz4N2VII9f3VY_Q&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAd6BAgQEC0" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img id="dimg_39" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIACIAIgMBIgACEQEDEQH/xAAbAAACAwADAAAAAAAAAAAAAAAABQMEBgECB//EACwQAAIBAwMCBAUFAAAAAAAAAAECAwAEEQUhMRIiFDJBYQYTI1FSQmKCkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/8QAGxEAAgMBAQEAAAAAAAAAAAAAAAECESFRQRL/2gAMAwEAAhEDEQA/APJXR4wpbHcvUN/SnukW0SWVtcAt4madVBzsq5xke/NKbC0udTcpHG8ixgZ+WjHA4Gyg449abTJc2YsIo4Zk8NIpPzYZF+YcnCjt3Jwwx9wftXaLXoJU0ylrmmlNba2tHMxlIZesjJJzn/DUY0WSQotu4mZVYzCPu6CDinOswSXXxPbyaW0pZFiy3hpVdcn8Sm3mxk+ufTFWuqfTLO/uMSqVvJMFYXyFCg/jx3A543G+9LrWdVGLbMo2k6gGI8JKcHnoNFXX+I7nrbpuXxnbMYoqwPmPSPQdQOmSCQTyKHdetIsbhc+bIOeTtT74k1y0uri3eO6mCqiyD6eOmRSxU7pz3N7b1kYwY2BHpU11dvJKrqzKUG2/BoVUYTwa2mqQx6nFftf3K3BZUcjuLKDt+j2HGP7q5qOoi60+4htr2UyXU7qwkIH0+lBjHTv5V99s1lUw0i9W++9WZO6EEc9RHPpSkMWA0iUgH50Yz7GiuvjrsbC5mAH7zRVURuPCJqibk1xRWDAL5xVhT9L+RoopQkR5oooqI//Z" class="YQ4gaf zr758c" height="34" width="34" alt="" data-atf="0" data-frt="0"></g-img></div>
+<div class="xlY4q VDgVie VIZLse">of truth</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:voice+of&amp;usg=AI4_-kROEKcEmA5fJxDpRJjhQdn7dZE6-w&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAh6BAgQEDE" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="xlY4q VDgVie q3N1vb">voice of</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:crowns+praise:H2Ea5gjHaXQ%3D&amp;usg=AI4_-kRj9i4GsDoXONFxa4La0aPq7OErPA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAl6BAgQEDQ" id="tsuid_54" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGp-fnt9iF4xxXIrBXRHbabKgHF4GfjqqukG4_5huPIg&amp;s" jscontroller="TSZEqd" jsaction="load:K1e2pe;BUYwVb:eNYuKb;LsLGHf:KpWyKc;rcuQ6b:npT2md" class="YQ4gaf zr758c" height="34" width="34" alt=""></g-img></div>
+<div class="xlY4q VDgVie VIZLse">crowns praise</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:feat+matthew:HZHUbhR0v9k%3D&amp;usg=AI4_-kSFfyd-r2VINpaLvouui1VGp9o-4A&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAp6BAgQEDg" id="tsuid_56" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_9iZfN3RQxOwKl-76wGTGVBKuiAC8kEoTGalzRjle1A&amp;s" jscontroller="TSZEqd" jsaction="load:K1e2pe;BUYwVb:eNYuKb;LsLGHf:KpWyKc;rcuQ6b:npT2md" class="YQ4gaf zr758c" height="34" width="34" alt=""></g-img></div>
+<div class="xlY4q VDgVie VIZLse">feat matthew</div>
+</div>
+</a><a class="dgdd6c" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;chips=q:casting+crowns,online_chips:song+lyrics:_OuV-KKVt7A%3D&amp;usg=AI4_-kRVHQ697cYvTafF-c_Ki7rLBj4aIQ&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQgIoDKAt6BAgQEDw" id="tsuid_58" role="button" aria-hidden="true"><div class="ZkkK1e yUTMj k1U36b"><div class="POUQwd z27Mgd"><g-img class="gymTod"><img data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZheWe-0kCoIFaoX_qFE7_XP8c25Eohzg8ROpz53n9Q&amp;s" jscontroller="TSZEqd" jsaction="load:K1e2pe;BUYwVb:eNYuKb;LsLGHf:KpWyKc;rcuQ6b:npT2md" class="YQ4gaf zr758c" height="34" width="34" alt=""></g-img></div>
+<div class="xlY4q VDgVie VIZLse">song lyrics</div>
+</div>
+</a></div>
+</span></g-expandable-content></div>
+</div>
+</g-expandable-container><script nonce="">(function(){var ci='_n_8-ZLjCKoGf5NoPouaEgA0_47';(function(){var a=document.getElementById(ci);if(a){var b=a.querySelector('[jsname="BE25u"]'),c=a.querySelector('[jsname="BPrWId"]');b&&c&&48<c.offsetHeight&&(b.style.visibility="inherit")};}).call(this);})();</script></div>
+</div>
+</div>
+<div><div jsmodel="" jscontroller="TcZDme" jsaction="PdWSXe:h5M12e;rcuQ6b:npT2md;eJDJ0e:mRGGY;vGTXyb:T2P31d" jsdata="X2sNs;_;BsUw6M"><div><g-scrolling-carousel jsname="mILnFc" jscontroller="pgCXqb" data-restore="" data-ss="" id="_n_8-ZLjCKoGf5NoPouaEgA0_60" jsdata="JcTXNb;_;BsUw6Q" jsshadow="" jsaction="OaAmdd:EDKYjb;JnGzAc:aJ8u7;qVN0Rc:nnsrCf;OW9R3e:Xj7hvb;EormBc:HFYvKc;gEKQDb:yUtVib;keydown:uYT2Vb;rcuQ6b:npT2md;lnkFzb:jCOVSe"><div jsname="haAclf" class="mR2gOd pptFR znlzCd" jsaction="t3L5Dd:OR1BUb" data-hveid="CBAQQg" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ5m0oAHoECBAQQg" style="overflow-x: auto;"><div jsname="s2gQvd" class="EDblX m8vZ3d" jsslot=""><div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;34rmeRoNXzd9yM;BsUw6E" data-attrid="images universal" data-docid="34rmeRoNXzd9yM" data-lpage="https://www.youtube.com/watch?v=TnkkZLdjf9Y" data-ref-docid="6wJJPU2R4ZwPMM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBwQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgcEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img alt="Image result for casting crowns site:youtube.com" id="dimg_31" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyF9kmE-ffqFVDr-MIzERCpYfYUKS8FpEVUAu3FqelrA&amp;s" data-atf="4" data-frt="0" style="width: 232px; margin-left: -19px;"></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;K8WK1lcI_twJxM;BsUw6I" data-attrid="images universal" data-docid="K8WK1lcI_twJxM" data-lpage="https://www.youtube.com/watch?v=MjkQ6G4kbmk" data-ref-docid="MLE7qoXo-tZ1JM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBsQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgbEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img alt="Image result for casting crowns site:youtube.com" id="dimg_35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOk25HJxhJtM2WnYTDN7orEvAyA55JPSsAzihdyK8XeQ&amp;s" data-atf="4" data-frt="0" style="width: 232px; margin-left: -29px;"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;yK-HeV92b7F-EM;BsUw58" data-attrid="images universal" data-docid="yK-HeV92b7F-EM" data-lpage="https://www.youtube.com/watch?v=9cKm_mYVPQE" data-ref-docid="CxQzklv5Xq480M" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBkQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgZEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img alt="Image result for casting crowns site:youtube.com" id="dimg_25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMxTzo3dJC2WI4ALRjdXYufbcd-uYZMnSJrCcH31KAQg&amp;s" data-atf="4" data-frt="0" style="width: 232px; margin-left: -29px;"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;AsRc-nwJyPjrzM;BsUw6A" data-attrid="images universal" data-docid="AsRc-nwJyPjrzM" data-lpage="https://www.youtube.com/watch?v=57S_NBOmyx0" data-ref-docid="v4KkOSY9DIkwDM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBoQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgaEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img alt="Image result for casting crowns site:youtube.com" id="dimg_26" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPOCQMIj3LXBX96wB7J_zVjTI601uClWIv8lWxwfnfnQ&amp;s" data-atf="4" data-frt="0" style="width: 232px;"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;saRtBOT5xj__ZM;BsUw5c" aria-hidden="true" data-attrid="images universal" data-docid="saRtBOT5xj__ZM" data-lpage="https://www.youtube.com/watch?v=qCdevloDE6E" data-ni="1" data-ref-docid="5CahCeyixqRuKM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBMQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgTEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img style="margin-left:-29px;width:232px" alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR06odl5URG-Ilfr1WR_8cvKVTHIXbqnVx9Kp_rMHuypg&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;6nnK_DoMb9p0UM;BsUw5g" aria-hidden="true" data-attrid="images universal" data-docid="6nnK_DoMb9p0UM" data-lpage="https://www.youtube.com/watch?v=_eQd3K2Fxp4" data-ni="1" data-ref-docid="gAcgbTT-eWvs_M" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBYQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgWEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img style="margin-left:-29px;width:232px" alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQb_xS5COBjwELo6NJSTMFtxjaM22-wp-Yb25_ery9g&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;m8PIx3KtgbOhGM;BsUw5s" aria-hidden="true" data-attrid="images universal" data-docid="m8PIx3KtgbOhGM" data-lpage="https://www.youtube.com/watch?v=Nr5-cW_JZyI" data-ni="1" data-ref-docid="RclZ4Kabh2c81M" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBgQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgYEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img style="margin-left:-29px;width:232px" alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQ53GoAjh5aUgTaAzieyOgj6DWGyloC0cUUWxL3fiEA&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;2QOkF3MNPg4xFM;BsUw5Y" aria-hidden="true" data-attrid="images universal" data-docid="2QOkF3MNPg4xFM" data-lpage="https://www.youtube.com/watch?v=MgpaULjZOl8" data-ni="1" data-ref-docid="2p4EuTZ4zfokpM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBQQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgUEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:173px"><img alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrWDKd37oz8Ef4CtOxq5ZHJpLUjdIMGFjjuk1PGrxJCA&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;KUU3_goPOmov3M;BsUw5o" aria-hidden="true" data-attrid="images universal" data-docid="KUU3_goPOmov3M" data-lpage="https://www.youtube.com/watch?v=BCc7TCmKcwQ" data-ni="1" data-ref-docid="5JvIia1s5SRlWM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBcQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgXEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img style="margin-left:-58px;width:232px" alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQznj0na1GQSFmAYZiPSMoZD3lvh-O-YwpiqSQ6ZZ5nNA&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<div jsname="dTDiAc" class="eA0Zlc WghbWd JX86yc ivg-i PZPZlf" jscontroller="Um3BXb" jsdata="j0Opre;RD_yVTuZdsn6OM;BsUw5k" aria-hidden="true" data-attrid="images universal" data-docid="RD_yVTuZdsn6OM" data-lpage="https://www.youtube.com/watch?v=-7Ciw_qoWaE" data-ni="1" data-ref-docid="szmA3IogW1DjlM" data-vc="1" jsaction="rcuQ6b:npT2md;tuz4af:RrAr1;nptbHe:XEuVS;h5M12e;qWWJ8e:.CLIENT" data-hveid="CBUQAA" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ9AF6BAgVEAA"><div jsname="IOBa3c"><div role="button" tabindex="0"><g-inner-card class="xIfh4d"><div><div data-bla="" class="uhHOwf BYbUcd" style="height:130px;width:174px"><img style="margin-left:-29px;width:232px" alt="Image result for casting crowns site:youtube.com" data-src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW2jxuIMeKIos82CHwuPonncLOTKa8RRcO43TW8VoEDA&amp;s" src="data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" jscontroller="R3fhkb" jsaction="rcuQ6b:npT2md;BUYwVb:QT8fkf;LsLGHf:iSvHDf;DdQV6c:QT8fkf" data-atf="12" data-frt="0"></div>
+</div>
+<div class="wr8GYd"><div class="GQDPdd"><span class="S2Caaf kPUX1c seDAFe z1asCe sPPjT" style="height:14px;line-height:14px;width:14px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"></path></svg></span><span class="CrkfKf">Video</span></div>
+</div>
+</g-inner-card></div>
+<div jsname="tdeeNb"></div>
+</div>
+</div>
+<a jscontroller="Um3BXb" class="ZZGZKb" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;source=univ&amp;fir=34rmeRoNXzd9yM%252C6wJJPU2R4ZwPMM%252C_%253BK8WK1lcI_twJxM%252CMLE7qoXo-tZ1JM%252C_%253ByK-HeV92b7F-EM%252CCxQzklv5Xq480M%252C_%253BAsRc-nwJyPjrzM%252Cv4KkOSY9DIkwDM%252C_%253BsaRtBOT5xj__ZM%252C5CahCeyixqRuKM%252C_%253B6nnK_DoMb9p0UM%252CgAcgbTT-eWvs_M%252C_%253Bm8PIx3KtgbOhGM%252CRclZ4Kabh2c81M%252C_%253B2QOkF3MNPg4xFM%252C2p4EuTZ4zfokpM%252C_%253BKUU3_goPOmov3M%252C5JvIia1s5SRlWM%252C_%253BRD_yVTuZdsn6OM%252CszmA3IogW1DjlM%252C_&amp;usg=AI4_-kRMANS36fgMhSW0pQ5G9Z9MMBhDlA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ420oAHoECBAQRA" style="height:130px" jsaction="rcuQ6b:npT2md;qWWJ8e:.CLIENT"><div class="j4hJ8c"><g-more-button class="BlGWBd"><g-fab class="r2fjmd X3BRhe FgDnmf CNf3nf OvQkSb wecD1d" style="background-color:#202124;color:#4285f4"><span class="PUDfGe S3PB2d"><span class="z1asCe lYxQe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path></svg></span></span></g-fab><div class="UVSIcb nlNnsd VDgVie wHYlTd RES9jf">View all</div>
+</g-more-button></div>
+</a></div>
+</div>
+<div jsname="Y5ANHe"><g-left-button jsname="sIJmDf" class="pQXcHc wgbRNb bCwlI OZ5bRd T9Wh5 tHT0l" style="top: 0px; left: -19px;" aria-hidden="true" jsaction="PfjCMb" aria-label="Previous" role="button"><g-fab class="CNf3nf OvQkSb LhCR5d" style="background-color:#303134;color:#9aa0a6"><span class="PUDfGe S3PB2d z1asCe N5KMwd"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path></svg></span></g-fab></g-left-button></div>
+<div jsname="AK6yne"><g-right-button jsname="IHFM4" style="top:0px;right:-19px" aria-hidden="true" jsaction="sYPGdb" class="wgbRNb VdehBf OZ5bRd T9Wh5 tHT0l" aria-label="Next" role="button"><g-fab class="CNf3nf OvQkSb LhCR5d" style="background-color:#303134;color:#9aa0a6"><span class="PUDfGe S3PB2d z1asCe kKuqUd"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path></svg></span></g-fab></g-right-button></div>
+<script nonce="">(function(){
+(this||self).cVrhhd=function(b,e,q,a,h,k){if((b=document.getElementById(b))&&(0!==b.offsetWidth||0!==b.offsetHeight)){var l=b.querySelector("div"),m=l.querySelector("div"),c=0,g=Math.max(l.scrollWidth-l.offsetWidth,0);if(0<e){var n=m.children;c=n[e].offsetLeft-n[0].offsetLeft;if(a){for(var p=c=0;p<e;++p)c+=n[p].offsetWidth;c=Math.min(g,c)}}c+=q;e=Math.min(a?g-c:c,g);l.scrollLeft=a&&k?c:a&&h?-c:e;var d=b.getElementsByTagName("g-left-button")[0],f=b.getElementsByTagName("g-right-button")[0];d&&f&&(h=
+RegExp("\\btHT0l\\b"),k=RegExp("\\bpQXcHc\\b"),d.className=d.className.replace(h,""),f.className=f.className.replace(h,""),d.className=0===e?"pQXcHc "+d.className:d.className.replace(k,""),f.className=e===g?"pQXcHc "+f.className:f.className.replace(k,""),0<=d.className.indexOf("SL0Gp")&&0===e&&e===g&&(m.style.paddingLeft="0px",m.style.paddingRight="0px",d.style.display="none",f.style.display="none",b.style.paddingLeft=a?"0px":"48px",b.style.paddingRight=a?"48px":"0px",b.style.textAlign=a?"left":"right",(a=document.getElementById("fade_forward"))&&(a.style.display="none"),(a=document.getElementById("fade_reverse"))&&(a.style.display="none")),setTimeout(function(){d.className+=" tHT0l";f.className+=" tHT0l"},50))}};}).call(this);(function(){var id='_n_8-ZLjCKoGf5NoPouaEgA0_60';var index=0;var offset=0;var is_rtl=false;var is_gecko=false;var is_edge=false;var init='cVrhhd';window[init](id,index,offset,is_rtl,is_gecko,is_edge);})();</script></g-scrolling-carousel></div>
+</div>
+</div>
+</div>
+<div class="Fra4pb YB4h9 ky4hfd" jscontroller="P10Owf" jsaction="kPzEO:MlP2je;w8f1fc:hRwSgb" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQlokGegQIEBBJ"><span class="Job8vb z1asCe wuXmqc" role="button" tabindex="0" jsaction="kEOk4d" style="height:20px;line-height:20px;width:20px" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQmIkGegQIEBBK"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg></span><div class="C85rO">Select an image to give feedback</div>
+</div>
+<div class="EIqaib GTERze"><div><div class="QjI2jc NnEaBd GTERze a-no-hover-decoration" jscontroller="gSZvdb" role="button" tabindex="0" jsdata="vST7rb;_;BsUw5Q" jsaction="i5KCU" data-ved="2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ6scEegQIEBBL"><div class="NhRr3b aBOYt"><span>Feedback</span></div>
+</div>
+</div>
+<g-more-link class="GTERze oYWfcb OSrXXb RB2q5e"><a class="CHn7Qb pYouzb" href="/search?q=casting+crowns+site:youtube.com&amp;tbm=isch&amp;source=univ&amp;fir=34rmeRoNXzd9yM%252C6wJJPU2R4ZwPMM%252C_%253BK8WK1lcI_twJxM%252CMLE7qoXo-tZ1JM%252C_%253ByK-HeV92b7F-EM%252CCxQzklv5Xq480M%252C_%253BAsRc-nwJyPjrzM%252Cv4KkOSY9DIkwDM%252C_%253BsaRtBOT5xj__ZM%252C5CahCeyixqRuKM%252C_%253B6nnK_DoMb9p0UM%252CgAcgbTT-eWvs_M%252C_%253Bm8PIx3KtgbOhGM%252CRclZ4Kabh2c81M%252C_%253B2QOkF3MNPg4xFM%252C2p4EuTZ4zfokpM%252C_%253BKUU3_goPOmov3M%252C5JvIia1s5SRlWM%252C_%253BRD_yVTuZdsn6OM%252CszmA3IogW1DjlM%252C_&amp;usg=AI4_-kRMANS36fgMhSW0pQ5G9Z9MMBhDlA&amp;sa=X&amp;ved=2ahUKEwj4jYrApLT-AhWBD1kFHSIzAdAQ7Al6BAgQEE0"><hr class="rhHIGd" aria-hidden="true"><div class="S8ee5 CwbYXd wHYlTd" aria-label="More images"><span class="p8VO6e HbX59e" aria-hidden="true"><span class="z1asCe lYxQe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"></path></svg></span></span><span class="Z4Cazf OSrXXb">View all</span></div>
+</a></g-more-link></div>
+</g-section-with-header></div>
+</div>
+</div>
+</div>
 </div>
 
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">11</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Ncs9nJNuFGA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=11">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="57 minutes, 43 seconds">
-  57:43
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.12 in A-flat Major,  Op.26, &quot;Funeral March&quot; (Lewis, Kovacevich, Buchbinder) by Ashish Xiangyi Kumar 5 years ago 57 minutes 546,715 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Ncs9nJNuFGA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=11" title="Beethoven: Sonata No.12 in A-flat Major,  Op.26, &quot;Funeral March&quot; (Lewis, Kovacevich, Buchbinder)">
-          Beethoven: Sonata No.12 in A-flat Major,  Op.26, "Funeral March" (Lewis, Kovacevich, Buchbinder)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">546K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">12</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=ckjg-RJV-oM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=12">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="48 minutes, 14 seconds">
-  48:14
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.13 in E-flat Major, &quot;Quasi una fantasia&quot; (Korstick, Lortie, Goode) by Ashish Xiangyi Kumar 5 years ago 48 minutes 463,618 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=ckjg-RJV-oM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=12" title="Beethoven: Sonata No.13 in E-flat Major, &quot;Quasi una fantasia&quot; (Korstick, Lortie, Goode)">
-          Beethoven: Sonata No.13 in E-flat Major, "Quasi una fantasia" (Korstick, Lortie, Goode)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">463K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">13</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=K5-IqJZPxQY&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=13">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="31 minutes, 37 seconds">
-  31:37
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata quasi una fantasia, No.14 in C# Minor, &quot;Moonlight&quot; (Lortie, Jando) by Ashish Xiangyi Kumar 5 years ago 31 minutes 751,861 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=K5-IqJZPxQY&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=13" title="Beethoven: Sonata quasi una fantasia, No.14 in C# Minor, &quot;Moonlight&quot; (Lortie, Jando)">
-          Beethoven: Sonata quasi una fantasia, No.14 in C# Minor, "Moonlight" (Lortie, Jando)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">751K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">14</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=oUmrX1xO1ms&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=14">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="49 minutes, 53 seconds">
-  49:53
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.15 in D Major, &quot;Pastoral&quot; (Lewis, Biss) by Ashish Xiangyi Kumar 5 years ago 49 minutes 898,884 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=oUmrX1xO1ms&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=14" title="Beethoven: Sonata No.15 in D Major, &quot;Pastoral&quot; (Lewis, Biss)">
-          Beethoven: Sonata No.15 in D Major, "Pastoral" (Lewis, Biss)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">898K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">15</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=q7LXQVxd6xA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=15">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="43 minutes, 59 seconds">
-  43:59
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.16 in G Major, Op.31 No.1 (Kovacevich, Goode) by Ashish Xiangyi Kumar 5 years ago 43 minutes 509,224 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=q7LXQVxd6xA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=15" title="Beethoven: Sonata No.16 in G Major, Op.31 No.1 (Kovacevich, Goode)">
-          Beethoven: Sonata No.16 in G Major, Op.31 No.1 (Kovacevich, Goode)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">509K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">16</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=hl_6lAvMsKE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=16">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 10 minutes, 27 seconds">
-  1:10:27
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.17 in D Minor, &quot;Tempest&quot; (Korstick, Grimaud, Lewis) by Ashish Xiangyi Kumar 5 years ago 1 hour, 10 minutes 1,072,302 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=hl_6lAvMsKE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=16" title="Beethoven: Sonata No.17 in D Minor, &quot;Tempest&quot; (Korstick, Grimaud, Lewis)">
-          Beethoven: Sonata No.17 in D Minor, "Tempest" (Korstick, Grimaud, Lewis)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">1M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">17</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=aBupTI59nq4&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=17">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="43 minutes, 54 seconds">
-  43:54
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.18 in E-flat Major, &quot;The Hunt&quot; (Kovacevich, Biret) by Ashish Xiangyi Kumar 5 years ago 43 minutes 781,982 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=aBupTI59nq4&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=17" title="Beethoven: Sonata No.18 in E-flat Major, &quot;The Hunt&quot; (Kovacevich, Biret)">
-          Beethoven: Sonata No.18 in E-flat Major, "The Hunt" (Kovacevich, Biret)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">781K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">18</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=yqnwJmzXkac&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=18">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="17 minutes, 10 seconds">
-  17:10
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.19 in G Minor, Op.49 No.1 (Biret, Lewis) by Ashish Xiangyi Kumar 5 years ago 17 minutes 790,826 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=yqnwJmzXkac&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=18" title="Beethoven: Sonata No.19 in G Minor, Op.49 No.1 (Biret, Lewis)">
-          Beethoven: Sonata No.19 in G Minor, Op.49 No.1 (Biret, Lewis)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">790K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">19</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=W7WpjF2VILE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=19">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="16 minutes, 12 seconds">
-  16:12
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.20 in G Major, Op.49 No.2 (Goode, Lewis) by Ashish Xiangyi Kumar 5 years ago 16 minutes 1,224,940 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=W7WpjF2VILE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=19" title="Beethoven: Sonata No.20 in G Major, Op.49 No.2 (Goode, Lewis)">
-          Beethoven: Sonata No.20 in G Major, Op.49 No.2 (Goode, Lewis)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">1.2M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">20</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=v-U-23qI9gs&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=20">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="47 minutes, 58 seconds">
-  47:58
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.21 in C Major, &quot;Waldstein&quot; (Korstick, Jumppanen) by Ashish Xiangyi Kumar 5 years ago 47 minutes 148,641 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=v-U-23qI9gs&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=20" title="Beethoven: Sonata No.21 in C Major, &quot;Waldstein&quot; (Korstick, Jumppanen)">
-          Beethoven: Sonata No.21 in C Major, "Waldstein" (Korstick, Jumppanen)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">148K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">21</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=lbblMw6k1cU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=21">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="23 minutes, 46 seconds">
-  23:46
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.21 in C Major, &quot;Waldstein&quot; (Pletnev) by Ashish Xiangyi Kumar 8 years ago 23 minutes 4,918,025 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=lbblMw6k1cU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=21" title="Beethoven: Sonata No.21 in C Major, &quot;Waldstein&quot; (Pletnev)">
-          Beethoven: Sonata No.21 in C Major, "Waldstein" (Pletnev)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">4.9M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">8 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">22</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=bbB6aqHGuKM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=22">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="33 minutes, 35 seconds">
-  33:35
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.22 in F Major, Op.54 (Lortie, Korstick, Buchbinder) by Ashish Xiangyi Kumar 5 years ago 33 minutes 250,628 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=bbB6aqHGuKM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=22" title="Beethoven: Sonata No.22 in F Major, Op.54 (Lortie, Korstick, Buchbinder)">
-          Beethoven: Sonata No.22 in F Major, Op.54 (Lortie, Korstick, Buchbinder)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">250K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">23</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=txChVYmy4BI&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=23">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="47 minutes, 56 seconds">
-  47:56
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.23 in F Minor, &quot;Appassionata&quot; (Jumppanen, Kovacevich) by Ashish Xiangyi Kumar 5 years ago 47 minutes 673,950 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=txChVYmy4BI&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=23" title="Beethoven: Sonata No.23 in F Minor, &quot;Appassionata&quot; (Jumppanen, Kovacevich)">
-          Beethoven: Sonata No.23 in F Minor, "Appassionata" (Jumppanen, Kovacevich)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">673K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">24</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=4tadbTifZFs&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=24">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 14 minutes, 52 seconds">
-  1:14:52
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.23 in F minor, &quot;Appassionata&quot; (Pletnev, Gilels, Horowitz) by Ashish Xiangyi Kumar 7 years ago 1 hour, 14 minutes 352,558 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=4tadbTifZFs&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=24" title="Beethoven: Sonata No.23 in F minor, &quot;Appassionata&quot; (Pletnev, Gilels, Horowitz)">
-          Beethoven: Sonata No.23 in F minor, "Appassionata" (Pletnev, Gilels, Horowitz)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">352K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">7 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">25</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=CfiiRZvTVeU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=25">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="29 minutes, 11 seconds">
-  29:11
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.24 in F-sharp Major, &quot;à Thérèse&quot; (Biss, Kovacevich, Jando) by Ashish Xiangyi Kumar 5 years ago 29 minutes 504,571 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=CfiiRZvTVeU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=25" title="Beethoven: Sonata No.24 in F-sharp Major, &quot;à Thérèse&quot; (Biss, Kovacevich, Jando)">
-          Beethoven: Sonata No.24 in F-sharp Major, "à Thérèse" (Biss, Kovacevich, Jando)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">504K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">26</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=QovNsObNtVo&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=26">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="28 minutes, 29 seconds">
-  28:29
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.25 in G Major, &quot;Cuckoo&quot; (Goode, Lewis, Kovacevich) by Ashish Xiangyi Kumar 6 years ago 28 minutes 610,056 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=QovNsObNtVo&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=26" title="Beethoven: Sonata No.25 in G Major, &quot;Cuckoo&quot; (Goode, Lewis, Kovacevich)">
-          Beethoven: Sonata No.25 in G Major, "Cuckoo" (Goode, Lewis, Kovacevich)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">610K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">27</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=nAapbue97JE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=27">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="34 minutes, 35 seconds">
-  34:35
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.26 in E-flat Major, &quot;Les Adieux&quot; (Oppitz, Lortie) by Ashish Xiangyi Kumar 6 years ago 34 minutes 761,739 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=nAapbue97JE&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=27" title="Beethoven: Sonata No.26 in E-flat Major, &quot;Les Adieux&quot; (Oppitz, Lortie)">
-          Beethoven: Sonata No.26 in E-flat Major, "Les Adieux" (Oppitz, Lortie)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">761K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">28</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=Fi9jVgP94ZA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=28">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="40 minutes">
-  40:00
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.27 in E Minor, Op.90 (Korstick, Biss, Lewis) by Ashish Xiangyi Kumar 6 years ago 40 minutes 236,144 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=Fi9jVgP94ZA&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=28" title="Beethoven: Sonata No.27 in E Minor, Op.90 (Korstick, Biss, Lewis)">
-          Beethoven: Sonata No.27 in E Minor, Op.90 (Korstick, Biss, Lewis)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">236K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">29</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=n74kKqwWViU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=29">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="1 hour, 3 minutes, 4 seconds">
-  1:03:04
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.28 in A Major, Op.101  (Levit, Lewis, Korstick) by Ashish Xiangyi Kumar 6 years ago 1 hour, 3 minutes 427,522 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=n74kKqwWViU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=29" title="Beethoven: Sonata No.28 in A Major, Op.101  (Levit, Lewis, Korstick)">
-          Beethoven: Sonata No.28 in A Major, Op.101  (Levit, Lewis, Korstick)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">427K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">30</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=erD1Yy-4F5M&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=30">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="41 minutes, 21 seconds">
-  41:21
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.29 in B-flat Major, &quot;Hammerklavier&quot; (Levit) by Ashish Xiangyi Kumar 6 years ago 41 minutes 1,567,677 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=erD1Yy-4F5M&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=30" title="Beethoven: Sonata No.29 in B-flat Major, &quot;Hammerklavier&quot; (Levit)">
-          Beethoven: Sonata No.29 in B-flat Major, "Hammerklavier" (Levit)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">1.5M views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">31</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=8JZGiY--2LM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=31">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="37 minutes, 38 seconds">
-  37:38
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.30 in E Major, Op.109 (Goode, Levit) by Ashish Xiangyi Kumar 6 years ago 37 minutes 971,433 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=8JZGiY--2LM&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=31" title="Beethoven: Sonata No.30 in E Major, Op.109 (Goode, Levit)">
-          Beethoven: Sonata No.30 in E Major, Op.109 (Goode, Levit)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">971K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">32</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=H3S8slvoHoU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=32">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="59 minutes, 5 seconds">
-  59:05
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.31 in A-flat Major, Op.110 (Lortie, Siirala, Kovacevich) by Ashish Xiangyi Kumar 6 years ago 59 minutes 481,662 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=H3S8slvoHoU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=32" title="Beethoven: Sonata No.31 in A-flat Major, Op.110 (Lortie, Siirala, Kovacevich)">
-          Beethoven: Sonata No.31 in A-flat Major, Op.110 (Lortie, Siirala, Kovacevich)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">481K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">6 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">33</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=0eqDzMxQjx0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=33">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="20 minutes, 21 seconds">
-  20:21
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.31 in A-flat Major (Ashkenazy) by Ashish Xiangyi Kumar 8 years ago 20 minutes 365,811 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=0eqDzMxQjx0&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=33" title="Beethoven: Sonata No.31 in A-flat Major (Ashkenazy)">
-          Beethoven: Sonata No.31 in A-flat Major (Ashkenazy)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">365K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">8 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">34</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=WGg9cE-ceso&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=34">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="27 minutes, 44 seconds">
-  27:44
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata Op.111 No.32 in C Minor (Uchida) by Ashish Xiangyi Kumar 7 years ago 27 minutes 505,415 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=WGg9cE-ceso&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=34" title="Beethoven: Sonata Op.111 No.32 in C Minor (Uchida)">
-          Beethoven: Sonata Op.111 No.32 in C Minor (Uchida)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">505K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">7 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">35</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=YE2iyBRmA_g&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=35">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="29 minutes, 35 seconds">
-  29:35
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.32 in C Minor (Pogorelich) by Ashish Xiangyi Kumar 8 years ago 29 minutes 883,376 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=YE2iyBRmA_g&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=35" title="Beethoven: Sonata No.32 in C Minor (Pogorelich)">
-          Beethoven: Sonata No.32 in C Minor (Pogorelich)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">883K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">8 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer><ytd-playlist-video-renderer class="style-scope ytd-playlist-video-list-renderer" amsterdam="" amsterdam-post-mvp="" lockup="true" style-type=""><!--css-build:shady--><div id="index-container" class="playlist-drag-handle style-scope ytd-playlist-video-renderer">
-  <yt-icon id="reorder" icon="yt-icons:drag_handle" class="style-scope ytd-playlist-video-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,10H3V9h18V10z M21,14H3v1h18V14z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon>
-  <yt-formatted-string id="index" class="style-scope ytd-playlist-video-renderer">36</yt-formatted-string>
-</div>
-<div id="content" class="style-scope ytd-playlist-video-renderer">
-  <div id="container" class="style-scope ytd-playlist-video-renderer">
-    <ytd-thumbnail id="thumbnail" class="style-scope ytd-playlist-video-renderer" hide-playback-status="" size="medium"><!--css-build:shady--><a id="thumbnail" class="yt-simple-endpoint inline-block style-scope ytd-thumbnail" aria-hidden="true" tabindex="-1" rel="null" href="/watch?v=f7urbQpfCqU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=36">
-  <yt-image alt="" ftl-eligible="" notify-on-loaded="" notify-on-unloaded="" class="style-scope ytd-thumbnail"><img alt="" style="background-color: transparent;" class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill"></yt-image>
-  
-  <div id="overlays" class="style-scope ytd-thumbnail"><ytd-thumbnail-overlay-time-status-renderer class="style-scope ytd-thumbnail" overlay-style="DEFAULT"><!--css-build:shady--><yt-icon size="16" class="style-scope ytd-thumbnail-overlay-time-status-renderer" disable-upgrade="" hidden=""></yt-icon><span id="text" class="style-scope ytd-thumbnail-overlay-time-status-renderer" aria-label="55 minutes, 8 seconds">
-  55:08
-</span></ytd-thumbnail-overlay-time-status-renderer><ytd-thumbnail-overlay-now-playing-renderer class="style-scope ytd-thumbnail"><!--css-build:shady--><span id="overlay-text" class="style-scope ytd-thumbnail-overlay-now-playing-renderer">Now playing</span>
-<ytd-thumbnail-overlay-equalizer class="style-scope ytd-thumbnail-overlay-now-playing-renderer"><!--css-build:shady--><svg xmlns="http://www.w3.org/2000/svg" id="equalizer" viewBox="0 0 55 95" class="style-scope ytd-thumbnail-overlay-equalizer">
-  <g class="style-scope ytd-thumbnail-overlay-equalizer">
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="0"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="20"></rect>
-    <rect class="bar style-scope ytd-thumbnail-overlay-equalizer" x="40"></rect>
-  </g>
-</svg>
-</ytd-thumbnail-overlay-equalizer>
-</ytd-thumbnail-overlay-now-playing-renderer></div>
-  <div id="mouseover-overlay" class="style-scope ytd-thumbnail"></div>
-  <div id="hover-overlays" class="style-scope ytd-thumbnail"></div>
-</a>
-</ytd-thumbnail>
-    <div id="meta" class="style-scope ytd-playlist-video-renderer">
-      <h3 class="style-scope ytd-playlist-video-renderer" aria-label="Beethoven: Sonata No.32 in C Minor, Op.111 (Levit, Korstick) by Ashish Xiangyi Kumar 5 years ago 55 minutes 192,773 views">
-        <ytd-badge-supported-renderer id="top-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-        <a id="video-title" class="yt-simple-endpoint style-scope ytd-playlist-video-renderer" href="/watch?v=f7urbQpfCqU&amp;list=PLmdMr9Or9Em58wxArIIYr9X7u3YPYlF8T&amp;index=36" title="Beethoven: Sonata No.32 in C Minor, Op.111 (Levit, Korstick)">
-          Beethoven: Sonata No.32 in C Minor, Op.111 (Levit, Korstick)
-        </a>
-      </h3>
-      <ytd-video-meta-block class="playlist style-scope ytd-playlist-video-renderer byline-separated" amsterdam-post-mvp=""><!--css-build:shady-->
-<div id="metadata" class="style-scope ytd-video-meta-block">
-  <div id="byline-container" class="style-scope ytd-video-meta-block">
-    <ytd-channel-name id="channel-name" class=" style-scope ytd-video-meta-block"><!--css-build:shady--><div id="container" class="style-scope ytd-channel-name">
-  <div id="text-container" class="style-scope ytd-channel-name">
-    <yt-formatted-string id="text" link-inherit-color="" title="" class="style-scope ytd-channel-name complex-string" ellipsis-truncate="" ellipsis-truncate-styling="" has-link-only_=""><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/@AshishXiangyiKumar" dir="auto">Ashish Xiangyi Kumar</a></yt-formatted-string>
-  </div>
-  <tp-yt-paper-tooltip fit-to-visible-bounds="" class="style-scope ytd-channel-name" role="tooltip" tabindex="-1"><!--css-build:shady--><div id="tooltip" class="hidden style-scope tp-yt-paper-tooltip" style-target="tooltip">
-  
-    Ashish Xiangyi Kumar
-  
-</div>
-</tp-yt-paper-tooltip>
-</div>
-<ytd-badge-supported-renderer class="style-scope ytd-channel-name" disable-upgrade="" hidden="">
-</ytd-badge-supported-renderer>
-</ytd-channel-name>
-    <div id="separator" class="style-scope ytd-video-meta-block">•</div>
-    <yt-formatted-string id="video-info" class="style-scope ytd-video-meta-block"><span dir="auto" class="style-scope yt-formatted-string">192K views</span><span dir="auto" class="style-scope yt-formatted-string"> • </span><span dir="auto" class="style-scope yt-formatted-string">5 years ago</span></yt-formatted-string>
-  </div>
-  <div id="metadata-line" class="style-scope ytd-video-meta-block">
-    
-    <ytd-badge-supported-renderer class="inline-metadata-badge style-scope ytd-video-meta-block" hidden="" system-icons=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    <div id="separator" class="style-scope ytd-video-meta-block" hidden="">•</div>
-    <dom-repeat strip-whitespace="" class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-  </div>
-</div>
-<div id="additional-metadata-line" class="style-scope ytd-video-meta-block">
-  <dom-repeat class="style-scope ytd-video-meta-block"><template is="dom-repeat"></template></dom-repeat>
-</div>
-
-</ytd-video-meta-block>
-      <ytd-badge-supported-renderer id="bottom-badges" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-      <ytd-badge-supported-renderer id="bottom-standalone-badge" class="style-scope ytd-playlist-video-renderer" system-icons="" hidden=""><!--css-build:shady--><dom-repeat id="repeat" as="badge" class="style-scope ytd-badge-supported-renderer"><template is="dom-repeat"></template></dom-repeat></ytd-badge-supported-renderer>
-    </div>
-  </div>
-  <ytd-badge-supported-renderer id="badges" class="style-scope ytd-playlist-video-renderer" disable-upgrade="" hidden="">
-  </ytd-badge-supported-renderer>
-  <yt-formatted-string id="contributor" link-inherit-color="" class="style-scope ytd-playlist-video-renderer" is-empty="" hidden=""><!--css-build:shady--><yt-attributed-string class="style-scope yt-formatted-string"></yt-attributed-string></yt-formatted-string>
-  <div id="offer-button" class="style-scope ytd-playlist-video-renderer"></div>
-</div>
-<div id="menu" class="style-scope ytd-playlist-video-renderer"><ytd-menu-renderer class="style-scope ytd-playlist-video-renderer"><!--css-build:shady--><div id="top-level-buttons-computed" class="top-level-buttons style-scope ytd-menu-renderer"></div><div id="flexible-item-buttons" class="style-scope ytd-menu-renderer"></div><yt-icon-button id="button" class="dropdown-trigger style-scope ytd-menu-renderer" style-target="button"><!--css-build:shady--><button id="button" class="style-scope yt-icon-button" aria-label="Action menu"><yt-icon class="style-scope ytd-menu-renderer"><svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M12,16.5c0.83,0,1.5,0.67,1.5,1.5s-0.67,1.5-1.5,1.5s-1.5-0.67-1.5-1.5S11.17,16.5,12,16.5z M10.5,12 c0,0.83,0.67,1.5,1.5,1.5s1.5-0.67,1.5-1.5s-0.67-1.5-1.5-1.5S10.5,11.17,10.5,12z M10.5,6c0,0.83,0.67,1.5,1.5,1.5 s1.5-0.67,1.5-1.5S12.83,4.5,12,4.5S10.5,5.17,10.5,6z" class="style-scope yt-icon"></path></g></svg><!--css-build:shady--></yt-icon></button><yt-interaction id="interaction" class="circular style-scope yt-icon-button"><!--css-build:shady--><div class="stroke style-scope yt-interaction"></div><div class="fill style-scope yt-interaction"></div></yt-interaction></yt-icon-button><yt-button-shape id="button-shape" version="modern" class="style-scope ytd-menu-renderer" disable-upgrade="" hidden=""></yt-button-shape></ytd-menu-renderer></div>
-</ytd-playlist-video-renderer></div>
 """

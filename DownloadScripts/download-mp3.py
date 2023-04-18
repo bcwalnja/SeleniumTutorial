@@ -1,9 +1,11 @@
+from os import listdir
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from ScrapeLinks import getVideoIds
 from HtmlFile import getHtml
+from DriverBuilder import getDriver
 
 def inputVideoUrl(playlistUrlWithoutIndex, enter, driver, i):
     urlInput = driver.find_element(By.ID, "url")
@@ -57,20 +59,14 @@ def log(m):
 #declarations
 url = "https://ytmp3.nu/7/youtube-to-mp3"
 videoUrlBase = "https://www.youtube.com/watch?v="
-directory = r"C:\Users\nathaniel\Downloads\Music\Beethoven Piano Sonatas"
+directory = r"C:\Users\nathaniel\Downloads\Music\Christian Music"
 enter = u'\ue007'
 html = ""
 videos = []
 wait = 15
 
-options = Options()
-options.page_load_strategy = 'normal'
-options.add_experimental_option("prefs", { "profile.default_content_settings.popups": 0,\
-                                           "download.default_directory":directory,\
-                                           "download.prompt_for_download": False,\
-                                           "download.directory_upgrade": True })
-driver = webdriver.Chrome(options=options)
-driver.implicitly_wait(wait)
+headless = input("Run headless? (y/n): ").lower() == "y"
+driver = getDriver(wait, directory, headless)
 
 html = getHtml()
 if html == "":
@@ -97,7 +93,7 @@ log("Number of videos in playlist: " + str(count))
 driver.get(url)
 
 try:
-    i = 0
+    i = len(listdir(directory))
     for video in videos:
         log("Cycle " + str(i))
         inputVideoUrl(videoUrlBase, enter, driver, i)
@@ -106,7 +102,7 @@ try:
         try:
             ifErrorClickBack(driver)
             #if cannot find download button, check for popup or error
-            for j in range(15):
+            for j in range(35):
                 try:
                     log("Try {} to download".format(j + 1))
                     clickDownload(driver)
