@@ -61,13 +61,20 @@ def setDirectory(artist):
     global directory
     directory = directoryBase + "\\" + artist
 
+#def set html
+def setHtml(input):
+    global html
+    html = input
+
 def download():
     log("Getting driver")
     if driver == None:
         headless = input("Run headless? (y/n): ").lower() == "y"
         driver = getDriver(wait, directory, headless)
 
-    html = getHtml()
+    
+    if html == "":
+        html = getHtml()
     if html == "":
         # use the code in ScrapeLinks.py to get the video ids
         playlistUrl = input("Paste the youtube playlist url here: ")
