@@ -84,9 +84,11 @@ def runDownloadLoop(driver, directory, videos):
     return i
 
 def getDirectory(artist):
-    log("Setting directory to {}".format(artist))
-    global directory
-    return directoryBase + "\\" + artist
+    if artist == "" or artist == None:
+        return directoryBase
+    result = directoryBase + "\\" + artist
+    log("Setting directory to {}".format(result))
+    return result
 
 def download(driver = None, html = "", directory = "C:\\Users\\nathaniel\\Downloads\\Music"):
     log("Getting driver")
@@ -129,9 +131,10 @@ def download(driver = None, html = "", directory = "C:\\Users\\nathaniel\\Downlo
         log("Error on cycle " + str(i))
         print(e)
     finally:
-        log("Closing driver")
-        driver.quit()
-        exit()
+        if __name__ == "__main__":
+            log("Closing driver")
+            driver.quit()
+            exit()
 
 
 if __name__ == "__main__":
