@@ -1,80 +1,607 @@
 def getHtml():
     return """
-<div class="v7W49e" eid="CKZBZMupJp2j5NoP0KyakA4" data-async-context="query:yoasobi%20site%3Ayoutube.com" id="rso"><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CA4QAA" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQFSgAegQIDhAA"><div class="kvH3mc BToiNc UK95Uc" data-snc="ih6Jnb_kizhGc"><div class="Z26q7c UK95Uc jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><a href="https://music.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQFnoECAsQAQ" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://music.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQFnoECAsQAQ"><br><h3 class="LC20lb MBeuO DKV0Md">YOASOBI</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAS1BMVEX/////AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/UFD/gID/EBD/8PD/////0ND/MDD/4OD/oKD/QED/kJD/cHD/sLD/ICD/wMAc5h2AAAAACnRSTlMAMIDA/2DQIFDwpl5OWwAAANJJREFUeAF0zlcChDAIBFCSjDWCXe9/0i0sWfv7hKHQxvkAFbyjqyzHTp7RURFwEgraKStcVOVuPW79z5R4YDuKbX8dP+rtyu+P9F8TWaRtRTg26dP9A10vQ61rBum73Ru59ZlHmJHZEjmRs/291Szd2xVHHirKCIxTOj5KhPLpRR60zLMlBk5vQtVSa0CkH/8FRekCLCCyrPiQeAy0FlCxAd7jJ6wApxUSKFYQdCRBbxIMKIJBTSiyCEY3oQRDMMkRSrQEkz3hjEM46xHOvASzPwCp9RWl7WCrkgAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://music.youtube.com<span class="dyjrff qzEoUe" role="text"> › channel</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://music.youtube.com<span class="dyjrff qzEoUe" role="text"> › channel</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-frm="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wlw cECq7c;_;CV8wl0" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQICxAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQICxAK"></span></div></div></div></div></div><div class="Z26q7c UK95Uc" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf MUxGbd yDYNvb lyLwlc lEBKkf" style="-webkit-line-clamp:2"><span><em>Yoasobi</em> is a Japanese music superduo formed by Sony Music Entertainment Japan, composed of Vocaloid producer Ayase, and singer-songwriter Ikura.</span></div></div><div class="Z26q7c UK95Uc" data-snf="bvRFlf"></div></div></div></div><div class="MjjYud"><div jscontroller="SC7lYd" class="g Ww4FFb vt6azd tF2Cxc asEBEc" lang="en" style="width:600px" jsaction="QyLbLe:OMITjf;ewaord:qsYrDe;xd28Mb:A6j43c" data-hveid="CBEQAA" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQFSgAegQIERAA"><div class="kvH3mc BToiNc UK95Uc" data-snc="ih6Jnb_xTPLt"><div class="Z26q7c UK95Uc jGGQ5e" data-snf="x5WNvb" data-snhf="0"><div class="yuRUbf"><a href="https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgMEAE" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgMEAE"><br><h3 class="LC20lb MBeuO DKV0Md">YOASOBI - Topic</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › channel</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › channel</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-frm="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wl4 cECq7c;_;CV8wl8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIDBAJ"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIDBAK"></span></div></div></div></div></div><div class="Z26q7c UK95Uc" data-sncf="1" data-snf="nke7rc"><div class="VwiC3b yXK7lf MUxGbd yDYNvb lyLwlc lEBKkf" style="-webkit-line-clamp:2"><span>More about this channel. Home. Playlists. About. Albums &amp; Singles · 1 Now playing · アイドル · <em>YOASOBI</em>. <em>YOASOBI</em>. •. •. Updated 4 days ago.</span></div></div><div class="Z26q7c UK95Uc" data-snf="bvRFlf"></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CA8QAA">
+
+<a id=":1l9" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=soMzSJzTyh0&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="Lamb of God (Agnus Dei) from the Mass of Restoration - Josh Blakesley">
+<span class="a3I" id=":1lh">Preview YouTube video Lamb of God (Agnus Dei) from the Mass of Restoration - Josh Blakesley
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1la" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1lc" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1lg" class="aYy">
+<div class="aYA">
+<img id=":1le" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1ld">Lamb of God (Agnus Dei) from the Mass of Restoration - Josh Blakesley
+</span>
+</div>
+<div class="aYp">
+<span id=":1lf" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1lb" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<div class="aZK">
+</div>
+</div>
+<div class="aQH" id=":1ln">
+<span class="aZo">
+<a id=":1hs" target="_blank" role="link" class="aQy e aZr" href="https://docs.google.com/document/d/1ABROBOoidv2glvaTQZaCIx8FTjLWQGpg5SgTolyphyo/edit?usp=gmail" jslog="119523; u014N:xr6bB,cOuCgd,Kr2w4b; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0">
+<span class="a3I" id=":1i0">Preview attachment 2023 Spring Program Week Schedule
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG aYB" id=":1ht" style="position: absolute; top: 0px; width: 100%;" crossorigin="use-credentials" src="https://docs.google.com/u/1/feeds/vt?authuser=1&amp;gd=true&amp;id=1ABROBOoidv2glvaTQZaCIx8FTjLWQGpg5SgTolyphyo&amp;v=68&amp;s=AMedNnoAAAAAZErpTDlI30oC_Vg9ACYA3PiQb2Sf2nOp&amp;sz=w180-h120-n">
+<div id=":1hv" class="aYv" style="display: none;">
+<img class="aYw aZG" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1hz" class="aYy">
+<div class="aYA">
+<img id=":1hx" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_document_x16.png" title="Google Docs">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1hw">2023 Spring Program Week Schedule
+</span>
+</div>
+<div class="aYp">
+<span id=":1hy" class="SaH2Ve">Shared in Drive
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1hu" class="aSJ" style="border-color: rgb(66, 133, 244);">
+</div>
+</div>
+</div>
+</a>
+<div class="aQw">
+<div id=":1i3" class="T-I J-J5-Ji aQv T-I-ax7 L3 T-I-JE aVZ" role="button" aria-label="Download attachment 2023 Spring Program Week Schedule" jslog="91252; u014N:cOuCgd,Kr2w4b,xr6bB; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0." data-tooltip-class="a1V" aria-hidden="true" aria-disabled="true" style="user-select: none; display: none;" data-tooltip="Download">
+<div class="akn">
+<div class="aSK J-J5-Ji aYr">
+</div>
+</div>
+</div>
+<div id=":1i4" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Add shortcut to Drive 2023 Spring Program Week Schedule" jslog="54185; u014N:cOuCgd,xr6bB; 1:WyIjdGhyZWFkLWE6ci01MTU3OTY3MDQ4OTgwMDU0ODMxIixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbXV0.; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0.; 43:WyIiXQ.." data-tooltip-class="a1V" aria-hidden="false" style="user-select: none;" data-tooltip="Add shortcut to Drive" tabindex="0">
+<div class="akn">
+<div class="wtScjd J-J5-Ji aYr XG">
+<div class="T-aT4" style="display: none;">
 <div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="873c26e1" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=JxvvUblf25A" data-tpvid="" data-vid="JxvvUblf25A" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=JxvvUblf25A" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgPEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DJxvvUblf25A&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgPEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Opening FULL "Idol (アイドル)" by YOASOBI (Lyrics) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="1" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmA cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIDxAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIDxAL"></span></div></div></div></div></div><div class="dXiKIc" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:873c26e1,vid:JxvvUblf25A" aria-label="Oshi no Ko - Opening FULL &quot;Idol (アイドル)&quot; by YOASOBI (Lyrics), YouTube Jamong. 3 minutes, 35 seconds. 3 days ago." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIDxAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_1" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFMAlAMBIgACEQEDEQH/xAAcAAACAwADAQAAAAAAAAAAAAAABgQFBwIDCAH/xAA/EAABAgQEAgYJAwIEBwAAAAABAgMABAURBhIhMUFRBxMiYXGRFBUyQoGSobHwVHLBUtEWI2LCJCZTc5Sisv/EABoBAAMBAQEBAAAAAAAAAAAAAAACAwQBBQb/xAApEQACAgEDAwMEAwEAAAAAAAABAgADEQQSMRMhQQVRYSJxkeGhsdEU/9oADAMBAAIRAxEAPwCBNzDkqubY6yTmvSmQnsjPa9j2TwUNucLst6QudSjKAEntJOiQnjeOtK1qeUGiRqbqOp8YvW0Ieo8yZh3q3tEM5k9tY94k8gLDwuI4AWnrG3pStnZpAaLEicjLZ/zEe8T/AFd6ftx4Exs6epKFJaC7XSrPck37rju5RzdZkktJcVMlx5sWKWxbOOBB5gafhjlJPSzbLk2JZIS3ojOSorXw+A3Plxiq1+8vXeT2E73MknKGUQ4fSXgFvEoA6tNiQm+/HX4X2NpFKKU0yYcRYJUsNp5nS5J79vOKhc5MreCEEB949shIB1O38mLLEMyZGQl5MLusIPiMxuT9QPhGmpFDZ9oruSpM4y3UmeK31hLKGw8olQGgJ5m25EM8+5iSTlJGal3p8POoS76JLMjq5RpRyoLgJJuo30vYa+ML2E/R3sYS0lON9ZLzMuphSeB0Krf+o840/EcqtOI6bWmm3XWVNBkoQrKncnt91ibDiRbjCWgNdgzEAWIUeZnNQnTiFLKyAzUJd0MvkXCTc5UqHIZtOQt50s0w8ylbMwhSHmFkKCtwL/wf/qNTkcLys9UatPzKitM22GA2Uj/JGpUhKhv7h20t4x11/CD1WlGZgLSKk0jq3iR2ZkDS57yPD6RNbhU2zxBkDTMRJl+mmclwP+GNn0X1SDsod24+ERXLrT1iBce93Hj5w30SRcw9NPIqzjLDJSpPWLcTlcQdFNq1HiNBrfUXjnNYMcdllzFCmGppJNi2FXzoOx7lDkd7X8aDUKCQTJtVkRdw9iOq4dmZp2kmWIfCULD6CoC2xFiOZhqlOleoMES1SpzEw6gJXnbWUZtMxJGvAi3hCGhh1lXo7qcrwWUqTfY3taJuJcPTVGnG5999iYlpgrF2SSWlBN+rV32+x5Q1ipkZ8xEJ2nI4mrtdKFBep6F9Y83OLABYLKlBCjpcqAsUjfQ3twiqm5Wr4gmHJqpvsMoIyy7SGthcWJvrbS9je1zC90e0BltTVTqw1tnaaPAcD4nhy38Hyo1JAbcm3cqGmkXCeAA4RD6fE9PT0lCHIivLS7VZYcp1QTablhlaeG5A4E8RENijOUzOpSV9o5c51tbhHOlOkVRNnApa05gQnYkBRFjyP2PMQ5SjoUjO8gFtYs6gi4/B9vhFFU1HJE1XMly704i5JT6mWchZC9b3GsEMjuH5ZSyppam0n3bXtBFN6zDiK9Pwi0lN5h0pJuSWxdV/E/2jm9guUcDfpjk4243ogBadBcka231vHOZr1XeC/R6blYFg45kUcgPfpbjFWBiOcBRKF5thOiApsgZeeYDbbfnGYIfJnEevkDMlP4LphBUp58EalVx9dIjpwlIKQhLs2toNG4bXltrrc9+3lFPMylXUvqpxb6XTdRDjtwRwt5H6RH9EU3ZJW4k/9s289ouuwHBabUVyu5U7STOUqRpEz6Z6b14ZXnAFjmPC5vCjUpxyem3H3jdSz5RYVGZM2+mVa7TbepP9R/PzSPktQ3XW1uzLikK3CQgknvvsPzSK2Mq/SJBa7dScVDtO3D8yE4npD5UE5plk5idBchKx5fmsb+JME9oHvsSLxgow884HG5Q5XmgFhXWWIUdvtG54aqvrilNPPN9TNpSEzLJ9xfEjmDuCPuDGG61bG7HvJ36ezT/S0ngJbRYCyUjRKRH2FvEdfnKFVUIMoZmUfa6wKz5erKSEqFsuvtIO/OIRx7J5DeWmAbHXIkgafujMRJrU7DKjtLacwzRn3X33qZKvPvnM4662FqUfE7fC0KWJmKbhWWRMUwuyE6bhhuWcKUq5lSdRb4Q6T8/OJbS3IU956aWkHKpORCL/ANS1aad1z3RjeMy769dRMTvpk0gBLy0izaV8Uo42GgueN40aere3eRst2pjEiUdkzVRSpWoScyiYd6rSjOScqmZSAw46h4p/rygn/eAeesIsriX/AA+081JybD084Bd6YTnSyO5PFXeduRi5w/Pza3ZddRmXH5mczLdW4bm3uAchoSANO1D6okvn2mn0+sMdmPkxtbVbaKLFVVZdUii3uqYQokg+yr3AfEj7RaTMwiVlnH3TZKEkmMon6g7NVNycJIWpeZJ5W2iVQOZ6GuuFQA94yUmolTaV7OMkA76cjGjYfm/TGjY2KhdaRwUND9xGTU9welvOt+yVbf6Vaj+POHfB0yWZ0JzXSVBJvyOiT9fvHpkdSrPkTytPYardngzQGnlS6A2ptS7eyQL6cI+xJaeHVpsLacdbwRjyZpIOeIkTuL6e/KPNI60FaSOFr+cQmsVS0u0ENoWsZAm2YAX4632jXvUkj/0EfLB6jkP06PliOTHHqGkHCH8/qYfNVxM3Mh5wJbITlypOaw14nfflEGoT4el1oZcOZW5UQNI371HIfp0fLB6kkP06Pljqkg5jN6pQUKbTg/M84UhmWlCpc0pLi1G5sdO7+YYxVKQE3KXbk6pPLz/PpDnW8VU2kVWap7lBWtTC8ubrUjNoCCBbiCIl1fENEpchTJxVKeebqDJdb6vL2bWuDc79oQwsMt1WCIqVsAeMHnzERusUoBa0MrbUfaKTx4HfXjHdLYpakn0zUgXEKbFlhRBCxyIv9ou/8e0fNrh9zLz61N/K0MGH8QYWrbyJZDRlZpeiGZlATnPIEXBPde8KyqxyRJXMyjc6Nj7ygnsc0epyRbcbfQtIzLBCSBwI1OsU9NrtBYm86mV5EDMQlCe1bhqfpxjXvUkh+nR8sK+JcQYYoD6pVxn0qcT7TEukEo/cToPDfujm1T4mWvVJgogPeUNQ6RpNUm8mmNOmaKFdWXcqUpNtzrrbe3HaMtS244ta+sSt5VzdatzvqT+ecaix0gUFToExQX22yfaQpCyPgbQ8UVFArkkJumdS81exsmykHkoHUGLIekOwkbemO7KZ5iFNcU7mdfb7SrqN7xfibbbnUPINkNqTkF9kpsAPICNRxDjGjUWrTNNNCfcdl15VqUpCAbgEEb6WI3tDfRJWl1ikSlRYlUoRMtBeQgEpJ3B8DpHHAIywlKtUKBlRzMMxBWGqlLCXYWpCCbrJsLjl+cu+FcSCUrNnUlNja54x6o9RyH6dv5RB6jkP07fyiOKyLwJO3Vract/U8wU8CW63rXAcyABY8QQR9ovZCry0nOsvIWtKRbONNx8fHzj0F6jkP07fyiD1HIfp2/lEXXU7RgCR6y9vj4mWs9IVOSkjqHVAHQmw/mCNS9RyH6dv5RBEuovtHOqJ8/x+5ZwQQRGYoQQQGCExXpQKDjB/JuGGgv8AdY/xaOqvuf8AI+GW1ntlUwUj/SFD+4iqxLOKqOIKlNAXLkysIF9wk5U/QCLrpClvVyKDS739EkLnxUrU+aI4OZ9iF2Jp6zzz+FP+yR0eYUkMRSs87UUu2aWlDam3Cmxtc9x3EV2OsInDLrDjMwp+UmFEIKwAtChrY237j3RofRVLBjCTTpFlTDzjh77Kyj6Jhc6Zqghb9OpqFArbCn3BxF+yn7KhxzPL/wCq1tcUB+nPH2nfRsbTKOj2emX156hJKEu24rUrK7BCjztc355YQ8LUN7ElcRJ9apIVd2YeOqgm+p13USePO8SWpR9GA5qcsQ07U2k+IShevzKA+EMnQsE+tKoo2zhhAA7sxv8AxD8AmK6rStjp7y3q/RXS109z1U9MNTiUko6xeZCzyItpfmNu+ETo7rLtHxTKi6kszaxLvoPG5sknvCj9Tzjd5+bakJGYnJhQSyw2pxZPAAXMecqEh2cxDTgBZ12cbUQOBzgn+YaslgczDS7WKwaXPSm4heOJ8I3QlpK/3dWk/YiNQ6LErTgen9ZfUuFN+RcVaMbxg+ucxXV3UjMtU44hI55TlH0Aj0FQ5FFMo8lIt+zLsobvzsN47Z2QCRs7IBJ0EEEZ5CEEEEEIQQQQQhBBBBCEEEEEJ55rcuum12eYI7TE0spHMZrp+loZelR1uamaNUmiOqm5LsK52N/98afN0CjzswqYm6ZKPPLtmcW0CTw1MSWpCTZQyhqVZSlgENAIH+WDvblHMT3H9WVjW+3uo/ORMHksSYgpssiWkqjMy7CAQlAbSQOOmZJj7TaHW8T1LN1cw4p1V3pt8HKBzJO+mwHdsI2t+qOMzbrBkH1pQRlW2m4ULAnyv37fCOHrh7M8j1ZM5kaoNuyoZgN+et7WOxhgYjeocslYBPmdMzheSewocPp7DHVBKV2uQsahfjm1jGFCt4HrgWpBlppAUlK1Ju28k8j7w2PMabGNtcrakKQTTpxTamyrsousEE6EbcOfwjjMVJh/KxNUqacacWlBDjKVJ1IAJudtb+F4ZSRMVV7pkMMgzGcQY4rldkTJzzsu3LEgrRLtFHWW1GYknS/AWhp6K8IzCZwV2pMqaQ2D6K2sWKid124C2g8b8obZZmlspRMyWGmGnwpKV3YSgt3F73CToLH6c4lKrs4lOYUh39pKgdzb3eVvwQxbtgCcsuG3ai4mG4obXJYqqiNltzzi0/FZUD5EQxS/SviNoWdapzwHEsqB+i7fSNVl6XS6u36dP0ST9JdJz9cwlS9NBckXOgEcjhTDyjc0Sn/+On+0P1VIwwkmsBGCJVdHmLl4qkZkzTbTU5LOALQ1exQr2VAEk8FD4Q3RDkKXT6dm9XyMtLZva6lpKL+NomRFiCe0kYQQQQs5CCCCCEIIIIIQgggghCCCCCEILQQQQhBBBBCEEEEEIQQQQQhBBBBCEEEEEIQQQQQn/9k=" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 35 seconds">3:35</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">Oshi no Ko - Opening FULL "Idol (アイドル)" by <b>YOASOBI</b> (Lyrics) by Jamong Artist : <b>YOASOBI</b> Song : Idol (アイドル) Anime : Oshi no Ko Release&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Jamong</span> · <span><span>3 days ago</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_1"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIDxAQ"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIDxAR"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="Oshi no Ko - Opening FULL &quot;Idol (アイドル)&quot; by YOASOBI (Lyrics), YouTube, Jamong"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Jamong</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Apr 16, 2023</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=JxvvUblf25A" aria-label="Oshi no Ko - Opening FULL &quot;Idol (アイドル)&quot; by YOASOBI (Lyrics), YouTube, Jamong" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIDxAS" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DJxvvUblf25A&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIDxAS"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Oshi no Ko - Opening FULL "Idol (アイドル)" by YOASOBI (Lyrics)</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Jamong</span><span class="X6jxid">·</span><span>Apr 16, 2023</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOUXVrdGNmSEFIQ2M3c2RuVG1XZ2p5VlRGOWtYTUd3ZURwMk94N29NUlF6NVRmZW9OX3ZiXzRTekt6S2FWR1hCVHZPSXFGR1cwclVNbFRIQnhHMHNaUHRVeW5xZTh5MG1RbFpGVEFKRTdkc0VOVnNFbGFlVlFjRjFSdkpINS1waVlQZC1DN3dHSmtyV0pySHJxbkZ6M3l4WFFRLXRQNU5SYUtKVEY0QjB1TzJPVGdFN21JEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNmlZc1E4YTZ2WjY5Ty1sMGtqT1FPUmhmcG85UQ" data-async-fcv="3" data-async-ons="2679" id="fc_1">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/JxvvUblf25A/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3lqZnoOAPnVVJ7hPtZY-yPM2wPDJQ" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIDxAT"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIDxAU"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIDxAV"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud"><span class="oUAcPd" id="fld_1"></span><script nonce="">(function(){var uer=false;var eid='fld_1';(function(){var a=uer,b=Date.now(),c=google.c.sxs?"load2":"load";if(google.timers&&google.timers[c].t){var d=0;if(eid){var e=document.getElementById(eid);e&&(d=Math.floor(e.getBoundingClientRect().top+window.pageYOffset))}google.c.whu&&!google.c.wh&&(google.c.wh=Math.floor(window.innerHeight||document.documentElement.clientHeight));var f=google.c.wh,g;g=google.c.wh0&&!f?!1:d>=f;for(var h=document.getElementsByTagName("img"),k=0,l=void 0;l=h[k++];)google.c.setup(l,!1,d);g&&google.c.ubr(!1,b,d,!a)};}).call(this);})();window._setImagesSrc=function(e,f){function g(b){b.onerror=function(){b.style.display="none"};b.setAttribute("data-deferred","2");b.src=f}for(var c=0;c<e.length;++c){var a=e[c],d=document.getElementById(a)||document.querySelector('img[data-iid="'+a+'"]');d?(a=void 0,(null==(a=google.c)?0:a.setup)&&google.c.setup(d),g(d)):(google.iir=google.iir||{},google.iir[a]=f)}};"undefined"===typeof window.google&&(window.google={});</script><script nonce="">(function(){var s='data:image/jpeg;base64,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\x3d';var ii=['dimg_1'];_setImagesSrc(ii,s);})();</script><style>.hlcw0c{margin-bottom:44px}.z9RGvc{height:100%;left:0;overflow:hidden;position:absolute;top:0;width:100%;z-index:0}.z1asCe.kQdGHd,.WqQeqc.kQdGHd{position:absolute}.WZH4jc{text-align:center}.WZH4jc .VknLRd{pointer-events:none}.WZH4jc .VknLRd:hover,.WZH4jc .VknLRd:hover h3{text-decoration:none}.WZH4jc .GNJvt{background:#303134;border:1px solid rgba(255,255,255,0);box-sizing:border-box;cursor:pointer;font-size:14px;line-height:20px;pointer-events:auto;position:relative;width:300px;padding:7px 11px;margin:0;flex-direction:row-reverse;align-items:center;display:flex;justify-content:center;margin-left:auto;margin-right:auto;height:36px;border-radius:18px}.WZH4jc .VknLRd:hover .GNJvt{background:#3c4043}.WZH4jc .kQdGHd{position:relative;left:0}.WZH4jc .OTvAmd{display:block}.WZH4jc .RVQdVd{line-height:20px;margin-right:8px}.KXbwLb{background-color:#3c4043;border:0;height:1px;left:0;margin-top:18px;position:absolute;width:100%}.QjmzCd{text-align:center;margin:25px 0;height:30px}.w7LJsc{height:45px;margin-bottom:28px}.GNJvt{display:block;background-color:#303134;text-align:center;font-size:14px;color:#bdc1c6;border-radius:20px;height:24px;line-height:24px;border:1px solid rgba(255,255,255,0);padding:8px 13px;margin:16px 16px 40px 16px;}.RVQdVd{line-height:24px}.kQdGHd{color:#9aa0a6;left:13px;position:absolute}.GNJvt:active{background:#3c4043}.VknLRd{-webkit-tap-highlight-color:transparent;display:block}.ipz2Oe{position:relative}</style>
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBcQAA">
+</div>
+<div class="T-aT4-JX">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=":1i5" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Edit attachment with  2023 Spring Program Week Schedule" jslog="84112; u014N:cOuCgd,xr6bB; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-class="a1V" aria-hidden="true" style="user-select: none; display: none;" data-tooltip="Edit with ">
+<div class="akn">
+<div class="aYt J-J5-Ji aYr">
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="aZo">
+<a id=":1i6" target="_blank" role="link" class="aQy e" href="https://drive.google.com/file/d/1qGobwSra9q0_2S1lI5QzXeYGmhN9B5ni/view?usp=gmail" jslog="119523; u014N:xr6bB,cOuCgd,Kr2w4b; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0">
+<span class="a3I" id=":1ie">Preview attachment You Make Me Brave.m4a
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1i7" style="display:none;">
+<div id=":1i9" class="aYv">
+<img class="aYw aZt" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1id" class="aYy">
+<div class="aYA">
+<img id=":1ib" class="aSM" src="https://drive-thirdparty.googleusercontent.com/16/type/audio/x-m4a" title="Audio">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1ia">You Make Me Brave.m4a
+</span>
+</div>
+<div class="aYp">
+<span id=":1ic" class="SaH2Ve">Shared in Drive
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1i8" class="aSJ" style="border-color: rgb(219, 68, 55);">
+</div>
+</div>
+</div>
+</a>
+<div class="aQw">
+<div id=":1ih" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Download attachment You Make Me Brave.m4a" jslog="91252; u014N:cOuCgd,Kr2w4b,xr6bB; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0." data-tooltip-class="a1V" aria-hidden="false" aria-disabled="false" style="user-select: none;" tabindex="0" data-tooltip="Download">
+<div class="akn">
+<div class="aSK J-J5-Ji aYr">
+</div>
+</div>
+</div>
+<div id=":1ii" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Add shortcut to Drive You Make Me Brave.m4a" jslog="54185; u014N:cOuCgd,xr6bB; 1:WyIjdGhyZWFkLWE6ci01MTU3OTY3MDQ4OTgwMDU0ODMxIixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbXV0.; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0.; 43:WyIiXQ.." data-tooltip-class="a1V" aria-hidden="false" style="user-select: none;" tabindex="0" data-tooltip="Add shortcut to Drive">
+<div class="akn">
+<div class="wtScjd J-J5-Ji aYr XG">
+<div class="T-aT4" style="display: none;">
 <div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="2818ca2d" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=ORofRTMg-iY" data-tpvid="" data-vid="ORofRTMg-iY" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=ORofRTMg-iY" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgXEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DORofRTMg-iY&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgXEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Into The Night - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmQ cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIFxAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIFxAL"></span></div></div></div></div></div><div class="dXiKIc" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:2818ca2d,vid:ORofRTMg-iY" aria-label="Into The Night, YouTube YOASOBI - Topic. 4 minutes, 23 seconds. Jul 1, 2021." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIFxAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_7" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAFMAlAMBIgACEQEDEQH/xAAbAAEAAgMBAQAAAAAAAAAAAAAAAgYDBAUBB//EADMQAAIBAgMFBQgBBQAAAAAAAAABAgMRBCExBRIzcXIGMkFRsRMUYYGhosHRJCNCQ1SR/8QAGwEAAQUBAQAAAAAAAAAAAAAAAAEDBAUGAgf/xAAqEQACAQMCBAUFAQAAAAAAAAAAAQIDBBEhMQUSM0ETUXHB8DJCgZGxFf/aAAwDAQACEQMRAD8A+dgA4LYCXdfICXdfIAPpdLhQ6V6EiFLhQ6UTGDTLYZjMXACjMZkZ1IQ784x5uxjeMw6dvar5Js6VOT2RHqXdCk8Tml6tGbM8PIVIVE3CSlyPRGmtGOwnGceaLyhmRlUUZxhneWliRimkq9OTbvZpJJggm2loVvtnxsJ0y/BXCx9s+NhOmXqiuDkdiju+tL52AAOiOAAAAAAAEu6+QEu6+QAfS6XCh0okQpcKHSiYwaZbAxYquqFLe/ueSRlOXtWd66j4RiPW8FOeGVnF7uVrauUN3ovyak6kpycpO7erI3PD0tjzxvLyydKrKlUU4OzR26NVVqanHx1XkzgpX0R0dlOX9RPTK/MjXUFKHN3Re8BuqlK4VL7Zf3zN8w1Nz3ik5Nb9nuq31Mxhnve9Qs24taXyRXI21XZeqK52z42E6ZeqK4WPtnxsJ0y9UVw7jsUl31pAAHRHAAAAAAACXdfIB6MBD6ZSj/HhK/gl9D0jTl/Dprezyyv8CN35jXKaGNVYMiOTtNWxLfmkdK782aG01dwn8Gh+10qFRx1KpZvHZp+3uaDMlGnGo92Tkm9LGFs9VRwut5pNeZZSTa0MbbzpwqKVSPMvI6CpQirO2mdlqbOEyclHTJs0FUvCLeb3V8zfwqag5ab34IdaGKeW9TT2F9GrfclKmlGKevf5n9myDHd+Yu/Mg4NJ4qK12z42E6ZeqK4WLtg71sL0y9UV0djsUl081pMAAUYAAAAAAAB6PkA9GAH0WlwodKJmCljqfs4J0H3V5fsye/0V/gf0/YvgyH1xWj5Mmam07e7JvXey/wCM2Hj6P+u/t/Zyts7QhU3IQhubub0/A7RpSU02RL/iVKpbypxWrNOU7Ep7s4xd7OyNCVR3zMiqvdjn4Zk/Jm1T0NunitLJK2nI79K3soW03UVBVGrybdyybM2nTlhYRlR3pwVm1bPy1ZHuIOUVgteF3ELapKU1ujdB4toUfHDv7f2Hj6PhQf2/sh+FIu/9agVrthxsL0y9UV4sHa6vGvWwu5T3LRlfTPNFfExjQYlVVV88dmAAAgAAAAAAAPRgPRgBaoN7keSJK5GHcjyJE8z73IVqnsqcpvwOUt6UnOWbfmdPEUva0nC9m9DnWtkdx2E7nklfmhHOKXmehZKwouCEIuVSMF3m7G9hcsRWUe6m/UYNwba3Up27yWbRsU6cacd2K5/ERsTGCYzAOQORt3iUeT/Byjqbd4lHk/wcshVfrZc2vRQABwSAAAAAAAAegAAWqHcjyRIAsDPPc8OUAKgQAB0KZsLxo/M6ABywYAAghx9u8SjyZywCHV+tlza9GIAA2SAAAA//2Q==" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="4 minutes, 23 seconds">4:23</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">Provided to YouTube by The Orchard EnterprisesInto The Night · <b>YOASOBI</b> · Ayase · Konnie AokiInto the Night℗ 2021 YOASOBIReleased on:&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>YOASOBI - Topic</span> · <span><span>Jul 1, 2021</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_9"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIFxAQ"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIFxAR"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="Into The Night, YouTube, YOASOBI - Topic"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">YOASOBI - Topic</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Jul 1, 2021</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=ORofRTMg-iY" aria-label="Into The Night, YouTube, YOASOBI - Topic" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFxAS" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DORofRTMg-iY&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFxAS"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Into The Night</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>YOASOBI - Topic</span><span class="X6jxid">·</span><span>Jul 1, 2021</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOUW9ZUS1Sa1dGRXpUZDdadHJaYmJ1RmZ4TUp4WFBaN0VCVFdQTHBHMlZRMDZxcmVkSVFzV25VVEVGWUVkSDZ2YVpWUTdNaXZfaWV0NS1lME1VS3laZm1xb1E1d2JiMkNNYmV3WVJWaHZoTlFOZjRuNGdGOXJSc0F6d2pKT0tQdkZHY2NtTTlrUmZocXVJVzF6d0lZdWtNa1ZrbUMtaGZWWWxrTU1qdDhtVmRFRDV2dlNrEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsN3JyVVdvZ3Z1c201M3ZzeU9rMUJFeDhRc0pOdw" data-async-fcv="3" data-async-ons="2679" id="fc_5">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/ORofRTMg-iY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3lySLPNvZUZByv__7k1aRVJIip2EA" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIFxAT"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIFxAU"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFxAV"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBgQAA">
+</div>
+<div class="T-aT4-JX">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=":1ij" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Edit attachment with  You Make Me Brave.m4a" jslog="84112; u014N:cOuCgd,xr6bB; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-class="a1V" aria-hidden="true" style="user-select: none; display: none;" data-tooltip="Edit with ">
+<div class="akn">
+<div class="aYt J-J5-Ji aYr">
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="aZo">
+<a id=":1ik" target="_blank" role="link" class="aQy e" href="https://drive.google.com/file/d/18KrDnjMr6NbEVVA8yzxLG7j2xKRyhAoL/view?usp=gmail" jslog="119523; u014N:xr6bB,cOuCgd,Kr2w4b; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0">
+<span class="a3I" id=":1is">Preview attachment To God Be the Glory.m4a
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1il" style="display:none;">
+<div id=":1in" class="aYv">
+<img class="aYw aZt" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1ir" class="aYy">
+<div class="aYA">
+<img id=":1ip" class="aSM" src="https://drive-thirdparty.googleusercontent.com/16/type/audio/x-m4a" title="Audio">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1io">To God Be the Glory.m4a
+</span>
+</div>
+<div class="aYp">
+<span id=":1iq" class="SaH2Ve">Shared in Drive
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1im" class="aSJ" style="border-color: rgb(219, 68, 55);">
+</div>
+</div>
+</div>
+</a>
+<div class="aQw">
+<div id=":1iv" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Download attachment To God Be the Glory.m4a" jslog="91252; u014N:cOuCgd,Kr2w4b,xr6bB; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0." data-tooltip-class="a1V" aria-hidden="false" aria-disabled="false" style="user-select: none;" tabindex="0" data-tooltip="Download">
+<div class="akn">
+<div class="aSK J-J5-Ji aYr">
+</div>
+</div>
+</div>
+<div id=":1iw" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Add shortcut to Drive To God Be the Glory.m4a" jslog="54185; u014N:cOuCgd,xr6bB; 1:WyIjdGhyZWFkLWE6ci01MTU3OTY3MDQ4OTgwMDU0ODMxIixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbXV0.; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0.; 43:WyIiXQ.." data-tooltip-class="a1V" aria-hidden="false" style="user-select: none;" tabindex="0" data-tooltip="Add shortcut to Drive">
+<div class="akn">
+<div class="wtScjd J-J5-Ji aYr XG">
+<div class="T-aT4" style="display: none;">
 <div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="32d37169" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=xtfXl7TZTac" data-tpvid="" data-vid="xtfXl7TZTac" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=xtfXl7TZTac" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgYEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DxtfXl7TZTac&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgYEAI"><br><h3 class="LC20lb MBeuO DKV0Md">YOASOBI - Racing Into The Night Lyrics (JPN_ROM_ENG)</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmU cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIGBAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIGBAL"></span></div></div></div></div></div><div class="dXiKIc" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:32d37169,vid:xtfXl7TZTac" aria-label="YOASOBI - Racing Into The Night Lyrics (JPN_ROM_ENG), YouTube rin rin. 4 minutes, 22 seconds. Aug 5, 2020." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIGBAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_9" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="4 minutes, 22 seconds">4:22</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">夜に駆けるRacing Into The Night LyricsYOASOBIArtist: YOASOBIVocal: IkuraComposition: AyaseOriginal&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>rin rin</span> · <span><span>Aug 5, 2020</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_11"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIGBAQ"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIGBAR"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="YOASOBI - Racing Into The Night Lyrics (JPN_ROM_ENG), YouTube, rin rin"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">rin rin</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Aug 5, 2020</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=xtfXl7TZTac" aria-label="YOASOBI - Racing Into The Night Lyrics (JPN_ROM_ENG), YouTube, rin rin" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGBAS" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DxtfXl7TZTac&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGBAS"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">YOASOBI - Racing Into The Night Lyrics (JPN_ROM_ENG)</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>rin rin</span><span class="X6jxid">·</span><span>Aug 5, 2020</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVExhenpLVkFPbktDRXA0Q1lwU0NBUzQ3Z3A3a3NVSGZTNm5nU2dJNHpWTjdtNnNyYWhCWnl2RE5YVjQ5Qk83Skc5QzEzX1AxQnVNQ1RDNlpvQ2t3SXZPU2ozVi1hQWgtXzVSb3I4YjEyWFkxSF9qWFUydU9INnkxcVFRN2YxUFZkWlJaaDRhWTcwX2Z3RmpidXNOeVZWazd5UmJpQ3psRzVST1FzcnJfQXJMbVZwNkc0EhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNmZEd0xzTFA0OTFYZTZhLVhfM3E2SjQ3SHFwUQ" data-async-fcv="3" data-async-ons="2679" id="fc_6">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/xtfXl7TZTac/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3kJMuvOG1kpPklU0W6FkC4JJ94ZXQ" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIGBAT"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIGBAU"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGBAV"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBYQAA">
+</div>
+<div class="T-aT4-JX">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=":1ix" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Edit attachment with  To God Be the Glory.m4a" jslog="84112; u014N:cOuCgd,xr6bB; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-class="a1V" aria-hidden="true" style="user-select: none; display: none;" data-tooltip="Edit with ">
+<div class="akn">
+<div class="aYt J-J5-Ji aYr">
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="aZo">
+<a id=":1iy" target="_blank" role="link" class="aQy e" href="https://drive.google.com/file/d/1R0Di-ZxDGBzKoIgL1Z1TEw7xJjWi5JNa/view?usp=gmail" jslog="119523; u014N:xr6bB,cOuCgd,Kr2w4b; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0">
+<span class="a3I" id=":1j6">Preview attachment Gratitude.m4a
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1iz" style="display:none;">
+<div id=":1j1" class="aYv">
+<img class="aYw aZt" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1j5" class="aYy">
+<div class="aYA">
+<img id=":1j3" class="aSM" src="https://drive-thirdparty.googleusercontent.com/16/type/audio/x-m4a" title="Audio">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1j2">Gratitude.m4a
+</span>
+</div>
+<div class="aYp">
+<span id=":1j4" class="SaH2Ve">Shared in Drive
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1j0" class="aSJ" style="border-color: rgb(219, 68, 55);">
+</div>
+</div>
+</div>
+</a>
+<div class="aQw">
+<div id=":1j9" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Download attachment Gratitude.m4a" jslog="91252; u014N:cOuCgd,Kr2w4b,xr6bB; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0." data-tooltip-class="a1V" aria-hidden="false" aria-disabled="false" style="user-select: none;" tabindex="0" data-tooltip="Download">
+<div class="akn">
+<div class="aSK J-J5-Ji aYr">
+</div>
+</div>
+</div>
+<div id=":1ja" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Add shortcut to Drive Gratitude.m4a" jslog="54185; u014N:cOuCgd,xr6bB; 1:WyIjdGhyZWFkLWE6ci01MTU3OTY3MDQ4OTgwMDU0ODMxIixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbXV0.; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0.; 43:WyIiXQ.." data-tooltip-class="a1V" aria-hidden="false" style="user-select: none;" tabindex="0" data-tooltip="Add shortcut to Drive">
+<div class="akn">
+<div class="wtScjd J-J5-Ji aYr XG">
+<div class="T-aT4" style="display: none;">
 <div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="108bc1b8" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=mnGTKvTq8JI" data-tpvid="" data-vid="mnGTKvTq8JI" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=mnGTKvTq8JI" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgWEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DmnGTKvTq8JI&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgWEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Oshi No Ko - Idol [Yoasobi] (ENGLISH) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmI cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIFhAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIFhAL"></span></div></div></div></div></div><div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:108bc1b8,vid:mnGTKvTq8JI" aria-label="Oshi No Ko - Idol [Yoasobi] (ENGLISH), YouTube Nordex. 1 minute, 42 seconds. 1 day ago." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIFhAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_4" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div><div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTCzNfn6GEFJAJNSltiqD6rie-wC26qwLpN1g" id="_CKZBZMupJp2j5NoP0KyakA4_32" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CBYQDg" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQnLQBegQIFhAO"></div></div></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="1 minute, 42 seconds">1:42</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">We hope you all enjoy this cover song from this amazing and beautiful anime!LISTEN ON ALL DIGITAL PLATFORMS!</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Nordex</span> · <span><span>1 day ago</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_5"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIFhAR"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIFhAS"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="Oshi No Ko - Idol [Yoasobi] (ENGLISH), YouTube, Nordex"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Nordex</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Apr 19, 2023</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=mnGTKvTq8JI" aria-label="Oshi No Ko - Idol [Yoasobi] (ENGLISH), YouTube, Nordex" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFhAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DmnGTKvTq8JI&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFhAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Oshi No Ko - Idol [Yoasobi] (ENGLISH)</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Nordex</span><span class="X6jxid">·</span><span>Apr 19, 2023</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOUVBXVFpzQlRIUDA4Zm9TeTBrNXphMWlQZmJMZVU5QVA4QTdUOWZCMEpDclZlWFN5VElCLXNubjhfV1Zvc0ZYVHlZbGNRRThMWFZSUUh1S1U2dzhxOXI2MW41SWxyTEdWMWdsZHlEZlRUUVN6dFE5aE42UjJDMm1YaFZtOHcwRW9lM1RveFE2SEhUdjktQ3cyX0M3VUQ1c0JMTEZCcXRwZlFPaERCVzduWmNrQzdIWk00EhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNG9uVHZTT2VOX19EeGJuRmFOYld4bmtVTFAzQQ" data-async-fcv="3" data-async-ons="2679" id="fc_3">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/mnGTKvTq8JI/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3kX8jj7QNGG-u08ZBHQhxZjpX7Rjw" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIFhAU"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIFhAV"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFhAW"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBkQAA">
+</div>
+<div class="T-aT4-JX">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=":1jb" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Edit attachment with  Gratitude.m4a" jslog="84112; u014N:cOuCgd,xr6bB; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-class="a1V" aria-hidden="true" style="user-select: none; display: none;" data-tooltip="Edit with ">
+<div class="akn">
+<div class="aYt J-J5-Ji aYr">
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="aZo">
+<a id=":1jc" target="_blank" role="link" class="aQy e" href="https://drive.google.com/file/d/1YamRPrLBQCfdBPXroyoqqpHezMrHAL4l/view?usp=gmail" jslog="119523; u014N:xr6bB,cOuCgd,Kr2w4b; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0">
+<span class="a3I" id=":1jk">Preview attachment This I Believe.m4a
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1jd" style="display:none;">
+<div id=":1jf" class="aYv">
+<img class="aYw aZt" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1jj" class="aYy">
+<div class="aYA">
+<img id=":1jh" class="aSM" src="https://drive-thirdparty.googleusercontent.com/16/type/audio/x-m4a" title="Audio">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1jg">This I Believe.m4a
+</span>
+</div>
+<div class="aYp">
+<span id=":1ji" class="SaH2Ve">Shared in Drive
+</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1je" class="aSJ" style="border-color: rgb(219, 68, 55);">
+</div>
+</div>
+</div>
+</a>
+<div class="aQw">
+<div id=":1jn" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Download attachment This I Believe.m4a" jslog="91252; u014N:cOuCgd,Kr2w4b,xr6bB; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0." data-tooltip-class="a1V" aria-hidden="false" aria-disabled="false" style="user-select: none;" tabindex="0" data-tooltip="Download">
+<div class="akn">
+<div class="aSK J-J5-Ji aYr">
+</div>
+</div>
+</div>
+<div id=":1jo" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Add shortcut to Drive This I Believe.m4a" jslog="54185; u014N:cOuCgd,xr6bB; 1:WyIjdGhyZWFkLWE6ci01MTU3OTY3MDQ4OTgwMDU0ODMxIixudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxbXV0.; 4:WyIjbXNnLWY6MTc2MzQ0NjU0OTE3OTY1MjIyNiIsbnVsbCxbXV0.; 43:WyIiXQ.." data-tooltip-class="a1V" aria-hidden="false" style="user-select: none;" tabindex="0" data-tooltip="Add shortcut to Drive">
+<div class="akn">
+<div class="wtScjd J-J5-Ji aYr XG">
+<div class="T-aT4" style="display: none;">
 <div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="91907081" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=vEyPvak2K9o" data-tpvid="" data-vid="vEyPvak2K9o" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=vEyPvak2K9o" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgZEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DvEyPvak2K9o&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgZEAI"><br><h3 class="LC20lb MBeuO DKV0Md">YOASOBI - 夜に駆ける / Yoru ni Kakeru (Lyric Video) - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmc cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIGRAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIGRAL"></span></div></div></div></div></div><div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:91907081,vid:vEyPvak2K9o" aria-label="YOASOBI - 夜に駆ける / Yoru ni Kakeru (Lyric Video), YouTube Midnight Soul. 4 minutes, 42 seconds. May 4, 2020." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIGRAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_12" src="data:image/jpeg;base64,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" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4" data-frt="0"></g-img></div><div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRL9X0uhedqYxIkn_SDI7msS8YAwe52g3OwiA" id="_CKZBZMupJp2j5NoP0KyakA4_35" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CBkQDg" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQnLQBegQIGRAO"></div></div></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="4 minutes, 42 seconds">4:42</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">Hey GuysGo check out our video. So if you guys like this video, please subscribe and give thumbs up. And also comment down below, which song&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Midnight Soul</span> · <span><span>May 4, 2020</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_15"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIGRAR"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIGRAS"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="YOASOBI - 夜に駆ける / Yoru ni Kakeru (Lyric Video), YouTube, Midnight Soul"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Midnight Soul</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">May 5, 2020</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=vEyPvak2K9o" aria-label="YOASOBI - 夜に駆ける / Yoru ni Kakeru (Lyric Video), YouTube, Midnight Soul" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGRAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DvEyPvak2K9o&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGRAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">YOASOBI - 夜に駆ける / Yoru ni Kakeru (Lyric Video)</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Midnight Soul</span><span class="X6jxid">·</span><span>May 5, 2020</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVGRVTHZJd05mUlFSaXAwMElyYmlKTXZuTUxxeEMxOUxZYjRVZ0N6UE1rU01mLWtPLTBNVnY4SWNwbVJuZUEtZFUzTnNGSFdJUlpzYXZIZVNTbkFaZVFzc1d5Z29wU1ltMXY4QkZWS1BXRFU2dXNqUldRS3RjbmdjVmhycU1yeTVuSFo1YVdVR0ZvZHVyNlE1OEgzMHpQY0FmdzkwdEI4cHFQZ1NEU01lTjZ2cUQ2c0tnEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNG1TMUNickhILUlvZUY0cW9kbWEwUjZRdTQ5UQ" data-async-fcv="3" data-async-ons="2679" id="fc_8">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/vEyPvak2K9o/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3ktvcoQHPvWvh5ePVqppcFRm4FLpg" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIGRAU"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIGRAV"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGRAW"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBsQAA">
-<div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="343c65d3" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=0yoM7ETNPIY" data-tpvid="" data-vid="0yoM7ETNPIY" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=0yoM7ETNPIY" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgbEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D0yoM7ETNPIY&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgbEAI"><br><h3 class="LC20lb MBeuO DKV0Md">YOASOBI「セブンティーン」Official Music Video - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmg cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIGxAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIGxAL"></span></div></div></div></div></div><div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:343c65d3,vid:0yoM7ETNPIY" aria-label="YOASOBI「セブンティーン」Official Music Video, YouTube Ayase / YOASOBI. 3 minutes, 37 seconds. 3 weeks ago." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIGxAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_15" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4"></g-img></div><div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTbj4h-pQbFakIEdBHDSk8t5TWbN2HVwT4v1A" id="_CKZBZMupJp2j5NoP0KyakA4_38" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CBsQDg" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQnLQBegQIGxAO"></div></div></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 37 seconds">3:37</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">Streaming &amp; Download : https://orcd.co/yoasobi_seventeenMusic : Ayase (https://twitter.com/ayase_0404)Vocal : ikura&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>Ayase / YOASOBI</span> · <span><span>3 weeks ago</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_17"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIGxAR"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIGxAS"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="YOASOBI「セブンティーン」Official Music Video, YouTube, Ayase / YOASOBI"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">Ayase / YOASOBI</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Mar 27, 2023</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=0yoM7ETNPIY" aria-label="YOASOBI「セブンティーン」Official Music Video, YouTube, Ayase / YOASOBI" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGxAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D0yoM7ETNPIY&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGxAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">YOASOBI「セブンティーン」Official Music Video</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>Ayase / YOASOBI</span><span class="X6jxid">·</span><span>Mar 27, 2023</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVHEtVC1EemU1ek1JNG9sU2VFbDVXcFRuTXFYWnUyN2I2eVNMX0QyT3VoREp2VzUxN3hxNmp1YXk4YXd0X0owVV9GQW5DTmMyek1oeU9jWFpYVzA2cFJZWk9kUS1JTGZRWUVJTWtJMjUtSF9MX1JUWEYwM2RpUGp0Vi1pQkZpQUhGZGZVU1U0QjNPOWFHRlVwdUpzMDRLZEtsQXpRRGZDVkJpZWxOMEVhblZaUDlnX2pVEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsN1JSUksyWXVHRWRrUERka2o1WGNzN19na0wxdw" data-async-fcv="3" data-async-ons="2679" id="fc_9">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/0yoM7ETNPIY/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3nM7w33MPoCQrdZTbXed2oJofcp-w" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIGxAU"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIGxAV"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGxAW"></div></div></div></div></div></div></div></div></div></div><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBUQAA">
-<div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="5cb46ac9" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=7P42Qjcl8qA" data-tpvid="" data-vid="7P42Qjcl8qA" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=7P42Qjcl8qA" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgVEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D7P42Qjcl8qA&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgVEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Oshi no Ko - Opening Full『IDOL』by YOASOBI (Lyrics)</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmM cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIFRAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIFRAL"></span></div></div></div></div></div><div class="dXiKIc" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:5cb46ac9,vid:7P42Qjcl8qA" aria-label="Oshi no Ko - Opening Full『IDOL』by YOASOBI (Lyrics), YouTube SoundNime. 3 minutes, 36 seconds. 2 days ago." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIFRAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_3" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4"></g-img></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="3 minutes, 36 seconds">3:36</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid">Oshi no Ko opening Theme "IDOL" by YOASOBITV Anime "Oshi no Ko" Opening&nbsp;...</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>SoundNime</span> · <span><span>2 days ago</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_7"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIFRAQ"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIFRAR"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="Oshi no Ko - Opening Full『IDOL』by YOASOBI (Lyrics), YouTube, SoundNime"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">SoundNime</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Apr 18, 2023</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=7P42Qjcl8qA" aria-label="Oshi no Ko - Opening Full『IDOL』by YOASOBI (Lyrics), YouTube, SoundNime" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFRAS" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3D7P42Qjcl8qA&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFRAS"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Oshi no Ko - Opening Full『IDOL』by YOASOBI (Lyrics)</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>SoundNime</span><span class="X6jxid">·</span><span>Apr 18, 2023</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVHBkSjgzanFKYWxmZzRtLTVLcE5zRnh1TTZDbDhVcmtyYkpXdmZIZnR0cXJtbFlUekRmNlFLY0pNQ0JvLVhwYzFBLS1qSzQ5TTkxcjJlTE5pd2dGZXBzY1VPZDhYU3VPZDYxcXF0ZjVSTXJhS3Fkdng3VVFHZXRLVjF0bVB6Y1o5Yk91bTE5eW9JWlFkOEI0QXMzX2xablNPT2xXUU1uV1M3RzBqRkJKemlaSWF5TWpBEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNXllQUs1cnVSUHVNYkZ4MmVWS1hpa052Rm9FQQ" data-async-fcv="3" data-async-ons="2679" id="fc_4">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/7P42Qjcl8qA/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3kHRY_Pl-Bh8_Ei8GfF-YFLtGRBpA" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIFRAT"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIFRAU"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIFRAV"></div></div></div></div></div></div></div></div></div></div><div class="hlcw0c"><div class="MjjYud">
-<div><div jsname="pKB8Bc" class="g dFd2Tb PhX2wd" data-hveid="CBoQAA">
-<div>
-<div><div jscontroller="rTuANe" data-ar="1.777999997138977" data-cid="82eb5674" data-eiv="1" data-esrvl="1" data-preloadapi="1" data-surl="https://www.youtube.com/watch?v=zdEuYm6VvTg" data-tpvid="" data-vid="zdEuYm6VvTg" data-vurl="" jsaction="h5M12e;rcuQ6b:npT2md;">
-<div><div class="ct3b9e"><div class="DhN8Cf"><a href="https://www.youtube.com/watch?v=zdEuYm6VvTg" jscontroller="M9mgyc" jsname="qOiK6e" jsaction="rcuQ6b:npT2md" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgaEAI" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DzdEuYm6VvTg&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQtwJ6BAgaEAI"><br><h3 class="LC20lb MBeuO DKV0Md">Metal Vocalist First Time Reaction to - Oshi No Ko OP - YouTube</h3><div class="TbwUpd NJjxre iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd Vwoesf" aria-hidden="true"><img class="XNo5Ab" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA3ElEQVR4Ae2WIQzDIBBFEdPV6Ip6L2Y3Me9NMzuB98GbWrysqHf1otWYismm+vYFTRCEhXXjJrjkmSslLwHgi8vjxkoRKAL/J0BCSHAHGhjQgxHMwIKnY/Px+taNHd2/Bmg3p4wKuIH0Y1RQAB+ugDJxDgn0GQVMSMBmFJhDApSTYwLLQtR13xNAo0oWINS6ErXtpxInX0CmC3g1TURNkypQ+QL1IYG9hiFFRPIL8C8B/ybkO4bsFxH7Vcz+GLE/x5yBRL+LZDVQkTi2Ochn70dimQpFspKKi0AReAF/IVUTZ3/BGQAAAABJRU5ErkJggg==" style="height:18px;width:18px" alt="" data-atf="4" data-frt="0"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite></div></div></div></a><div class="B6fmyf byrV5b Mg1HEd"><div class="TbwUpd iUh30 ojE3Fb"><span class="H9lube"><div class="eqA2re NjwKYd" style="height:18px;width:18px"></div></span>
-<div><span class="VuuXrf">youtube.com</span><div class="byrV5b"><cite class="qLRx3b tjvcx GvPZzd cHaqb" role="text" style="max-width:330px">https://www.youtube.com<span class="dyjrff qzEoUe" role="text"> › watch</span></cite><div class="eFM0qc BCF2pd iUh30"></div></div></div></div><div class="csDOgf BCF2pd L48a4c"><div jscontroller="exgaYe" data-bsextraheight="0" data-darkmode="true" data-isdesktop="true" jsdata="l7Bhpb;_;CV8wmY cECq7c;_;CV8wmE" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ2esEegQIGhAK"><div role="button" tabindex="0" jsaction="RvIhPd" jsname="I3kE2c" class="iTPLzd rNSxBe lUn2nc" style="position:absolute" aria-label="About this result"><span jsname="czHhOd" class="D6lY4c mBswFe"><span jsname="Bil8Ae" class="xTFaxe z1asCe SaPW2b" style="height:18px;line-height:18px;width:18px"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"></path></svg></span></span></div><span jsname="zOVa8" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQh-4GegQIGhAL"></span></div></div></div></div></div><div class="dXiKIc" jscontroller="CCowhf" jsaction="rcuQ6b: npT2md" jsshadow=""><a href="#fpstate=ive&amp;vld=cid:82eb5674,vid:zdEuYm6VvTg" aria-label="Metal Vocalist First Time Reaction to - YOASOBI「アイドル ..., YouTube JohnReavesLive. 6 minutes, 5 seconds. 1 day ago." data-vll="" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ-JQHegQIGhAM"><div class="U1TUId" aria-hidden="true"><div jsslot="1"><g-img jsname="zccVWc"><img id="dimg_11" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="YQ4gaf zr758c" height="83" width="148" alt="" data-atf="4"></g-img></div><div jsname="DwcXhb" class="z9RGvc" style="border-radius:8px"><div class="VYkpsb" jscontroller="Fy1Pv" data-stfc="1" data-url="https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQM7AiEVv6Hc6VWGwCd4yjbhQ7Hc2-6osTZEg" id="_CKZBZMupJp2j5NoP0KyakA4_34" jsaction="rtcVre:NziyQe;hAjFqb:QKiGd;rcuQ6b:npT2md"><div jsname="haAclf" class="VYkpsb" data-hveid="CBoQDg" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQnLQBegQIGhAO"></div></div></div><div class="NqpkQc" style="border-radius:8px" aria-hidden="true"></div><div class="i5w0Le" aria-hidden="true"><span style="height:35px;line-height:35px;width:35px" class="z1asCe UIgqBe"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"></path></svg></span></div><div class="BQavlc w2wy2"><span style="height:14px;line-height:14px;width:14px" class="z1asCe St2v4d"><svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.83L15.17 9l1.41-1.41L12 3 7.41 7.59 8.83 9 12 5.83zm0 12.34L8.83 15l-1.41 1.41L12 21l4.59-4.59L15.17 15 12 18.17z"></path></svg></span></div><div class="ZWiQ5" style="bottom:0px"><div class="lR1utd"><span class="R4Cuhd"><div class="J1mWY"><div aria-label="6 minutes, 5 seconds">6:05</div></div></span></div></div></div></a><div class="mSA5Bd"><div class="Uroaid"><b>Yoasobi</b> Idol is amazing!!! I love how many change ups there are, Oshi No Ko looks great and I'd love to check it out soon!</div><div class="P7xzyf"><span class="Zg1NU">YouTube</span> · <span>JohnReavesLive</span> · <span><span>1 day ago</span></span></div></div></div><div class="WKugpe"></div></div><div style="display:none" id="evlb_13"><div jsname="av05vb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ9pQHegQIGhAR"><div jsname="faGZad" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQ95QHegQIGhAS"></div><div jsname="JJkIve">
-<div><div jsname="YbJRL" class="F9x6yb" aria-label="Metal Vocalist First Time Reaction to - YOASOBI「アイドル ..., YouTube, JohnReavesLive"><div class="O1KYjb"><img class="m3RqE" src="https://fonts.gstatic.com/s/i/productlogos/youtube/v9/192px.svg" alt=""></div><div class="XI2QBf" aria-hidden="true"><div class="sjVJQd RES9jf cHaqb">JohnReavesLive</div><div class="ApHyTb z8gr9e"><span>YouTube</span><span class="ZqmHr">·</span><div class="PLq9Je">Apr 18, 2023</div></div></div></div></div></div><div jsname="WeQmVd" class="uqGSn"><div class="hIwNKe H0vLUe"><a class="H5uxOb" href="https://www.youtube.com/watch?v=zdEuYm6VvTg" aria-label="Metal Vocalist First Time Reaction to - YOASOBI「アイドル ..., YouTube, JohnReavesLive" jsaction="trigger.sCcL9b" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGhAT" ping="/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.youtube.com/watch%3Fv%3DzdEuYm6VvTg&amp;ved=2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGhAT"><div class="cDcsmb" aria-hidden="true"><h1 class="WQWxe RES9jf gsrt">Metal Vocalist First Time Reaction to - YOASOBI「アイドル ...</h1></div><div class="WPRipc" aria-hidden="true"><span class="X7U9C HxZiqe"></span><span class="ayU3n">YouTube</span><span class="X6jxid">·</span><span>JohnReavesLive</span><span class="X6jxid">·</span><span>Apr 18, 2023</span></div></a></div></div><div jsname="N4J2sf">
-<div></div></div><div jsname="KtM8D" class="SPo9yc"><div class="nS4eBd"><div jsname="GRaaMd" style="opacity:0;display:none"><div jsname="EyRCvc" class="yp" data-async-fc="EvcBCrcBQUVzN2pOVHJ2V1NQUlVzUUgtcDh4Ykx1aFZxZFBqQVhaS3ljRkRRTWhnNVlseUU0blJVTDhOQ3NydVdFOHJkcVdSRV9heFFKRUF5MUpiR2NOV1VhbTJVMDNLbGtZMUdsWWxSU1RsSTFEMkhJT0xrbHJMM3FVOEw3Q1k5bEVtX251QXFsT3VFX0RSOE82T05RV3dWUDJLX2pqaUtybHFSWGJwUVNGQ3B0Rm55M2ZFaDVzQXVRMXNZEhdDS1pCWk11cEpwMmo1Tm9QMEt5YWtBNBoiQU8tMHJsNXBJN0FVZUlnT1VIU2dTbF9fU0dscEVMRlpwZw" data-async-fcv="3" data-async-ons="2679" id="fc_7">
-<div></div></div></div></div></div><div jsname="FvylMd" class="tA3WHf"><div class="mbPD8c"><img class="aLL3sb" src="https://i.ytimg.com/vi/zdEuYm6VvTg/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&amp;rs=AMzJL3lJ0EZG02lY6m-9J_74XcCDnsuFUg" alt="" aria-hidden="true"></div></div><div jsname="RB2wHd" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQgogFegQIGhAU"><div jsname="UqHlMb" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQhIgFegQIGhAV"></div><div jsname="jrH4Ac" data-ved="2ahUKEwjLzeS9q7n-AhWdEVkFHVCWBuIQz40FegQIGhAW"></div></div></div></div></div></div></div></div></div></div></div></div>
+</div>
+<div class="T-aT4-JX">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id=":1jp" class="T-I J-J5-Ji aQv T-I-ax7 L3" role="button" aria-label="Edit attachment with  This I Believe.m4a" jslog="84112; u014N:cOuCgd,xr6bB; 43:WyIiLG51bGwsdHJ1ZV0." data-tooltip-class="a1V" aria-hidden="true" style="user-select: none; display: none;" data-tooltip="Edit with ">
+<div class="akn">
+<div class="aYt J-J5-Ji aYr">
+</div>
+</div>
+</div>
+</div>
+</span>
+<span class="aZo">
+<a id=":1jq" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=H8F3I05ZXW0&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="You Make Me Brave - Bethel Music Kids | Come Alive">
+<span class="a3I" id=":1jy">Preview YouTube video You Make Me Brave - Bethel Music Kids | Come Alive
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1jr" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1jt" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1jx" class="aYy">
+<div class="aYA">
+<img id=":1jv" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1ju">You Make Me Brave - Bethel Music Kids | Come Alive
+</span>
+</div>
+<div class="aYp">
+<span id=":1jw" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1js" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<span class="aZo">
+<a id=":1k1" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=Y0dQbfbSW0Q&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="To God Be the Glory | Roar VBS | Group Publishing">
+<span class="a3I" id=":1k9">Preview YouTube video To God Be the Glory | Roar VBS | Group Publishing
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1k2" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1k4" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1k8" class="aYy">
+<div class="aYA">
+<img id=":1k6" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1k5">To God Be the Glory | Roar VBS | Group Publishing
+</span>
+</div>
+<div class="aYp">
+<span id=":1k7" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1k3" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<span class="aZo">
+<a id=":1kc" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=3rT8Re1EIQc&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="Casting Crowns - Who Am I (Official Lyric Video)">
+<span class="a3I" id=":1kk">Preview YouTube video Casting Crowns - Who Am I (Official Lyric Video)
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1kd" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1kf" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1kj" class="aYy">
+<div class="aYA">
+<img id=":1kh" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1kg">Casting Crowns - Who Am I (Official Lyric Video)
+</span>
+</div>
+<div class="aYp">
+<span id=":1ki" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1ke" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<span class="aZo">
+<a id=":1kn" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=UoHrBNTfzIs&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="Gratitude - Brandon Lake (Lyrics)">
+<span class="a3I" id=":1kv">Preview YouTube video Gratitude - Brandon Lake (Lyrics)
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1ko" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1kq" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1ku" class="aYy">
+<div class="aYA">
+<img id=":1ks" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1kr">Gratitude - Brandon Lake (Lyrics)
+</span>
+</div>
+<div class="aYp">
+<span id=":1kt" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1kp" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<span class="aZo">
+<a id=":1ky" target="_blank" role="link" class="aQy aZR e" href="https://www.youtube.com/watch?v=1mZrOeFw_wk&amp;authuser=1" data-tooltip-align="t,c" data-tooltip-class="a1V" tabindex="0" data-tooltip="Hillsong Worship - This I Believe (The Creed) (Lyrics)">
+<span class="a3I" id=":1l6">Preview YouTube video Hillsong Worship - This I Believe (The Creed) (Lyrics)
+</span>
+<div aria-hidden="true">
+<div class="aSG">
+</div>
+<div class="aVY aZn">
+<div class="aZm">
+</div>
+</div>
+<div class="aSH">
+<img class="aQG" id=":1kz" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlLDBd" style="display: none;">
+<div id=":1l1" class="aYv" style="">
+<img class="aYw" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+<div id=":1l5" class="aYy">
+<div class="aYA">
+<img id=":1l3" class="aSM" src="//ssl.gstatic.com/docs/doclist/images/mediatype/icon_2_youtube_x16.png">
+</div>
+<div class="aYz">
+<div class="a12">
+<div class="aQA">
+<span class="aV3 zzV0ie" id=":1l2">Hillsong Worship - This I Believe (The Creed) (Lyrics)
+</span>
+</div>
+<div class="aYp">
+<span id=":1l4" class="SaH2Ve">
+</span>
+</div>
+</div>
+<div class="a11">
+<img class="aZS" src="//ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif">
+</div>
+</div>
+</div>
+</div>
+<div class="aSI">
+<div id=":1l0" class="aSJ" style="border-color: #777">
+</div>
+</div>
+</div>
+</a>
+</span>
+<span class="aZo">
 """

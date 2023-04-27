@@ -7,7 +7,6 @@ from Logger import log
 
 #declarations
 url = "https://ytmp3.nu/7/youtube-to-mp3"
-googleUrl = "https://www.google.com/search?q=hillsong%20site%3Ayoutube.com"
 videoUrlBase = "https://www.youtube.com/watch?v="
 enter = u'\ue007'
 videos = []
@@ -56,7 +55,8 @@ def runDownloadLoop(driver, directory, videos):
         log("Creating directory {}".format(directory))
         makedirs(directory)
         
-    i = len(listdir(directory))
+    i = 0
+    #i = len(listdir(directory))
     for video in videos:
         log("Cycle " + str(i))
         #the video url is the playlist url without the index and the video id
@@ -97,9 +97,11 @@ def getDirectory(artist):
     log("Setting directory to {}".format(result))
     return result
 
-def download(driver = None, html = "", directory = "C:\\Users\\nathaniel\\Downloads\\Music"):
+def download(driver = None, html = "", directory = ""):
     log("Getting driver")
     if driver == None:
+        if directory == None or directory == "":
+            directory = getDirectory('test')
         headless = input("Run headless? (y/n): ").lower() == "y"
         driver = getDriver(wait, directory, headless)
 
@@ -133,6 +135,8 @@ def download(driver = None, html = "", directory = "C:\\Users\\nathaniel\\Downlo
 
     try:
         i = runDownloadLoop(driver, directory, videos)
+        log("Downloaded {} songs".format(i))
+        log("Completed.")
 
     except Exception as e:
         log("Error on cycle " + str(i))
