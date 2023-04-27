@@ -1,4 +1,4 @@
-from os import listdir
+from os import listdir, mkdir, path as p
 from selenium.webdriver.common.by import By
 from ScrapeLinks import getVideoIds
 from HtmlFile import getHtml
@@ -15,15 +15,20 @@ videoUrlBase = "https://www.youtube.com/watch?v="
 html = ""
 videos = []
 wait = 15
-directory = r"C:\Users\nathaniel\Downloads\Music\Beethoven Piano Sonatas"
+directory = r"Music"
 headless = False
 
 if __name__ == "__main__":
     try:
         
-
+        #get path by finding local environment download folder and appending "directory" to it
+        path = r"C:\Users\{}\Downloads\{}".format(listdir(r"C:\Users")[1], directory)
+        #if folder doesn't exist, create it
+        if not p.exists(path):
+            log("Creating directory: " + path)
+            mkdir(path)
         #if user inputs "y", add headless option
-        driver = getDriver(wait, directory, True)
+        driver = getDriver(wait, path, True)
         html = getHtml()
         if html == "":
             # use the code in ScrapeLinks.py to get the video ids
@@ -50,23 +55,19 @@ if __name__ == "__main__":
 
         try:
             #index starts at the number of files in the download directory, so skip downloading them again
-            i = len(listdir(directory))
+            i = len(listdir(path))
             processes = []
             for video in videos:
                 try:
                     log("Cycle {} of {}".format(i + 1, count))
                     #use Process to start openNewDriverAndDownload(url, video) in a new process
-                    p = Process(target=openNewDriverAndDownload, args=(url, video, wait, directory, headless))
-                    processes.append(p)
+                    openNewDriverAndDownload(url, video, wait, path, headless)
                     i += 1
                 except KeyboardInterrupt:
                     log("Program has been interrupted.")
                     exit()
                 except:
                     continue
-            for p in processes:
-                p.start()
-                p.join()
             log("Program has completed successfully.")
         #except keyboard interrupt, print "program has been interrupted"
         except Exception as e:
@@ -80,7 +81,9 @@ if __name__ == "__main__":
         log("Program has failed.")
     finally:
         log("Closing driver and exiting.")
-        #if the driver is not null or closed, close it
-        if driver is not None:
-            driver.quit()
+        try:
+            if driver is not None:
+                driver.quit()
+        except:
+            pass
         exit()
