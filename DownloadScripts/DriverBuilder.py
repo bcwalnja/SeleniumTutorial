@@ -2,7 +2,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from Logger import log
 
-def getDriver(wait = 15, directory = r"C:\Users\nathaniel\Downloads", headless = False):
+def getDriver(wait, directory, headless):
     log("Building driver options")
     options = Options()
     options.page_load_strategy = 'normal'
