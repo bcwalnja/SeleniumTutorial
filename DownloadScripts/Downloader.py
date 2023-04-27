@@ -9,7 +9,6 @@ from Logger import log
 url = "https://ytmp3.nu/7/youtube-to-mp3"
 googleUrl = "https://www.google.com/search?q=hillsong%20site%3Ayoutube.com"
 videoUrlBase = "https://www.youtube.com/watch?v="
-directoryBase = "C:\\Users\\nathaniel\\Downloads\\Music"
 enter = u'\ue007'
 videos = []
 wait = 15
@@ -84,6 +83,14 @@ def runDownloadLoop(driver, directory, videos):
     return i
 
 def getDirectory(artist):
+    #get environment downloads directory
+    downloadsFolder = path.expanduser("~\\Downloads")
+    #if downloads folder does not contain a Music folder, create one
+    if not path.exists(downloadsFolder + "\\Music"):
+        log("Creating directory {}".format(downloadsFolder + "\\Music"))
+        makedirs(downloadsFolder + "\\Music")
+    
+    directoryBase = downloadsFolder + "\\Music"
     if artist == "" or artist == None:
         return directoryBase
     result = directoryBase + "\\" + artist
