@@ -19,28 +19,26 @@ def run():
         log("Starting MultiSearcher")
         headless = input("Run headless? (y/n): ").lower() == "y"
         directory = getDirectory("")
-        driver = getDriver(wait, directory, headless)
         
         for artist in artists:
             log("Searching for {}".format(artist))
             
             url = googleUrl[0] + artist + googleUrl[1]
             log("Navigating to {}".format(url))
+            driver = getDriver(wait, directory, headless)
             driver.get(url)
             
             html = driver.page_source
             log("html line count: {}".format(len(html.splitlines())))
+            driver.close()
             
             directory = getDirectory(artist)
             log("Setting directory to {}".format(directory))
-            driver.create_options().add_experimental_option("prefs", {\
-                "profile.default_content_settings.popups": 0,\
-                "download.default_directory":directory,\
-                "download.prompt_for_download": False,\
-                "download.directory_upgrade": True })
+            driver = getDriver(wait, directory, headless)
             
             log("Starting download")
             download(driver, html, directory)
+            driver.close()
             
         log("Complete.")
     except Exception as e:
@@ -48,7 +46,6 @@ def run():
         log("Error: {}".format(e))
         log("Error: {}".format(e.__traceback__))
     finally:
-        driver.close()
         exit()
 
 if __name__ == "__main__":
