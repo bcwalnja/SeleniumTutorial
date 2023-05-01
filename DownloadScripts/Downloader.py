@@ -1,4 +1,5 @@
-from os import listdir, makedirs, path
+from os import makedirs, path
+import time
 from selenium.webdriver.common.by import By
 from ScrapeLinks import getVideoIds
 from HtmlFile import getHtml
@@ -135,7 +136,8 @@ def download(driver = None, html = "", directory = ""):
 
     try:
         i = runDownloadLoop(driver, directory, videos)
-        log("Downloaded {} songs".format(i))
+        s = "" if i == 0 else "s"
+        log("Downloaded {} song{}".format(i, s))
         log("Completed.")
 
     except Exception as e:
@@ -143,6 +145,10 @@ def download(driver = None, html = "", directory = ""):
         print(e)
     finally:
         if __name__ == "__main__":
+            #wait three seconds to make sure all downloads are complete
+            log("Waiting 3 seconds")
+            time.sleep(3)
+            
             log("Closing driver")
             driver.quit()
             exit()
