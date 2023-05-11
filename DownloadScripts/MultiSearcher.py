@@ -9,9 +9,7 @@ googleUrl = [
     ]
 enter = u'\ue007'
 html = ""
-artists = ["Third Day",
-    "MercyMe",
-    "TobyMac",]
+artists = ["cnn trump"]
 wait = 15
 
 def run():

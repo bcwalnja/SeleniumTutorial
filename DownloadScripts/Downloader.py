@@ -102,7 +102,7 @@ def download(driver = None, html = "", directory = ""):
     log("Getting driver")
     if driver == None:
         if directory == None or directory == "":
-            directory = getDirectory('test')
+            directory = getDirectory('')
         headless = input("Run headless? (y/n): ").lower() == "y"
         driver = getDriver(wait, directory, headless)
 
