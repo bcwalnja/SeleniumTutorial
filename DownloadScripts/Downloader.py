@@ -144,10 +144,11 @@ def download(driver = None, html = "", directory = ""):
         log("Error on cycle " + str(i))
         print(e)
     finally:
+        #wait ten seconds to make sure all downloads are complete
+        log("Waiting 10 seconds")
+        time.sleep(10)
+        
         if __name__ == "__main__":
-            #wait three seconds to make sure all downloads are complete
-            log("Waiting 3 seconds")
-            time.sleep(3)
             
             log("Closing driver")
             driver.quit()
