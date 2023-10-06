@@ -10,11 +10,17 @@ googleUrl = [
     ]
 enter = u'\ue007'
 html = ""
-artists = ["Piece of Heaven",
-    "Knit Together",
-    "Masterpiece",
-    "Your Body Is a Temple",
-    "Let It Shine Reprise"]
+artists = ["LET IT HAPPEN",
+    "NATIVE TONGUE",
+    "Al I I NEED",
+    "VOICES",
+    "DIG NEW STREAMS",
+    "JOY INVINCIBLE",
+    "PRODIGAL SOUL",
+    "THE HARDEST ART",
+    "WONDERFUL FEELING",
+    "TAKE MY FIRE",
+    "THE STRENGTH TO Let Go"]
 wait = 15
 
 def run():
