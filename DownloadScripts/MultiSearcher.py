@@ -1,3 +1,4 @@
+from os import makedirs, path
 from ScrapeLinks import getVideoIds
 from DriverBuilder import getDriver
 from Logger import log
@@ -10,24 +11,26 @@ googleUrl = [
     ]
 enter = u'\ue007'
 html = ""
-artists = ["LET IT HAPPEN",
-    "NATIVE TONGUE",
-    "Al I I NEED",
-    "VOICES",
-    "DIG NEW STREAMS",
-    "JOY INVINCIBLE",
-    "PRODIGAL SOUL",
-    "THE HARDEST ART",
-    "WONDERFUL FEELING",
-    "TAKE MY FIRE",
-    "THE STRENGTH TO Let Go"]
+artists = ["Switchfoot LET IT HAPPEN",
+    "Switchfoot NATIVE TONGUE",
+    "Switchfoot Al I I NEED",
+    "Switchfoot VOICES",
+    "Switchfoot DIG NEW STREAMS",
+    "Switchfoot JOY INVINCIBLE",
+    "Switchfoot PRODIGAL SOUL",
+    "Switchfoot THE HARDEST ART",
+    "Switchfoot WONDERFUL FEELING",
+    "Switchfoot TAKE MY FIRE",
+    "Switchfoot THE STRENGTH TO Let Go"]
 wait = 15
 
 def run():
     try:
         log("Starting MultiSearcher")
         headless = input("Run headless? (y/n): ").lower() == "y"
-        directory = getDirectory("")
+
+        folderName = input("Enter the name of the folder you want to download to: ")
+        directory = getDirectory(folderName)
         
         for artist in artists:
             log("Searching for {}".format(artist))
@@ -49,8 +52,6 @@ def run():
                 html = "youtube.com/watch?v=" + links[0] + \
                 "\n" + "youtube.com/watch?v=" + links[1]
             
-            # directory = getDirectory(artist)
-            directory = "Heaven in Your Home"
             log("Setting directory to {}".format(directory))
             driver = getDriver(wait, directory, headless)
             
@@ -65,6 +66,22 @@ def run():
         log("Error: {}".format(e.__traceback__))
     finally:
         exit()
+        
+def getDirectory(artist):
+    #get environment downloads directory
+    downloadsFolder = path.expanduser("~\\Downloads")
+    #if downloads folder does not contain a Music folder, create one
+    if not path.exists(downloadsFolder + "\\Music"):
+        log("Creating directory {}".format(downloadsFolder + "\\Music"))
+        makedirs(downloadsFolder + "\\Music")
+    
+    directoryBase = downloadsFolder + "\\Music"
+    if artist == "" or artist == None:
+        return directoryBase
+    result = directoryBase + "\\" + artist
+    log("Setting directory to {}".format(result))
+    return result
+
 
 if __name__ == "__main__":
     run()

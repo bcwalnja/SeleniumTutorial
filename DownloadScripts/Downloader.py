@@ -100,11 +100,14 @@ def getDirectory(artist):
 
 def download(driver = None, html = "", directory = ""):
     log("Getting driver")
+    if directory == None or directory == "":
+        folderName = input("Enter the name of the folder you want to download to: ")
+        directory = getDirectory(folderName)
     if driver == None:
-        if directory == None or directory == "":
-            directory = getDirectory('')
         headless = input("Run headless? (y/n): ").lower() == "y"
         driver = getDriver(wait, directory, headless)
+    
+        
 
     
     if html == None or html == "":
