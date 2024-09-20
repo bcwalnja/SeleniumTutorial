@@ -11,17 +11,25 @@ googleUrl = [
     ]
 enter = u'\ue007'
 html = ""
-artists = ["Switchfoot LET IT HAPPEN",
-    "Switchfoot NATIVE TONGUE",
-    "Switchfoot Al I I NEED",
-    "Switchfoot VOICES",
-    "Switchfoot DIG NEW STREAMS",
-    "Switchfoot JOY INVINCIBLE",
-    "Switchfoot PRODIGAL SOUL",
-    "Switchfoot THE HARDEST ART",
-    "Switchfoot WONDERFUL FEELING",
-    "Switchfoot TAKE MY FIRE",
-    "Switchfoot THE STRENGTH TO Let Go"]
+searchTerms = [
+    "Tron Soundtrack Solar Sailer",
+    "Tron Soundtrack Rectifier",
+    "Tron Soundtrack Disc Wars",
+    "Tron Soundtrack C.L.U.",
+    "Tron Soundtrack Arrival",
+    "Tron Soundtrack Flynn Lives",
+    "Tron Soundtrack Legacy (End Titles)",
+    "Tron Soundtrack Finale",
+    "Tron Soundtrack Sea of Simulation",
+    "Tron Soundtrack ENCOM Part II",
+    "Tron Soundtrack ENCOM Part I",
+    "Tron Soundtrack Round One",
+    "Tron Soundtrack Castor",
+    "Tron Soundtrack Reflections",
+    "Tron Soundtrack Sunrise Prelude",
+    "Tron Soundtrack Father and Son",
+    "Tron Soundtrack Outlands, Part II"
+    ]
 wait = 15
 
 def run():
@@ -32,7 +40,7 @@ def run():
         folderName = input("Enter the name of the folder you want to download to: ")
         directory = getDirectory(folderName)
         
-        for artist in artists:
+        for artist in searchTerms:
             log("Searching for {}".format(artist))
             
             url = googleUrl[0] + artist + googleUrl[1]
@@ -85,3 +93,4 @@ def getDirectory(artist):
 
 if __name__ == "__main__":
     run()
+
